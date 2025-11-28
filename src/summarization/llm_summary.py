@@ -1,8 +1,7 @@
 import json
 import re
 import torch
-# from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
-
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
 def summarize_query(query: str, merged_corpus: list, claims: list):
     """
@@ -37,25 +36,32 @@ def summarize_query(query: str, merged_corpus: list, claims: list):
             "perspectives": []
         }
     
-    # Load model and tokenizer
+    # Load model, token, and tokenizer
     model_name = "meta-llama/Llama-3.1-8B-Instruct"
+
+    HF_TOKEN = "your_huggingface_token_here"  # Replace with your actual token
+
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    tokenizer = AutoTokenizer.from_pretrained(
+        model_name,
+        token=HF_TOKEN
+    )
+
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
+        token=HF_TOKEN,
         torch_dtype=torch.float16 if device == "cuda" else torch.float32,
-        device_map="auto"
-    )
+        device_map=None
+    ).to("cuda")
     
     # Create text generation pipeline
     pipe = pipeline(
         "text-generation",
         model=model,
         tokenizer=tokenizer,
-        device=0 if device == "cuda" else -1,
-        max_new_tokens=1024,
-        temperature=0.7,
+        max_new_tokens=64,
+        temperature=0.3,
         top_p=0.9
     )
     
@@ -82,13 +88,13 @@ Generate a response in JSON format with exactly this structure:
     "perspectives": [
         {{
             "claim": "First claim",
-            "perspective": "A perspective supporting or relating to the first claim, mentioning relevant document numbers in brackets like [Doc 0] [Doc 1]",
-            "evidence_docs": [list of document indices used]
+            "perspective": "A perspective supporting or relating to the first claim",
+            "evidence_docs": [list of document indices used by perspective used to support the claim]
         }},
         {{
             "claim": "Second claim",
-            "perspective": "A perspective supporting or relating to the second claim, mentioning relevant document numbers in brackets like [Doc 2] [Doc 3]",
-            "evidence_docs": [list of document indices used]
+            "perspective": "A perspective supporting or relating to the second claim",
+            "evidence_docs": [list of document indices used by perspective used to support the claim]
         }}
     ]
 }}
