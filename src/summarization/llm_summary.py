@@ -1,5 +1,6 @@
 import json
 import re
+import os
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
@@ -39,7 +40,8 @@ def summarize_query(query: str, merged_corpus: list, claims: list):
     # Load model, token, and tokenizer
     model_name = "meta-llama/Llama-3.1-8B-Instruct"
 
-    HF_TOKEN = "your_huggingface_token_here"  # Replace with your actual token
+    HF_TOKEN = os.getenv("HF_TOKEN")
+    # HF_TOKEN = "your_huggingface_token_here"  # Replace with your actual token
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
