@@ -1,3 +1,14 @@
 __pycache__/
 *.pyc
 *.csv
+
+# Environment files (API keys)
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

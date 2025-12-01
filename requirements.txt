@@ -1,0 +1,11 @@
+# LLM APIs
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# ML/Deep Learning (for summarization with Llama)
+torch>=2.0.0
+transformers>=4.35.0
+
+# NLP/Retrieval
+scikit-learn>=1.0.0
+numpy>=1.24.0
