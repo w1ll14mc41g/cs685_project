@@ -111,11 +111,12 @@ End with the total score using this format: "Rating: [[number]]" (for example, "
     response = client.chat.completions.create(
         model=model,
         messages=[{"role": "user", "content": prompt}],
-        temperature=0.1,
-        max_tokens=800
     )
     
-    response_text = response.choices[0].message.content
+    response_text = response.choices[0].message.content or ""
+    
+    if not response_text:
+        return {"error": "Empty response from API", "total_score": 0, "raw_response": ""}
     
     # Parse scores
     result = {"raw_response": response_text}
