@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 *.csv
+.venv/
 
 # Environment files (API keys)
 .env
@@ -12,3 +13,4 @@ __pycache__/
 
 # OS
 .DS_Store
+
