@@ -67,7 +67,7 @@ def main():
 
     # Go over each query, should be from title section for theperspective
     results = []
-    for i, entry in enumerate(dataset):
+    for i, entry in enumerate(dataset[:5]):
         query_text = entry["query"]
         print("\n")
         # could remove query: text
@@ -76,8 +76,6 @@ def main():
 
         # TF-IDF document retrieval
         local_docs = retrieve_local_docs(query_text, evidence, k=k)
-        print(len(local_docs))
-        print(local_docs)
 
         # Web retrieval
         # web_docs = search_web(query_text, k=k)

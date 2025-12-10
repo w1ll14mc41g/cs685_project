@@ -4,6 +4,28 @@ import os
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
+# Module-level cache for model and tokenizer
+_model_cache = {}
+_tokenizer_cache = {}
+
+def _load_model(model_name: str, hf_token: str):
+    """Load model and tokenizer with caching."""
+    if model_name not in _model_cache:
+        if not torch.cuda.is_available():
+            raise RuntimeError("CUDA GPU is REQUIRED but not available!")
+        
+        _tokenizer_cache[model_name] = AutoTokenizer.from_pretrained(
+            model_name,
+            token=hf_token
+        )
+        _model_cache[model_name] = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            token=hf_token,
+            dtype=torch.float16
+        ).to("cuda")
+    
+    return _model_cache[model_name], _tokenizer_cache[model_name]
+
 def summarize_query(query: str, merged_corpus: list, claims: list):
     """
     Generate multi-perspective summary using Llama-3.1-8B-Instruct
@@ -31,28 +53,11 @@ def summarize_query(query: str, merged_corpus: list, claims: list):
     if not merged_corpus or len(claims) < 2:
         return []
     
-    # Load model, token, and tokenizer
+    # Load model and tokenizer (cached on first call)
     model_name = "meta-llama/Llama-3.2-3B-Instruct"
-
-    if not torch.cuda.is_available():
-        raise RuntimeError("CUDA GPU is REQUIRED but not available!")
-
-    # device = 0 if torch.cuda.is_available() else -1
-    # model_name = "meta-llama/Llama-3.1-8B-Instruct"
-
     HF_TOKEN = os.getenv("HF_TOKEN")
-    # HF_TOKEN = "your_huggingface_token_here"  # Replace with your actual token
     
-    tokenizer = AutoTokenizer.from_pretrained(
-        model_name,
-        token=HF_TOKEN
-    )
-
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        token=HF_TOKEN,
-        dtype=torch.float16
-    ).to("cuda")
+    model, tokenizer = _load_model(model_name, HF_TOKEN)
 
     # Format corpus for the prompt
     corpus_text = "\n".join([
@@ -70,33 +75,38 @@ def summarize_query(query: str, merged_corpus: list, claims: list):
 
 Query: {query}
 
-Claims:
-1. {claims[0]}
-2. {claims[1]}
-
 Documents:
 {corpus_text}
 
-The summarization should follow the requirements:
-1. Each summarization should include both positive and negative claims, only 2 claims total.
-2. The are different perspectives to the claims with their reference. The perspective should not overlap to each other.
-3. The summary content should be closely related to the query.
-4. The reference of each perspective may exceed one.
-5. The output should be in the JSON format as below:
+The summarization should adhere to the following rules:
+1. The summarization should include both a positive claim and a negative claim in response to the query.
+2. Each document corresponds to exactly one perspective.
+3. Each perspective should be a coherent, one-sentence summary of the associated document.
+4. The perspectives should not overlap with each other.
+5. The number of perspectives for each claim may exceed one.
+6. The number of supporting documents of each perspective may exceed one.
+7. The summary content should be closely related to the query.
+8. The output should be in the JSON format as below:
 [
     {{
-        "claim": "First claim",
-        "perspective": "Perspectives supporting or relating to the first claim",
-        "evidence_docs": [list of document indices used by perspective used to support the claim]
+        "claim": "Positive claim in response to the query",
+        "perspectives": [
+            {{"text": "Perspective 1 supporting the positive claim", "evidence_docs": [doc_1, doc_2, ...]}},
+            {{"text": "Perspective 2 supporting the positive claim", "evidence_docs": [doc_3, doc_4, ...]}},
+            ...
+        ]
     }},
     {{
-        "claim": "Second claim",
-        "perspective": "Perspectives supporting or relating to the second claim",
-        "evidence_docs": [list of document indices used by perspective used to support the claim]
+        "claim": "Negative claim in response to the query",
+        "perspectives": [
+            {{"text": "Perspective 1 supporting the negative claim", "evidence_docs": [doc_5, doc_6, ...]}},
+            {{"text": "Perspective 2 supporting the negative claim", "evidence_docs": [doc_7, doc_8, ...]}},
+            ...
+        ]
     }}
 ]
 
-Only respond with valid JSON, no additional text."""
+Respond ONLY with valid JSON, no additional text."""
     
     # print("prompt:", prompt)
 
@@ -105,8 +115,8 @@ Only respond with valid JSON, no additional text."""
         inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
         output_ids = model.generate(
             **inputs,
-            max_new_tokens=256,
-            temperature=0.1,
+            max_new_tokens=850,
+            temperature=0.5,
             top_p=0.9,
             do_sample=True,
             pad_token_id=tokenizer.eos_token_id
@@ -185,3 +195,4 @@ Only respond with valid JSON, no additional text."""
                 "evidence_docs": []
             }
         ]
+
