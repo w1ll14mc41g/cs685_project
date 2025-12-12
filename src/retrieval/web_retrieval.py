@@ -18,12 +18,9 @@ from tavily import TavilyClient
 
 # Load environment variables
 load_dotenv()
-
+# Set up logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
-# No on-disk caching in this module. Results persistence is handled by the
-# pipeline writer (run_pipeline.py) into the results directory.
 
 
 def _format_output(docs: list, api_k: int = None) -> dict:
