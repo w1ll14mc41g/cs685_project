@@ -14,10 +14,14 @@ from src.retrieval.web_retrieval import search_web
 
 
 def main():
-    # Command line arguments
-    # -- dataset theperspective or perspectrumx
-    # --k number for top-k, used for both TF-IDF and web retrieval
-    # usage example python run_pipeline.py --dataset theperspective --k 5
+    # Command line arguments (examples):
+    #   --dataset theperspective --offline-k 0 --online-k 10 --method tfidf --limit 10
+    # Flags:
+    #   --dataset   : theperspective | perspectrumx (perspectrumx not yet implemented)
+    #   --offline-k : top-k offline (TF-IDF) docs (currently unused in pipeline)
+    #   --online-k  : top-k web docs to retrieve via Tavily
+    #   --method    : label baked into result filename (e.g., tfidf)
+    #   --limit     : truncate dataset for quick tests
     parser = argparse.ArgumentParser(
         description="Web-Augmented Multi-Perspective Summarization Pipeline"
     )
