@@ -1,0 +1,6340 @@
+[
+  {
+    "id": "Entertainment_0",
+    "query": "Surrealist Memes: Regression or Progression?",
+    "summary": [
+      {
+        "claim": "Surrealist memes represent a progressive force in meme art",
+        "perspectives": [
+          {
+            "text": "Surrealist memes incorporate styles from Dadaism and Pop Art, reflecting a progressive dialogue between art movements.",
+            "evidence_docs": [
+              205,
+              364
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Surrealist memes represent a regressive force in meme art",
+        "perspectives": [
+          {
+            "text": "Surrealist memes lack a distinct message, evading easy understanding and challenging their audience to accept absurdity.",
+            "evidence_docs": [
+              858,
+              364
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_1",
+    "query": "Throwback TV: Friends or Seinfeld?",
+    "summary": [
+      {
+        "claim": "Friends is the more influential series",
+        "perspectives": [
+          {
+            "text": "Friends has set the bar and path for the creation of more successful sitcoms, given that Seinfeld is almost impossible to replicate.",
+            "evidence_docs": [
+              1197
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Seinfeld is the more influential series",
+        "perspectives": [
+          {
+            "text": "Seinfeld revolutionized television, making its story lines about everyday life and turning taboo issues into comic gold.",
+            "evidence_docs": [
+              867
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_2",
+    "query": "Should Gwyneth Paltrow be admired or criticized?",
+    "summary": [
+      {
+        "claim": "Gwyneth Paltrow should be admired for her efforts to promote positive change and her ability to redefine modern family structures.",
+        "perspectives": [
+          {
+            "text": "Paltrow has become even more visible by taking on more diverse roles and speaking out against gender pay inequality in Hollywood.",
+            "evidence_docs": [
+              568
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Gwyneth Paltrow should be criticized for her attempts to be relatable to the masses and her promotion of potentially harmful health trends.",
+        "perspectives": [
+          {
+            "text": "Paltrow has been accused of being condescending and patronizing in her attempts to be relatable to the common woman.",
+            "evidence_docs": [
+              352
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_3",
+    "query": "The Perspective on Reality TV",
+    "summary": [
+      {
+        "claim": "Reality TV has a negative impact on the lives of its participants",
+        "perspectives": [
+          {
+            "text": "Reality TV shows doom the couples who star in them, leading to divorce.",
+            "evidence_docs": [
+              420,
+              916
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Reality TV has a positive impact on society",
+        "perspectives": [
+          {
+            "text": "Reality TV broadens our horizons and humanizes the unknown by presenting diverse stories.",
+            "evidence_docs": [
+              420,
+              3419
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_4",
+    "query": "Should we Fight or Embrace Illegal Downloads?",
+    "summary": [
+      {
+        "claim": "We should embrace illegal downloads",
+        "perspectives": [
+          {
+            "text": "With affordable alternatives like Netflix, Amazon Prime Video, and Spotify, there's no reason to accept illegal downloads as a viable option.",
+            "evidence_docs": [
+              870,
+              620
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "We should fight illegal downloads",
+        "perspectives": [
+          {
+            "text": "File-sharers are directly responsible for damaging the music industry, with the decline in music revenues attributed to illegal file sharing.",
+            "evidence_docs": [
+              3014
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_5",
+    "query": "How Should We View Michael Jackson’s legacy?",
+    "summary": [
+      {
+        "claim": "Michael Jackson's legacy is a complex mix of both positive and negative aspects.",
+        "perspectives": [
+          {
+            "text": "Michael Jackson's impact on music videos and live performances is undeniable, as seen in his iconic works like Thriller and Black or White.",
+            "evidence_docs": [
+              416
+            ]
+          },
+          {
+            "text": "However, his behavior and controversies surrounding child abuse allegations have tarnished his legacy.",
+            "evidence_docs": [
+              961,
+              362
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Michael Jackson's legacy is primarily defined by his positive contributions to music and sports.",
+        "perspectives": [
+          {
+            "text": "Michael Jackson's innovative music videos and live performances have left a lasting impact on the entertainment industry.",
+            "evidence_docs": [
+              416
+            ]
+          },
+          {
+            "text": "Despite his achievements, his behavior and controversies have overshadowed his positive contributions.",
+            "evidence_docs": [
+              362,
+              528
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_6",
+    "query": "Disney Animated Films – Are they good for children?",
+    "summary": [
+      {
+        "claim": "Disney films are good for children",
+        "perspectives": [
+          {
+            "text": "Disney films promote social consciousness and encourage children to expand their social and cultural awareness through diverse characters.",
+            "evidence_docs": [
+              459,
+              271
+            ]
+          },
+          {
+            "text": "Disney films promote consumerist behavior and train children in the habits of consumerism through endless merchandise and marketing.",
+            "evidence_docs": [
+              462,
+              672
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Disney films are bad for children",
+        "perspectives": [
+          {
+            "text": "Disney films promote consumerist behavior and train children in the habits of consumerism through endless merchandise and marketing.",
+            "evidence_docs": [
+              462,
+              672
+            ]
+          },
+          {
+            "text": "Disney films encourage children to project emotions onto objects and buy merchandise, leading to unhealthy habits.",
+            "evidence_docs": [
+              453
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_7",
+    "query": "(Titanic) Could Jack have been saved?",
+    "summary": [
+      {
+        "claim": "Jack could have been saved",
+        "perspectives": [
+          {
+            "text": "According to Kate Winslet, there was enough space on the door for both Jack and Rose to fit.",
+            "evidence_docs": [
+              331
+            ]
+          },
+          {
+            "text": "However, Director James Cameron maintains that the script dictates Jack's fate and no amount of space can change it.",
+            "evidence_docs": [
+              464
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Jack could not be saved",
+        "perspectives": [
+          {
+            "text": "A 2012 episode of MythBusters recreated the scene in warmer surroundings, showing that the raft could have been made buoyant enough to support their combined weight.",
+            "evidence_docs": [
+              134
+            ]
+          },
+          {
+            "text": "Director James Cameron and a forensic study confirm that the door could not have supported both characters, making Jack's sacrifice heroic.",
+            "evidence_docs": [
+              722
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_8",
+    "query": "Which is better: Star Wars Vs. Star Trek?",
+    "summary": [
+      {
+        "claim": "Star Wars is better than Star Trek",
+        "perspectives": [
+          {
+            "text": "Star Wars is visually striking and stimulating to the imagination, thanks to its spectacular special effects.",
+            "evidence_docs": [
+              810
+            ]
+          },
+          {
+            "text": "George Lucas was inspired by Akira Kurosawa's Hidden Fortress, creating a fable-like battle between darkness and light.",
+            "evidence_docs": [
+              387
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Star Trek is better than Star Trek",
+        "perspectives": [
+          {
+            "text": "Star Trek tries to educate its viewers about diplomacy and understanding the other side in a conflict instead of resorting to war.",
+            "evidence_docs": [
+              394
+            ]
+          },
+          {
+            "text": "There is no chance of a major international conflict happening, according to the optimistic view of the world presented in Doc 3278.",
+            "evidence_docs": [
+              3278
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_9",
+    "query": "Is Binge-Watching a harmless or helpful activity?",
+    "summary": [
+      {
+        "claim": "Binge-watching is a harmless activity",
+        "perspectives": [
+          {
+            "text": "Binge-watching can be a harmless urge for those with an addictive personality, releasing feel-good chemical dopamine in the brain.",
+            "evidence_docs": [
+              675
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Binge-watching is a harmful activity",
+        "perspectives": [
+          {
+            "text": "Binge-watching can lead to poor sleep quality, fatigue, and depression, and is linked to a 98% amplified risk of these issues.",
+            "evidence_docs": [
+              530
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_10",
+    "query": "Is Harley Quinn a Villain or a Tragic Character?",
+    "summary": [
+      {
+        "claim": "Harley Quinn is a Villain",
+        "perspectives": [
+          {
+            "text": "Harley Quinn is a villain due to her willingness to commit crimes and abuse others, as seen in her actions in Suicide Squad.",
+            "evidence_docs": [
+              1027,
+              880
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Harley Quinn is a Tragic Character",
+        "perspectives": [
+          {
+            "text": "Harley Quinn is a tragic character due to her abusive relationship with the Joker and her desire to please him, as seen in her actions in Suicide Squad.",
+            "evidence_docs": [
+              1027,
+              2914
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_11",
+    "query": "Is Kanye West a Great Artist or a Great Marketer?",
+    "summary": [
+      {
+        "claim": "Kanye West is a Great Artist",
+        "perspectives": [
+          {
+            "text": "Kanye West is a talented artist who has created influential music, as evident from his album My Beautiful Dark Twisted Fantasy.",
+            "evidence_docs": [
+              721,
+              573
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Kanye West is a Great Marketer",
+        "perspectives": [
+          {
+            "text": "Kanye West has successfully built a brand and promoted himself as a talented artist, as seen in his career with GOOD Music.",
+            "evidence_docs": [
+              573,
+              1653
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_12",
+    "query": "Hamilton – overrated or worth the hype?",
+    "summary": [
+      {
+        "claim": "Hamilton is worth the hype",
+        "perspectives": [
+          {
+            "text": "Hamilton has been fortunate to receive unlimited accolades and great reviews, and its score and lyrics are fresh, innovative and catchy.",
+            "evidence_docs": [
+              434
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Hamilton is overrated",
+        "perspectives": [
+          {
+            "text": "Hamilton has been fortunate to receive unlimited accolades and great reviews, but not everyone wants to pay a fortune to see the musical and some viewers might have problems following the show.",
+            "evidence_docs": [
+              1211
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_13",
+    "query": "Is Hollywood too white?",
+    "summary": [
+      {
+        "claim": "Hollywood is too white",
+        "perspectives": [
+          {
+            "text": "According to Doc 984, Hollywood casting offices underrepresent people of color, with only 26% of film roles going to minority actors.",
+            "evidence_docs": [
+              984
+            ]
+          },
+          {
+            "text": "However, Doc 772 highlights the progress made by actresses like Gwyneth Paltrow, who has taken on more diverse roles and spoken out against gender pay inequality.",
+            "evidence_docs": [
+              772
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Hollywood is not too white",
+        "perspectives": [
+          {
+            "text": "As stated in Doc 2724, white people were responsible for implementing Apartheid, and therefore, they have to deal with its consequences.",
+            "evidence_docs": [
+              2724
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_14",
+    "query": "Game of Thrones: Epic or Epic Fail?",
+    "summary": [
+      {
+        "claim": "Game of Thrones is epic",
+        "perspectives": [
+          {
+            "text": "Game of Thrones possesses a surprising amount of egalitarian themes, with women having as much authority and power as men.",
+            "evidence_docs": [
+              920
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Game of Thrones is an epic fail",
+        "perspectives": [
+          {
+            "text": "Game of Thrones can’t make up its mind about what kind of show it wants to be, resulting in a mish-mosh of supernatural elements.",
+            "evidence_docs": [
+              1105
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_15",
+    "query": "Battle of the Bonds: Daniel Craig or Sean Connery?",
+    "summary": [
+      {
+        "claim": "Daniel Craig is the better Bond",
+        "perspectives": [
+          {
+            "text": "Daniel Craig brought a darker, more interesting and psychologically complex James Bond than any previous actor, humanizing the character with his intensity and vulnerability.",
+            "evidence_docs": [
+              1158
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Sean Connery is the better Bond",
+        "perspectives": [
+          {
+            "text": "Sean Connery masterfully embodied the fantasy figure of James Bond, bringing unflappable calm to the role and perfectly capturing the character's suave, aloof and untroubled persona.",
+            "evidence_docs": [
+              44
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_16",
+    "query": "Should We Cheer for Beauty Pageants or Call for Their Demise?",
+    "summary": [
+      {
+        "claim": "Beauty pageants promote unrealistic beauty standards and can be detrimental to contestants' physical and mental health.",
+        "perspectives": [
+          {
+            "text": "Beauty pageants cultivate the exact opposite ideals of body acceptance and self-love, as evident in the drastic BMI drop of contestants from 20.8 in the 1930s to 18.9 in 2010.",
+            "evidence_docs": [
+              405,
+              287
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Beauty pageants can be a lucrative opportunity for contestants, providing financial support and scholarships.",
+        "perspectives": [
+          {
+            "text": "Competing in beauty pageants can cost tens of thousands of dollars, but potential contestants can earn money from sponsors, scholarships, and prizes.",
+            "evidence_docs": [
+              1123,
+              372
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_19",
+    "query": "How great is ‘great literature’ if it needs to be studied to be understood?",
+    "summary": [
+      {
+        "claim": "Great Literature is a valuable resource for personal growth and self-discovery",
+        "perspectives": [
+          {
+            "text": "Through studying Great Literature, readers can gain a deeper understanding of themselves and the world around them.",
+            "evidence_docs": [
+              904,
+              579
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Great Literature can be alienating and inaccessible to many readers",
+        "perspectives": [
+          {
+            "text": "The study of Great Literature can divide readers into two camps: those who get it and those who don",
+            "evidence_docs": [
+              244
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_20",
+    "query": "Back to the Future: Musical or Movie. Which is better?",
+    "summary": [
+      {
+        "claim": "The movie is better than the musical",
+        "perspectives": [
+          {
+            "text": "The movie has more action scenes and easter eggs compared to the stage version.",
+            "evidence_docs": [
+              293
+            ]
+          },
+          {
+            "text": "The story was originally written for film and not for the stage, with an expansive canvas in mind.",
+            "evidence_docs": [
+              293
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The musical is better than the movie",
+        "perspectives": [
+          {
+            "text": "The stage production keeps the theme of existing pop hits weaved into a story that happens in 1900.",
+            "evidence_docs": [
+              824
+            ]
+          },
+          {
+            "text": "The show doesn't feel like a 'jukebox musical' whose storyline has been bent to fit specific songs.",
+            "evidence_docs": [
+              824
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_21",
+    "query": "Does Nicki Minaj Empower or Objectify women?",
+    "summary": [
+      {
+        "claim": "Nicki Minaj empowers women",
+        "perspectives": [
+          {
+            "text": "Nicki Minaj's performances exemplify female empowerment by making it acceptable for women to shed their inhibitions and enjoy men's bodies.",
+            "evidence_docs": [
+              1171
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Nicki Minaj objectifies women",
+        "perspectives": [
+          {
+            "text": "Minaj enforces sexist stereotypes suggesting that a woman's value is directly proportional to how she looks and how men judge and assess her attractiveness.",
+            "evidence_docs": [
+              257,
+              98
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_23",
+    "query": "Moulin Rouge or Mr. Saturday Night: Which Is The Hottest Ticket on Broadway?",
+    "summary": [
+      {
+        "claim": "Moulin Rouge is the hottest ticket on Broadway",
+        "perspectives": [
+          {
+            "text": "Moulin Rouge offers countless breathtaking moments that are etched into the spectator's mind.",
+            "evidence_docs": [
+              270
+            ]
+          },
+          {
+            "text": "This show is a great spectacle with grand sets, lighting, and costumes.",
+            "evidence_docs": [
+              270
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Moulin Rouge is not the hottest ticket on Broadway",
+        "perspectives": [
+          {
+            "text": "You can spend only $99 on a good seat to Wicked or The Lion King, which outdo Hamilton in scenery/spectacle department.",
+            "evidence_docs": [
+              1167
+            ]
+          },
+          {
+            "text": "Hamilton has long been the most expensive ticket out there, by a wide margin.",
+            "evidence_docs": [
+              1167
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_24",
+    "query": "Should Celebrities Expect Privacy?",
+    "summary": [
+      {
+        "claim": "Celebrities should be allowed to live a certain part of their lives in privacy and seclusion from press intrusion",
+        "perspectives": [
+          {
+            "text": "Celebrities should be allowed to live a certain part of their lives in privacy and seclusion from press intrusion, as their privacy is just as important as ours",
+            "evidence_docs": [
+              3965
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Celebrities should not be entitled to privacy",
+        "perspectives": [
+          {
+            "text": "Celebrities should not be entitled to privacy, as their profession requires them to be in the public eye",
+            "evidence_docs": [
+              396
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_25",
+    "query": "Do Artists with seriously questionable morals deserve fame?",
+    "summary": [
+      {
+        "claim": "Artists with questionable morals deserve fame",
+        "perspectives": [
+          {
+            "text": "Artists rely on their creative output to support themselves, and existing copyright laws recognize this fact (Doc 1618).",
+            "evidence_docs": [
+              1618
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Artists with questionable morals do not deserve fame",
+        "perspectives": [
+          {
+            "text": "Successful artists become complacent and waste time defending their work, rather than creating new ones (Doc 1590).",
+            "evidence_docs": [
+              1590
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_26",
+    "query": "The Perspective on Comic-Con: Is It Worth Attending?",
+    "summary": [
+      {
+        "claim": "Comic-Con is worth attending for its self-expression and creativity",
+        "perspectives": [
+          {
+            "text": "Comic-Con provides a safe space for attendees to express themselves freely, as stated by Jeremy Renaud (Doc 537).",
+            "evidence_docs": [
+              537
+            ]
+          },
+          {
+            "text": "Comic-Con celebrates creativity and individuality, inspiring a growing affirmation of self-expression (Doc 537).",
+            "evidence_docs": [
+              537
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Comic-Con has become too mainstream and watered down",
+        "perspectives": [
+          {
+            "text": "Comic-Con has become increasingly mainstream, attracting crowds addicted to celebrity rather than comic books (Doc 793).",
+            "evidence_docs": [
+              793
+            ]
+          },
+          {
+            "text": "The event is getting watered down, with more Hollywood and TV stars promoting their movies and shows (Doc 793).",
+            "evidence_docs": [
+              793
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_27",
+    "query": "Is slam an accepted form of poetry?",
+    "summary": [
+      {
+        "claim": "Slam is a form of poetry that enhances the world of poetry",
+        "perspectives": [
+          {
+            "text": "Slam poetry is a step back into more traditional kinds of formal poetry, embracing musical texture and rhyme.",
+            "evidence_docs": [
+              399
+            ]
+          },
+          {
+            "text": "Slam poetry provides a way to effectively communicate emotions through the human voice.",
+            "evidence_docs": [
+              972
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Slam is not a form of poetry",
+        "perspectives": [
+          {
+            "text": "Slam seems to be closer to other modes of artistic expression than to poetry.",
+            "evidence_docs": [
+              939
+            ]
+          },
+          {
+            "text": "Slam may only be able to convey a specific set of emotions, limiting its use.",
+            "evidence_docs": [
+              923
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "Entertainment_28",
+    "query": "Does Fox News add balance or propaganda to the media landscape?",
+    "summary": [
+      {
+        "claim": "Fox News adds balance to the media landscape",
+        "perspectives": [
+          {
+            "text": "Fox News has been criticized for making light of the January 6 capitol riots and has a history of inaccurate reporting, with 60% of statements made on the network rated Mostly False or False by Politifact.",
+            "evidence_docs": [
+              560
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Fox News adds balance to the media landscape",
+        "perspectives": [
+          {
+            "text": "Conservatives have long disagreed with the mainstream media's liberal tilt, and Fox News provides a conservative voice to question assumed wisdom and counter perceived bias.",
+            "evidence_docs": [
+              350
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_1",
+    "query": "Is a Hotdog a Sandwich?",
+    "summary": [
+      {
+        "claim": "Is a hotdog a sandwich?",
+        "perspectives": [
+          {
+            "text": "According to the Merriam-Webster dictionary, a sandwich is defined as two or more slices of bread or a split roll having a filling in between.",
+            "evidence_docs": [
+              3
+            ]
+          },
+          {
+            "text": "The Merriam-Webster dictionary defines a sandwich as two or more slices of bread or a split roll having a filling in between.",
+            "evidence_docs": [
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Is a hotdog a sandwich?",
+        "perspectives": [
+          {
+            "text": "A hotdog is a type of sandwich, as it consists of a filling placed between two slices of bread.",
+            "evidence_docs": [
+              1,
+              5
+            ]
+          },
+          {
+            "text": "Hotdogs hail from the sausage-loving societies of central Europe, and their origins are distinctly different from the English origins of the sandwich.",
+            "evidence_docs": [
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_2",
+    "query": "Do Standardized Tests Improve Education?",
+    "summary": [
+      {
+        "claim": "Standardized tests improve education",
+        "perspectives": [
+          {
+            "text": "Standardized tests have a positive influence on student achievement, with 93% of studies showing a positive correlation.",
+            "evidence_docs": [
+              985
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Standardized tests do not improve education",
+        "perspectives": [
+          {
+            "text": "Standardized tests are astronomically expensive and take away essential resources from schools, hindering student achievement.",
+            "evidence_docs": [
+              827
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_3",
+    "query": "The Perspective on Time – Is It Linear or Cyclical?",
+    "summary": [
+      {
+        "claim": "Time is cyclical",
+        "perspectives": [
+          {
+            "text": "Time is cyclical due to the repetition of our daily time measurement systems, such as seconds into minutes, minutes into hours, and days into weeks.",
+            "evidence_docs": [
+              966,
+              166
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Time is linear",
+        "perspectives": [
+          {
+            "text": "Time is linear due to the cumulative and precise measurement of time using smartphones, atomic clocks, and other natural phenomena.",
+            "evidence_docs": [
+              981,
+              2202
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_4",
+    "query": "Milk: Is It Healthy or Harmful to Drink?",
+    "summary": [
+      {
+        "claim": "Milk is a healthy beverage choice",
+        "perspectives": [
+          {
+            "text": "Soy milk can serve as a healthy alternative to cow's milk, containing 7 grams of protein and 299 mg of calcium per cup.",
+            "evidence_docs": [
+              656
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Milk is harmful to human health",
+        "perspectives": [
+          {
+            "text": "Decades of research assert that milk may contribute to health problems, including Type 1 diabetes and coronary heart disease.",
+            "evidence_docs": [
+              117
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_6",
+    "query": "Climate Change – Act now, or question the urgency of the threat?",
+    "summary": [
+      {
+        "claim": "Climate change is a pressing global issue that requires immediate attention.",
+        "perspectives": [
+          {
+            "text": "Climate change will have devastating effects on global food production, leading to widespread famine and displacement of millions.",
+            "evidence_docs": [
+              2128,
+              2127
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Climate change is a pressing global issue that requires immediate attention.",
+        "perspectives": [
+          {
+            "text": "Fines imposed for climate change will dissuade individuals from causing further harm and help contain the threat.",
+            "evidence_docs": [
+              3366
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_7",
+    "query": "The Perspective on the Public Apology",
+    "summary": [
+      {
+        "claim": "The public apology can be a powerful tool for rehabilitation and healing",
+        "perspectives": [
+          {
+            "text": "A public apology opens the way for wide-scale rehabilitation and acknowledges the past, allowing society to rebuild.",
+            "evidence_docs": [
+              1011
+            ]
+          },
+          {
+            "text": "A public apology is an open letter saying the guilty are ready to learn and accept responsibility for their actions.",
+            "evidence_docs": [
+              729
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The public apology can be a patronizing and narcissistic attempt to transform outrage into pride",
+        "perspectives": [
+          {
+            "text": "A non-apology can attempt to transform outrage into pride, causing harm to the LGBTQ community and perpetuating stigma.",
+            "evidence_docs": [
+              689
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_9",
+    "query": "The Perspective on Political Correctness",
+    "summary": [
+      {
+        "claim": "Political correctness is a positive force for promoting inclusivity and respect.",
+        "perspectives": [
+          {
+            "text": "Political correctness is a necessary tool for promoting inclusivity and respect in society.",
+            "evidence_docs": [
+              95,
+              811
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Political correctness is a negative force that stifles free speech and promotes social cultural superiority.",
+        "perspectives": [
+          {
+            "text": "Political correctness stifles free speech and promotes social cultural superiority by alienating and belittling those who disagree.",
+            "evidence_docs": [
+              1800
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_10",
+    "query": "Is America Still Great?",
+    "summary": [
+      {
+        "claim": "America is still great",
+        "perspectives": [
+          {
+            "text": "Despite infrastructure challenges, America has a strong economy and a resilient healthcare system.",
+            "evidence_docs": [
+              401,
+              1653
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "America is not great",
+        "perspectives": [
+          {
+            "text": "America's poor infrastructure and vulnerable healthcare system make it a struggling nation.",
+            "evidence_docs": [
+              401,
+              491,
+              648
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_11",
+    "query": "Can People Change Their Minds?",
+    "summary": [
+      {
+        "claim": "People can change their minds",
+        "perspectives": [
+          {
+            "text": "People who had practiced positive self-affirmation before entering an argument were more influenced by the argument than those who had only argued, without the benefit of the self-affirmation activity.",
+            "evidence_docs": [
+              1213,
+              408
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "People can change their minds",
+        "perspectives": [
+          {
+            "text": "Many people who have eaten meat their whole lives have become vegetarians.",
+            "evidence_docs": [
+              1213,
+              408
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_12",
+    "query": "Should We Ban Unpaid Internships?",
+    "summary": [
+      {
+        "claim": "Should We Ban Unpaid Internships?",
+        "perspectives": [
+          {
+            "text": "Banning unpaid internships would lead to unregulated and unsupervised work, potentially taking advantage of interns.",
+            "evidence_docs": [
+              944
+            ]
+          },
+          {
+            "text": "Unpaid interns don",
+            "evidence_docs": [
+              284
+            ]
+          },
+          {
+            "text": "Paid interns feel more engaged and enthusiastic to give their all to the job.",
+            "evidence_docs": [
+              284
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Should We Ban Unpaid Internships?",
+        "perspectives": [
+          {
+            "text": "Unpaid internships may be bad for business as they lead to low effort and lack of loyalty.",
+            "evidence_docs": [
+              284
+            ]
+          },
+          {
+            "text": "Unpaid interns don",
+            "evidence_docs": [
+              284
+            ]
+          },
+          {
+            "text": "Paid interns are 15% less likely to be unemployed after graduation.",
+            "evidence_docs": [
+              982
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_13",
+    "query": "The Perspective on Abortion: Should it be a viable option?",
+    "summary": [
+      {
+        "claim": "Legalizing abortion would enable women to end unwanted pregnancies safely and hygienically.",
+        "perspectives": [
+          {
+            "text": "Legalizing abortion would enable women to end unwanted pregnancies safely and hygienically, as stated in Doc 1118.",
+            "evidence_docs": [
+              1118
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Legalizing abortion would lead to an increase in pregnancy-related deaths, especially among Black women.",
+        "perspectives": [
+          {
+            "text": "Legalizing abortion would lead to an increase in pregnancy-related deaths, especially among Black women, as stated in Doc 1118.",
+            "evidence_docs": [
+              1118
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_14",
+    "query": "The US coronavirus response: Have we done enough or not?",
+    "summary": [
+      {
+        "claim": "The US coronavirus response has been effective in containing the spread of the virus.",
+        "perspectives": [
+          {
+            "text": "The US has implemented various measures to contain the spread of the virus, including mask mandates and social distancing measures.",
+            "evidence_docs": [
+              1556
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The US coronavirus response has been inadequate in addressing the needs of vulnerable populations.",
+        "perspectives": [
+          {
+            "text": "The US response has been criticized for its lack of preparedness and inadequate support for vulnerable populations, such as the elderly and low-income communities.",
+            "evidence_docs": [
+              1911
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_15",
+    "query": "ADHD Diagnosis:  Too Much or Just Right?",
+    "summary": [
+      {
+        "claim": "The diagnosis of ADHD is often over-diagnosed.",
+        "perspectives": [
+          {
+            "text": "The media has made much of the rise in ADHD diagnoses, attributing it mainly to money-hungry pharmaceutical giants and lazy parents.",
+            "evidence_docs": [
+              1095
+            ]
+          },
+          {
+            "text": "A study which found that children in foster care are three times as likely to be diagnosed with ADHD also supports the notion that ADHD diagnosis may have more to do with environmental factors than the actual presence of the disorder.",
+            "evidence_docs": [
+              704
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The diagnosis of ADHD is not over-diagnosed.",
+        "perspectives": [
+          {
+            "text": "The latest version of the Diagnostic and Statistical Manual of Mental Disorders (DSM) has a significantly expanded list of diagnostic criteria, which includes behaviors most of us engage in on a daily basis.",
+            "evidence_docs": [
+              422
+            ]
+          },
+          {
+            "text": "A comparison of the DSM to the World Health Organization’s IDC, a manual whose criteria for ADHD is narrower, showed that the IDC manual led to fewer ADHD diagnoses.",
+            "evidence_docs": [
+              422
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_17",
+    "query": "Is the Body Positive Movement as Positive as it suggests?",
+    "summary": [
+      {
+        "claim": "The Body Positive Movement is a positive force in society",
+        "perspectives": [
+          {
+            "text": "The Body Positive Movement promotes self-acceptance and body positivity, encouraging individuals to love and appreciate their bodies as they are.",
+            "evidence_docs": [
+              670
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The Body Positive Movement is not as positive as it suggests",
+        "perspectives": [
+          {
+            "text": "The Body Positive Movement can be seen as promoting unrealistic beauty standards and perpetuating negative body image issues.",
+            "evidence_docs": [
+              3676
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_19",
+    "query": "Montessori: An Effective Learning Approach or a Matter of Faith?",
+    "summary": [
+      {
+        "claim": "Montessori education is effective",
+        "perspectives": [
+          {
+            "text": "Montessori environments remove stress from learning, promoting emotional and intellectual development.",
+            "evidence_docs": [
+              1228
+            ]
+          },
+          {
+            "text": "Research shows that Montessori students have better reading and math capabilities.",
+            "evidence_docs": [
+              298
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Montessori education is not effective",
+        "perspectives": [
+          {
+            "text": "The Montessori method rejects grading and testing, making it difficult to measure learning outcomes.",
+            "evidence_docs": [
+              662
+            ]
+          },
+          {
+            "text": "Montessori schools are rigid and lack flexibility, stifling creativity and social interaction.",
+            "evidence_docs": [
+              636
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_20",
+    "query": "Is Honesty the Best Policy?",
+    "summary": [
+      {
+        "claim": "Honesty is the best policy",
+        "perspectives": [
+          {
+            "text": "Honesty is the best policy for building trust and preventing health risks, as seen in the Flint water crisis (Doc 450).",
+            "evidence_docs": [
+              450
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Honesty is not always the best policy",
+        "perspectives": [
+          {
+            "text": "Honesty can wound people's feelings and harm relationships, as seen in the context of white lies (Doc 901).",
+            "evidence_docs": [
+              901
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_21",
+    "query": "Should we depend on fossil fuels or renewable energy?",
+    "summary": [
+      {
+        "claim": "Renewable energy is a more reliable and sustainable option for energy production.",
+        "perspectives": [
+          {
+            "text": "Renewable energy sources can be continually replenished through natural processes, unlike fossil fuels.",
+            "evidence_docs": [
+              105
+            ]
+          },
+          {
+            "text": "Renewable energy is already providing affordable electricity across the United States.",
+            "evidence_docs": [
+              105
+            ]
+          },
+          {
+            "text": "Renewable energy consumption surpassed coal for the first time in over 130 years in 2019.",
+            "evidence_docs": [
+              105
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Fossil fuels are a more reliable and sustainable option for energy production.",
+        "perspectives": [
+          {
+            "text": "Fossil fuels can be found in almost every country and will not be depleted any time soon.",
+            "evidence_docs": [
+              144
+            ]
+          },
+          {
+            "text": "Fossil fuels provide more reliable sources of electricity than solar and wind energy since they are not dependent on climactic conditions.",
+            "evidence_docs": [
+              144
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_22",
+    "query": "Climate Change – Act now, or question the urgency of the threat?",
+    "summary": [
+      {
+        "claim": "Climate change is a pressing global issue that requires immediate attention.",
+        "perspectives": [
+          {
+            "text": "Climate change will have devastating effects on global food production, leading to widespread famine and displacement of millions.",
+            "evidence_docs": [
+              2128,
+              2127
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Climate change is a pressing global issue that requires immediate attention.",
+        "perspectives": [
+          {
+            "text": "Fines imposed for climate change will dissuade individuals from causing further harm and help contain the threat.",
+            "evidence_docs": [
+              3366
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_23",
+    "query": "Open vs. Closed Space Work Environments",
+    "summary": [
+      {
+        "claim": "Open workspaces have several benefits, including increased collaboration and productivity.",
+        "perspectives": [
+          {
+            "text": "Open workspaces can inhibit productivity, reducing face-to-face interactions by 70% and increasing employee interruption.",
+            "evidence_docs": [
+              72,
+              713
+            ]
+          },
+          {
+            "text": "Open workspaces can foster creativity and innovation, allowing employees to think outside the box.",
+            "evidence_docs": [
+              775
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Closed workspaces have several benefits, including increased physical and emotional health safety.",
+        "perspectives": [
+          {
+            "text": "Closed workspaces provide workers with increased physical health safety, reducing the risk of exposure to germs.",
+            "evidence_docs": [
+              99,
+              775
+            ]
+          },
+          {
+            "text": "Closed workspaces can improve employees' emotional wellbeing, reducing work-related stressors.",
+            "evidence_docs": [
+              99,
+              775
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_25",
+    "query": "Comfortably Numb: The Perspective on epidurals",
+    "summary": [
+      {
+        "claim": "Epidurals are generally safe and effective for mothers.",
+        "perspectives": [
+          {
+            "text": "Epidurals pose no adverse effects to fetal health, and severe side effects for mothers are uncommon.",
+            "evidence_docs": [
+              73
+            ]
+          },
+          {
+            "text": "Epidurals are high-tech, low-dose, and focused on helping moms achieve maximum control and participation in their deliveries.",
+            "evidence_docs": [
+              73
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Epidurals can have serious side effects, including nerve damage and death.",
+        "perspectives": [
+          {
+            "text": "The side effects that can accompany any kind of general anesthetic treatment, including epidurals, range from itchy skin and day-long headaches to temporary or even permanent nerve damage, and, in exceedingly rare cases, even death.",
+            "evidence_docs": [
+              534
+            ]
+          },
+          {
+            "text": "Five percent of women report their epidurals had no effect on their pain.",
+            "evidence_docs": [
+              534
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_27",
+    "query": "Breast vs. Bottle: which is better for babies?",
+    "summary": [
+      {
+        "claim": "Breast milk is better for babies than formula",
+        "perspectives": [
+          {
+            "text": "Breast milk naturally contains all the nutrients that a child could need for the first 6 months of its life (Doc 3173).",
+            "evidence_docs": [
+              3173
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Breast milk is better for babies than formula",
+        "perspectives": [
+          {
+            "text": "Breast milk not only contains nutrients, it also contains many of the immunities that the mother has accrued in life (Doc 3174).",
+            "evidence_docs": [
+              3174
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_28",
+    "query": "The Perspective on Prom – Antiquated or Timeless?",
+    "summary": [
+      {
+        "claim": "Prom is a timeless and positive experience for teenagers",
+        "perspectives": [
+          {
+            "text": "Prom provides students a model for seizing and appreciating life\\u2019s moments, and for many teenagers, this dance may be the only moment of positive reinforcement and self-expression to fortify them before stepping into their next stage of life.",
+            "evidence_docs": [
+              1172
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Prom is a negative and stressful experience for teenagers",
+        "perspectives": [
+          {
+            "text": "An online survey showed that over a third of students view prom in a negative light, and students feel pressure regarding who to ask, what to wear, and what parties to attend afterwards.",
+            "evidence_docs": [
+              445
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_29",
+    "query": "Are Vaccines Safe or Risky for Your Kids?",
+    "summary": [
+      {
+        "claim": "Vaccines are safe for children.",
+        "perspectives": [
+          {
+            "text": "According to the World Health Organization, CDC, and FDA, vaccines are safe for children after decades of studies.",
+            "evidence_docs": [
+              187
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Vaccines can prevent the immune system from doing its job.",
+        "perspectives": [
+          {
+            "text": "Vaccines can potentially prevent the immune system from fighting off diseases, making kids more susceptible to getting sick in the long term.",
+            "evidence_docs": [
+              1229
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_31",
+    "query": "The Perspective on Circumcision",
+    "summary": [
+      {
+        "claim": "Circumcision can enhance men's sexual performance and relationship with their partner.",
+        "perspectives": [
+          {
+            "text": "Circumcision may reduce the chance of men ejaculating too early (Doc 527).",
+            "evidence_docs": [
+              527
+            ]
+          },
+          {
+            "text": "However, the removal of the foreskin can dull sensitivity in the penis (Doc 628).",
+            "evidence_docs": [
+              628
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Circumcision can reduce the chance of heterosexual men getting AIDS by 60%.",
+        "perspectives": [
+          {
+            "text": "Circumcision reduces the chance of heterosexual men getting AIDS by 60% (Doc 343).",
+            "evidence_docs": [
+              343
+            ]
+          },
+          {
+            "text": "However, the foreskin can trap fluids that contain the disease, increasing the chance of HIV infection (Doc 343).",
+            "evidence_docs": [
+              343
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_32",
+    "query": "The Perspective on Ayahuasca: Is it worth trying?",
+    "summary": [
+      {
+        "claim": "Is ayahuasca worth trying?",
+        "perspectives": [
+          {
+            "text": "Ayahuasca can lead to transformative experiences, improve mood, and help treat depression, according to studies (Doc 865).",
+            "evidence_docs": [
+              865
+            ]
+          },
+          {
+            "text": "Taking ayahuasca may even help cure addiction, with a woman recovering from severe alcoholism after using it (Doc 956).",
+            "evidence_docs": [
+              956
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Is ayahuasca worth trying?",
+        "perspectives": [
+          {
+            "text": "Ayahuasca can cause psychotic episodes, including paranoia and suicidal ideation, particularly in people with mental illness (Doc 355).",
+            "evidence_docs": [
+              355
+            ]
+          },
+          {
+            "text": "The risk of psychotic episodes can be mitigated with a safe and guided ceremony, as in a typical ayahuasca use (Doc 1056).",
+            "evidence_docs": [
+              1056
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_33",
+    "query": "The Perspective on Physician-Assisted Suicide",
+    "summary": [
+      {
+        "claim": "Physician-assisted suicide should be legal",
+        "perspectives": [
+          {
+            "text": "The right to choose to die is implicit in the right to life, and quality of life judgements are private and personal.",
+            "evidence_docs": [
+              1938
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Physician-assisted suicide should not be legal",
+        "perspectives": [
+          {
+            "text": "A physician must not be involved in deliberately harming their patient, and legalising assisted suicide places an unreasonable burden on doctors.",
+            "evidence_docs": [
+              1940
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_34",
+    "query": "Should homework be assigned in elementary school?",
+    "summary": [
+      {
+        "claim": "Homework should be assigned in elementary school",
+        "perspectives": [
+          {
+            "text": "Assigning homework can help elementary students develop a strong work ethic and prepare them for future academic success.",
+            "evidence_docs": [
+              3872
+            ]
+          },
+          {
+            "text": "Excessive homework can lead to stress, decreased motivation, and a negative attitude towards learning.",
+            "evidence_docs": [
+              532,
+              1054,
+              2271
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Homework should not be assigned in elementary school",
+        "perspectives": [
+          {
+            "text": "Elementary students are not developmentally ready for homework, which can lead to negative emotions and decreased motivation.",
+            "evidence_docs": [
+              268,
+              1054
+            ]
+          },
+          {
+            "text": "Excessive homework can prevent children from spending time with family, forming friendships, and engaging in unstructured playtime.",
+            "evidence_docs": [
+              1054,
+              2271
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_35",
+    "query": "Are Government Soda Taxes Fair?",
+    "summary": [
+      {
+        "claim": "The soda tax is a fair measure to promote public health",
+        "perspectives": [
+          {
+            "text": "A soda tax can reduce soda consumption, as shown in a John Hopkins Bloomberg School of Public Health study that suggests labels can reduce soda consumption.",
+            "evidence_docs": [
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The soda tax is an unfair restriction on consumer choice",
+        "perspectives": [
+          {
+            "text": "A soda tax infringes on Americans' rights to a free market, as our forefathers decided that America would be a democratic system built on capitalism.",
+            "evidence_docs": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_36",
+    "query": "Is There Life After Death?",
+    "summary": [
+      {
+        "claim": "There is life after death",
+        "perspectives": [
+          {
+            "text": "According to Doc 1933, death is an inevitable fact of life, and suicide is a matter of choosing the time and manner of death.",
+            "evidence_docs": [
+              1933
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "There is no life after death",
+        "perspectives": [
+          {
+            "text": "As stated in Doc 226, physics professor Sean Carroll contends that life after death is impossible due to the cessation of life.",
+            "evidence_docs": [
+              226
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_37",
+    "query": "Is Cognitive Behavioral Therapy (CBT) Effective?",
+    "summary": [
+      {
+        "claim": "Cognitive Behavioral Therapy (CBT) is effective in treating mental health issues.",
+        "perspectives": [
+          {
+            "text": "CBT helps individuals identify and change negative thought patterns and behaviors.",
+            "evidence_docs": [
+              130,
+              1026
+            ]
+          },
+          {
+            "text": "CBT can be a temporary solution for deeper issues that need to be addressed.",
+            "evidence_docs": [
+              496
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Cognitive Behavioral Therapy (CBT) is not effective in treating mental health issues.",
+        "perspectives": [
+          {
+            "text": "CBT lacks emotional support and empathy, leading to ineffective therapy.",
+            "evidence_docs": [
+              814
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_38",
+    "query": "Is Scientology a Religion?",
+    "summary": [
+      {
+        "claim": "Scientology is a religion",
+        "perspectives": [
+          {
+            "text": "Scientology shares characteristics with other religions, such as Buddhism, Hinduism, and the Abrahamic religions, and provides an origin story for the ills of man.",
+            "evidence_docs": [
+              417
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Scientology is not a religion",
+        "perspectives": [
+          {
+            "text": "Trading capital for religious guidance is as old as religion itself, and the Vatican derives income from spiritual and secular activities.",
+            "evidence_docs": [
+              404
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_39",
+    "query": "Should bible stories be regarded as history?",
+    "summary": [
+      {
+        "claim": "The Bible stories should be regarded as history.",
+        "perspectives": [
+          {
+            "text": "The Bible provides a cohesive and historically accurate account of ancient events, corroborated by multiple texts and monotheistic religions.",
+            "evidence_docs": [
+              334
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The Bible stories should not be regarded as history.",
+        "perspectives": [
+          {
+            "text": "Bible stories are often non-historical tales with moral messages, not meant to be taken as factual accounts of history.",
+            "evidence_docs": [
+              1057
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_40",
+    "query": "Should We Cheer for Beauty Pageants or Call for Their Demise?",
+    "summary": [
+      {
+        "claim": "Beauty pageants promote unrealistic beauty standards and can be harmful to contestants",
+        "perspectives": [
+          {
+            "text": "Beauty pageants cultivate the exact opposite ideals of body acceptance and self-love, as evident in the drastic BMI drop of contestants from 20.8 in the 1930s to 18.9 in 2010.",
+            "evidence_docs": [
+              405,
+              287
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Beauty pageants can be a costly and potentially scam-ridden endeavor for contestants",
+        "perspectives": [
+          {
+            "text": "Competing in beauty pageants can cost tens of thousands of dollars, with entry fees, gowns, and coaching expenses adding up quickly.",
+            "evidence_docs": [
+              1123,
+              372
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_41",
+    "query": "Can the Use of Torture Be Justified?",
+    "summary": [
+      {
+        "claim": "The use of torture can be justified in certain circumstances.",
+        "perspectives": [
+          {
+            "text": "Torture can be justified to save lives in extreme situations, as seen in Doc 264.",
+            "evidence_docs": [
+              264
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The use of torture is morally reprehensible and should not be justified.",
+        "perspectives": [
+          {
+            "text": "The use of torture undermines democracy and basic human rights, as seen in Doc 617.",
+            "evidence_docs": [
+              617
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_42",
+    "query": "Should Adopted Children Be Involved with Their Birth Families?",
+    "summary": [
+      {
+        "claim": "Should Adopted Children Be Involved with Their Birth Families?",
+        "perspectives": [
+          {
+            "text": "Adopted children who interact with their birth families feel integrated into their adoptive families and regard their adoptive parents as their mother and father.",
+            "evidence_docs": [
+              214
+            ]
+          },
+          {
+            "text": "Open adoption may reduce fear and even guilt for the birth parent(s) by allowing for the burning questions that so often accompany adoption to find real answers.",
+            "evidence_docs": [
+              1093
+            ]
+          },
+          {
+            "text": "Adoptive parents have also described the stress-reducing benefits for all, including the fact that the adopted child will never have to wonder where he/she came from, why he or she was put up for adoption, or what his/her birth family is like.",
+            "evidence_docs": [
+              1093
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Should Adopted Children Be Involved with Their Birth Families?",
+        "perspectives": [
+          {
+            "text": "Birth parents of children put up for adoption have not signed on to be parents, and their withdrawal from open adoption relationships can be devastating for children.",
+            "evidence_docs": [
+              68
+            ]
+          },
+          {
+            "text": "If birth is the crucial dividing-line we use to decide when legal personhood begins, then we should not be allowed to induce birth and then deliberately kill a foetus during that process.",
+            "evidence_docs": [
+              1491
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_43",
+    "query": "Does the Bible Lift Women Up or Tear Them Down?",
+    "summary": [
+      {
+        "claim": "The Bible lifts women up",
+        "perspectives": [
+          {
+            "text": "The Bible gives us just that, in one book, corroborating evidence from various pieces of ancient history",
+            "evidence_docs": [
+              334
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The Bible tears women down",
+        "perspectives": [
+          {
+            "text": "Women are forbidden to speak in the church, and their presence is minimized",
+            "evidence_docs": [
+              119
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_44",
+    "query": "Should Prostitution be legalized?",
+    "summary": [
+      {
+        "claim": "Prostitution should be legalized",
+        "perspectives": [
+          {
+            "text": "Regulating prostitution can ensure sex workers are safe from HIV and other STIs, as seen in countries like New Zealand.",
+            "evidence_docs": [
+              3583,
+              3585
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Prostitution should not be legalized",
+        "perspectives": [
+          {
+            "text": "Legalization can lead to human trafficking, exploitation, and increased HIV/AIDS cases, as seen in the Netherlands.",
+            "evidence_docs": [
+              427,
+              1201
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_45",
+    "query": "Should You Travel Overseas with Small Kids?",
+    "summary": [
+      {
+        "claim": "Traveling with small kids overseas is a great way to bond as a family.",
+        "perspectives": [
+          {
+            "text": "Traveling with kids overseas shows them how important they are to you.",
+            "evidence_docs": [
+              631
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Traveling with small kids overseas is physically difficult.",
+        "perspectives": [
+          {
+            "text": "Traveling with young kids overseas is physically difficult.",
+            "evidence_docs": [
+              1010
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_46",
+    "query": "Is gun control justified or an infringement of our rights?",
+    "summary": [
+      {
+        "claim": "Gun control is justified",
+        "perspectives": [
+          {
+            "text": "Gun control is justified to protect society from the negative consequences of gun ownership, as seen in the economic loss to gun clubs and the retail firearms trade.",
+            "evidence_docs": [
+              1767
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Gun control is not justified",
+        "perspectives": [
+          {
+            "text": "Gun control laws are ineffective in reducing gun violence, as seen in the rising gun and gang violence in Chicago.",
+            "evidence_docs": [
+              994
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_47",
+    "query": "Are tattoos a welcome form of self-expression or a cause of regret?",
+    "summary": [
+      {
+        "claim": "Tattoos are a welcome form of self-expression.",
+        "perspectives": [
+          {
+            "text": "Tattoos enhance self-esteem and are a right to freedom of expression.",
+            "evidence_docs": [
+              856
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Tattoos are a cause of regret.",
+        "perspectives": [
+          {
+            "text": "Many people regret getting tattoos due to changing meanings or associations.",
+            "evidence_docs": [
+              569
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_48",
+    "query": "Which Came First, the Chicken or the Egg?",
+    "summary": [
+      {
+        "claim": "The egg came before the chicken.",
+        "perspectives": [
+          {
+            "text": "According to a study from Doc 1207, chicken eggs can only form with the help of a protein found solely in the ovaries of a chicken.",
+            "evidence_docs": [
+              1207
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The egg came before the chicken.",
+        "perspectives": [
+          {
+            "text": "Eggs of other birds predated chickens by millions of years, as evidenced by the Archaeopteryx fossils from Doc 246.",
+            "evidence_docs": [
+              246
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_49",
+    "query": "Are Antidepressants a Good Solution?",
+    "summary": [
+      {
+        "claim": "Antidepressants are a good solution for depression.",
+        "perspectives": [
+          {
+            "text": "Studies show that 60-70% of depressed patients who take antidepressants respond positively, with symptoms eventually remitting (Doc 67).",
+            "evidence_docs": [
+              67
+            ]
+          },
+          {
+            "text": "Antidepressants are a non-invasive way to restore the balance of neurotransmitters in the brain, which is linked to depression (Doc 67).",
+            "evidence_docs": [
+              67
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Antidepressants are not a good solution for depression.",
+        "perspectives": [
+          {
+            "text": "The risk of relapse after discontinuing antidepressant medication is high, with 26-45% of people relapsing (Doc 196).",
+            "evidence_docs": [
+              196
+            ]
+          },
+          {
+            "text": "Antidepressants can have significant side effects, such as gastrointestinal and sexual complications, and may even increase the risk of suicidal thoughts (Doc 905).",
+            "evidence_docs": [
+              905
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_50",
+    "query": "Does Homework Help or Hinder Learning?",
+    "summary": [
+      {
+        "claim": "Homework helps learning",
+        "perspectives": [
+          {
+            "text": "Having some homework is good, but having a lot of homework isn",
+            "evidence_docs": [
+              3872
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Homework hinders learning",
+        "perspectives": [
+          {
+            "text": "Too much homework can take the enjoyment out of learning and be stressful, boring and tiring",
+            "evidence_docs": [
+              2271
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_51",
+    "query": "The Perspective on Studying Abroad",
+    "summary": [
+      {
+        "claim": "Studying abroad can boost cognitive creativity and self-confidence",
+        "perspectives": [
+          {
+            "text": "Studying abroad can boost cognitive creativity and self-confidence, as evidenced by a study that found Americans studying abroad were more open-minded and less prejudiced (Doc 1200).",
+            "evidence_docs": [
+              1200
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Studying abroad can lead to negative consequences such as increased risk-taking behavior",
+        "perspectives": [
+          {
+            "text": "Studying abroad can lead to negative consequences such as increased risk-taking behavior, as found in a survey that reported Americans studying abroad were more likely to drink in excess and use drugs (Doc 78).",
+            "evidence_docs": [
+              78
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_52",
+    "query": "Should Women Serve in Combat Units?",
+    "summary": [
+      {
+        "claim": "Women should be allowed to serve in combat units",
+        "perspectives": [
+          {
+            "text": "Women can meet the same training standards as men and be an asset to their team, as demonstrated by women leading combat units in Israel and India.",
+            "evidence_docs": [
+              221,
+              161,
+              18
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Women should not be allowed to serve in combat units",
+        "perspectives": [
+          {
+            "text": "Adding women to combat units may invite potential sexual assault and increase military sexual trauma, as seen in the high rate of sexual assault among servicewomen.",
+            "evidence_docs": [
+              452,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_53",
+    "query": "Should America adopt paid maternity leave nationwide?",
+    "summary": [
+      {
+        "claim": "America should adopt paid maternity leave nationwide",
+        "perspectives": [
+          {
+            "text": "Companies that offer paid maternity leave see a 15-20% increase in productivity and a 40% decrease in public assistance usage among employees who take leave.",
+            "evidence_docs": [
+              1189
+            ]
+          },
+          {
+            "text": "Paid maternity leave can harm job prospects for women, as businesses may avoid hiring them to save on costs.",
+            "evidence_docs": [
+              468
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "America should not adopt paid maternity leave nationwide",
+        "perspectives": [
+          {
+            "text": "The cost of paying for paid maternity leave could lead to an unfair hike in payroll taxes and potentially force some parents into credit card debt.",
+            "evidence_docs": [
+              1078
+            ]
+          },
+          {
+            "text": "Employers fear that hiring young/middle-aged women will result in increased costs due to maternity leave, and equalizing paternity leave could alleviate these concerns.",
+            "evidence_docs": [
+              1500
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_55",
+    "query": "Is Color Perception a Universal Human Experience?",
+    "summary": [
+      {
+        "claim": "Color Perception is a Universal Human Experience",
+        "perspectives": [
+          {
+            "text": "Most people can distinguish millions of distinct shades of color due to the presence of three types of light receptors in the eyes (cones) optimized to detect different colors or wavelengths of light.",
+            "evidence_docs": [
+              746
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Color Perception is NOT a Universal Human Experience",
+        "perspectives": [
+          {
+            "text": "Some cultures, like the Candoshi of Peru, do not have a word for the over-arching concept of color, and may not even have specific color words.",
+            "evidence_docs": [
+              688
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_56",
+    "query": "The Perspective on Animal Testing",
+    "summary": [
+      {
+        "claim": "Positive",
+        "perspectives": [
+          {
+            "text": "Animal testing has led to the development of new drugs, such as those for Covid-19, polio, and diabetes, which have improved human lives.",
+            "evidence_docs": [
+              111,
+              1695
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Negative",
+        "perspectives": [
+          {
+            "text": "The use of animal testing is no longer necessary due to advancements in computer simulations and alternative methods, making it a redundant practice.",
+            "evidence_docs": [
+              2551,
+              1692
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_57",
+    "query": "Is Obesity a Disease?",
+    "summary": [
+      {
+        "claim": "Obesity is a disease",
+        "perspectives": [
+          {
+            "text": "According to Doc 1215, obesity is positively correlated with diseases like kidney disease, costing the US health system $173 billion a year.",
+            "evidence_docs": [
+              1215
+            ]
+          },
+          {
+            "text": "However, Doc 1202 suggests that classifying obesity as a disease may steer treatment toward drugs and surgeries, rather than diet and exercise.",
+            "evidence_docs": [
+              1202
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Obesity is not a disease",
+        "perspectives": [
+          {
+            "text": "As stated in Doc 1202, obesity can often be overcome through diet and exercise, and classifying it as a disease may diminish an obese person's sense of control.",
+            "evidence_docs": [
+              1202
+            ]
+          },
+          {
+            "text": "Doc 989 notes that physicians may be ill-equipped to advise patients on nutrition and activity's impact on health, and terming obesity a disease may relieve the stigma but not necessarily improve health outcomes.",
+            "evidence_docs": [
+              989
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_58",
+    "query": "Disney Animated Films – Are they good for children?",
+    "summary": [
+      {
+        "claim": "Disney films are good for children",
+        "perspectives": [
+          {
+            "text": "Disney films promote social consciousness and encourage children to expand their social and cultural awareness through diverse characters.",
+            "evidence_docs": [
+              459,
+              271
+            ]
+          },
+          {
+            "text": "Disney films promote consumerist behavior and train children in the habits of consumerism through endless merchandise and marketing.",
+            "evidence_docs": [
+              462,
+              672
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Disney films are bad for children",
+        "perspectives": [
+          {
+            "text": "Disney films promote consumerist behavior and train children in the habits of consumerism through endless merchandise and marketing.",
+            "evidence_docs": [
+              462,
+              672
+            ]
+          },
+          {
+            "text": "Disney films encourage children to project emotions onto objects and buy merchandise, leading to unhealthy habits.",
+            "evidence_docs": [
+              453
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_59",
+    "query": "Sigmund Freud: A timeless genius or overrated?",
+    "summary": [
+      {
+        "claim": "Freud's work has been overrated",
+        "perspectives": [
+          {
+            "text": "Freud's incomplete and subjective record taking and data collection methods have been widely criticized by modern psychologists.",
+            "evidence_docs": [
+              342,
+              681
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Freud's work has been underappreciated",
+        "perspectives": [
+          {
+            "text": "Freud's groundbreaking work in developing psychoanalysis laid the foundation for modern psychology.",
+            "evidence_docs": [
+              497,
+              154
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_60",
+    "query": "Should Holocaust Education in Schools Be Mandatory?",
+    "summary": [
+      {
+        "claim": "Mandatory Holocaust education is necessary to ensure the world remembers the Holocaust and prevents its denial.",
+        "perspectives": [
+          {
+            "text": "Many Holocaust deniers overlook the overwhelming evidence of the Holocaust, and without survivors to contradict them, the tragedy of the Holocaust is in danger of being minimized.",
+            "evidence_docs": [
+              698
+            ]
+          },
+          {
+            "text": "The lack of mandatory Holocaust education may lead to the world forgetting or denying what happened.",
+            "evidence_docs": [
+              698
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Mandatory Holocaust education may not be effective or suitable for all students.",
+        "perspectives": [
+          {
+            "text": "Curriculum constraints and the limited time in which students are allocated to explore such a broad topic may cause Holocaust education to backfire.",
+            "evidence_docs": [
+              223
+            ]
+          },
+          {
+            "text": "Research has shown that students may emerge with misinformation about the Holocaust, such as relying on harmful stereotypes.",
+            "evidence_docs": [
+              223
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_63",
+    "query": "Redshirting: Should Parents Delay Kindergarten for a Year?",
+    "summary": [
+      {
+        "claim": "Redshirting should be considered for children who are developmentally ready",
+        "perspectives": [
+          {
+            "text": "Delaying kindergarten by one year can help children develop their motor skills, emotional maturity, and mental capacity to succeed in kindergarten.",
+            "evidence_docs": [
+              294
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Redshirting may not be beneficial for all children",
+        "perspectives": [
+          {
+            "text": "Some children may not be emotionally prepared for kindergarten and may struggle with social skills and risk-taking behavior.",
+            "evidence_docs": [
+              1212
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_64",
+    "query": "Is There Life Outside Earth?",
+    "summary": [
+      {
+        "claim": "There is life outside Earth",
+        "perspectives": [
+          {
+            "text": "Around 300 million to 40 billion Earth-like planets are estimated to inhabit our galaxy, making the potential for life extremely high.",
+            "evidence_docs": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "There is no life outside Earth",
+        "perspectives": [
+          {
+            "text": "The conditions under which complex life on Earth was created are almost impossible to replicate.",
+            "evidence_docs": [
+              2,
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_65",
+    "query": "The Perspective on Having Kids",
+    "summary": [
+      {
+        "claim": "Having kids is a positive experience",
+        "perspectives": [
+          {
+            "text": "Having kids can bring immense joy and fulfillment to a family.",
+            "evidence_docs": [
+              3186
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Having kids is a negative experience",
+        "perspectives": [
+          {
+            "text": "Traveling with young kids overseas can be exhausting and demanding.",
+            "evidence_docs": [
+              1010
+            ]
+          },
+          {
+            "text": "Bullying can have severe consequences for kids, including long-term emotional trauma and even suicide.",
+            "evidence_docs": [
+              2759
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_66",
+    "query": "Is Monogamy Natural?",
+    "summary": [
+      {
+        "claim": "Monogamy is the natural choice for human cohabitation",
+        "perspectives": [
+          {
+            "text": "Humans are the only animals to practice monogamy as a lifestyle.",
+            "evidence_docs": [
+              220
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Monogamy is not the natural choice for human cohabitation",
+        "perspectives": [
+          {
+            "text": "Up to 50% of marriages experience an extramarital affair.",
+            "evidence_docs": [
+              60
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_67",
+    "query": "Service Trips Abroad: Harmful or Helpful?",
+    "summary": [
+      {
+        "claim": "Service trips abroad can be harmful.",
+        "perspectives": [
+          {
+            "text": "Volunteers often use money raised for their trips to fund their own experiences, leaving local workers without job opportunities.",
+            "evidence_docs": [
+              1013
+            ]
+          },
+          {
+            "text": "Volunteering abroad can be a way to learn new skills, meet people from other cultures, and save on expenses.",
+            "evidence_docs": [
+              907
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Service trips abroad can be helpful.",
+        "perspectives": [
+          {
+            "text": "Volunteering abroad can help discover one's purpose and passions, which may shape future career paths.",
+            "evidence_docs": [
+              907
+            ]
+          },
+          {
+            "text": "Mobile communication is useful for making life easier, including staying informed about weather and train schedules.",
+            "evidence_docs": [
+              1698
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_68",
+    "query": "Are Humans Inherently Violent?",
+    "summary": [
+      {
+        "claim": "Humans are inherently violent",
+        "perspectives": [
+          {
+            "text": "Humans have a history of violence throughout recorded history, as evident in wars, genocides, and other atrocities.",
+            "evidence_docs": [
+              2513,
+              2322
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Humans are not inherently violent",
+        "perspectives": [
+          {
+            "text": "Humans have a capacity for empathy and kindness, as seen in acts of altruism and charity.",
+            "evidence_docs": [
+              3058,
+              2409
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_69",
+    "query": "The perspective on divorce",
+    "summary": [
+      {
+        "claim": "Divorce can be beneficial for children",
+        "perspectives": [
+          {
+            "text": "A good divorce can provide kids with a calmer emotional baseline, educating them on compromise and helping them prioritize personal happiness.",
+            "evidence_docs": [
+              1134
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Divorce can have negative effects on men’s health",
+        "perspectives": [
+          {
+            "text": "Studies have found that divorce can affect men’s biological, psychological, social, and spiritual health due to their lack of social support.",
+            "evidence_docs": [
+              1103
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_70",
+    "query": "Do the benefits of crowd-sleuthing outweigh the risks?",
+    "summary": [
+      {
+        "claim": "The benefits of crowd-sleuthing outweigh the risks.",
+        "perspectives": [
+          {
+            "text": "Crowd-sleuthing has proven a strong tool for delivering justice and should therefore be encouraged.",
+            "evidence_docs": [
+              123,
+              771
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The benefits of crowd-sleuthing outweigh the risks.",
+        "perspectives": [
+          {
+            "text": "The internet seems to have a knack for convening the people with the right information in the right place.",
+            "evidence_docs": [
+              123,
+              771
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_73",
+    "query": "Should ‘Black Lives Matter’ Fight For All Lives?",
+    "summary": [
+      {
+        "claim": "Black Lives Matter should fight for all lives",
+        "perspectives": [
+          {
+            "text": "Black Lives Matter promotes the message of shared humanity, but its focus on Black Lives may create more harm than good by implying that non-Black lives matter less.",
+            "evidence_docs": [
+              135,
+              157,
+              336,
+              784
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Black Lives Matter should not fight for all lives",
+        "perspectives": [
+          {
+            "text": "Using the #AllLivesMatter slogan could show that Black Lives Matter cares for all minorities, making them less cautious about embracing their cause.",
+            "evidence_docs": [
+              135,
+              157,
+              336,
+              784
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_74",
+    "query": "The Perspective on Affirmative Action",
+    "summary": [
+      {
+        "claim": "Affirmative action creates a negative workplace for minorities",
+        "perspectives": [
+          {
+            "text": "Affirmative action creates an assumption that minorities are less qualified and inherently inferior.",
+            "evidence_docs": [
+              1396
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Affirmative action helps increase minority applications to universities",
+        "perspectives": [
+          {
+            "text": "Banning affirmative action hurts Black and Hispanic enrollment in universities.",
+            "evidence_docs": [
+              754
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_75",
+    "query": "Is the British Monarchy a worthy institution or outdated relic?",
+    "summary": [
+      {
+        "claim": "The British Monarchy is a worthy institution",
+        "perspectives": [
+          {
+            "text": "The majority of Britons express favor for the monarchy and royal family.",
+            "evidence_docs": [
+              16
+            ]
+          },
+          {
+            "text": "The fact that, even when marriage has failed to work for them once, many people wish to give it another go shows that it is still meaningful to society.",
+            "evidence_docs": [
+              1495
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The British Monarchy is an outdated relic",
+        "perspectives": [
+          {
+            "text": "Laws like the Treason Felony Act reveal the pernicious nature of the British Monarchy's past, and to an extent, its present.",
+            "evidence_docs": [
+              16
+            ]
+          },
+          {
+            "text": "The abolition of the Monarchy is an issue of liberty, equality and democracy.",
+            "evidence_docs": [
+              3083
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_76",
+    "query": "The Perspective on Botox",
+    "summary": [
+      {
+        "claim": "Botox has a positive impact on people's health",
+        "perspectives": [
+          {
+            "text": "Botox helps MS patients overcome overactive bladder muscles; it can be used to treat muscle spasms associated with cerebral palsy, eye muscle disorders, and even migraines.",
+            "evidence_docs": [
+              124
+            ]
+          },
+          {
+            "text": "A recent Botox study showed a correlation to improved self-esteem and better overall health.",
+            "evidence_docs": [
+              740
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Botox has a negative impact on society",
+        "perspectives": [
+          {
+            "text": "Doctors and patients alike report the addictive nature of Botox treatments.",
+            "evidence_docs": [
+              592
+            ]
+          },
+          {
+            "text": "Botox promotes the devaluation of merits that are unrelated to appearance.",
+            "evidence_docs": [
+              178
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_78",
+    "query": "Is it okay to lightly drink with your teenage kid(s)?",
+    "summary": [
+      {
+        "claim": "It is okay to lightly drink with your teenage kid(s)",
+        "perspectives": [
+          {
+            "text": "Allowing teens to safely taste alcohol under supervision can help prevent underage drinking and promote responsible behavior.",
+            "evidence_docs": [
+              183,
+              128
+            ]
+          },
+          {
+            "text": "Strictly forbidding alcohol can lead to rebellion and increase the risk of underage drinking.",
+            "evidence_docs": [
+              3710
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "It is not okay to lightly drink with your teenage kid(s)",
+        "perspectives": [
+          {
+            "text": "Forbidding alcohol can lead to rebellion and increase the risk of underage drinking.",
+            "evidence_docs": [
+              3710
+            ]
+          },
+          {
+            "text": "Strictly forbidding alcohol can lead to rebellion and increase the risk of underage drinking.",
+            "evidence_docs": [
+              128
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_80",
+    "query": "Should We Distribute Condoms in High Schools?",
+    "summary": [
+      {
+        "claim": "Distributing condoms in high schools is a good idea",
+        "perspectives": [
+          {
+            "text": "Providing condoms in high schools helps establish safe sex as the norm and gives teens the mandate to be responsible.",
+            "evidence_docs": [
+              1029
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Distributing condoms in high schools is a bad idea",
+        "perspectives": [
+          {
+            "text": "Condom distribution in high schools gives students a false sense of security when having sex, causing condoms to be ineffective.",
+            "evidence_docs": [
+              765
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_82",
+    "query": "The Perspective on Surrogacy",
+    "summary": [
+      {
+        "claim": "Surrogacy can be a positive experience for women",
+        "perspectives": [
+          {
+            "text": "Surrogacy can help single men and women and LGBT couples become parents, enabling at least one parent to be biologically linked to their child.",
+            "evidence_docs": [
+              520
+            ]
+          },
+          {
+            "text": "Surrogacy can create the foundation for a happier, more fulfilled life.",
+            "evidence_docs": [
+              520
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Surrogacy can be a negative experience for women",
+        "perspectives": [
+          {
+            "text": "Surrogacy can be problematic in instances where it is used by wealthier people to dominate and degrade women from lower socio-economic backgrounds.",
+            "evidence_docs": [
+              430
+            ]
+          },
+          {
+            "text": "The woman's unique childbearing capabilities are recognized and used to bring money in, often for a pittance.",
+            "evidence_docs": [
+              430
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_83",
+    "query": "Cats or Dogs: Who Makes a Better Companion?",
+    "summary": [
+      {
+        "claim": "Dogs make a better companion than cats",
+        "perspectives": [
+          {
+            "text": "Dogs are more adaptable and can form strong bonds with their owners, as shown in recent research (Doc 684)",
+            "evidence_docs": [
+              684
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Cats make a better companion than dogs",
+        "perspectives": [
+          {
+            "text": "Cats are more independent and require less attention, making them a better fit for busy owners (Doc 163)",
+            "evidence_docs": [
+              163
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_84",
+    "query": "Does Nicki Minaj Empower or Objectify women?",
+    "summary": [
+      {
+        "claim": "Nicki Minaj empowers women",
+        "perspectives": [
+          {
+            "text": "Nicki Minaj's performances exemplify female empowerment by making it acceptable for women to shed their inhibitions and enjoy men's bodies.",
+            "evidence_docs": [
+              1171
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Nicki Minaj objectifies women",
+        "perspectives": [
+          {
+            "text": "Nicki Minaj's unashamed display of her body reinforces sexist stereotypes suggesting a woman's value is directly proportional to her attractiveness.",
+            "evidence_docs": [
+              257,
+              98
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_85",
+    "query": "Should we allow smartphones in school?",
+    "summary": [
+      {
+        "claim": "Allowing smartphones in school can have both positive and negative effects.",
+        "perspectives": [
+          {
+            "text": "Smartphones can facilitate learning and access to information, as seen in documents 1008 and 576.",
+            "evidence_docs": [
+              1008,
+              576
+            ]
+          },
+          {
+            "text": "However, smartphones can also lead to distractions, cyberbullying, and exposure to inappropriate content, as highlighted in documents 192 and 2784.",
+            "evidence_docs": [
+              192,
+              2784
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Allowing smartphones in school can have negative effects.",
+        "perspectives": [
+          {
+            "text": "Smartphones can lead to distractions, cyberbullying, and exposure to inappropriate content, as seen in documents 192 and 2784.",
+            "evidence_docs": [
+              192,
+              2784
+            ]
+          },
+          {
+            "text": "Moreover, parents may struggle to monitor their children's smartphone use, as highlighted in document 192.",
+            "evidence_docs": [
+              192
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_86",
+    "query": "Get a Degree or Get A Life? What Should Follow High School?",
+    "summary": [
+      {
+        "claim": "Getting a degree is the best option for most people.",
+        "perspectives": [
+          {
+            "text": "According to Doc 2498, the average college graduate makes $570,000 more than the average high school graduate over a lifetime.",
+            "evidence_docs": [
+              2498
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Getting a degree is not the best option for everyone.",
+        "perspectives": [
+          {
+            "text": "Some people may need to drop out of high school due to personal matters or other circumstances.",
+            "evidence_docs": [
+              3418
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_87",
+    "query": "Should We Ban the Burqa?",
+    "summary": [
+      {
+        "claim": "We should ban the burqa",
+        "perspectives": [
+          {
+            "text": "Morocco's 2017 ban on the burqa was justified by security concerns, as terrorists have used the burqa to hide bombs and other weapons.",
+            "evidence_docs": [
+              380
+            ]
+          },
+          {
+            "text": "Official burqa bans could help women who might be ambivalent about removing their burqas make a decision that will better ensure their safety.",
+            "evidence_docs": [
+              27
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "We should not ban the burqa",
+        "perspectives": [
+          {
+            "text": "Wearing a burqa is no more harmful than wearing a Marilyn Manson shirt, and it does nothing to threaten the safety, liberty, or freedom of any other individual.",
+            "evidence_docs": [
+              1223
+            ]
+          },
+          {
+            "text": "If the Government feel that it is in the best interests not to ban the veil, then we have to believe them, and any ban would be a form of censorship.",
+            "evidence_docs": [
+              3289
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_88",
+    "query": "Does the KonMari Method truly transform lives?",
+    "summary": [
+      {
+        "claim": "The KonMari Method can transform lives",
+        "perspectives": [
+          {
+            "text": "The KonMari Method forces you to transform your space quickly, leading to a greater appreciation for everything you have in life.",
+            "evidence_docs": [
+              1151
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The KonMari Method can transform lives",
+        "perspectives": [
+          {
+            "text": "The KonMari Method teaches you to show gratitude to those objects that bring you joy, which, in turn, provides insight into what you value.",
+            "evidence_docs": [
+              699
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "living_89",
+    "query": "Should We Legalize Marijuana?",
+    "summary": [
+      {
+        "claim": "Legalizing marijuana should be done",
+        "perspectives": [
+          {
+            "text": "Legalization of marijuana can cut government spending, generating tax revenue that could go towards other societal uses.",
+            "evidence_docs": [
+              1117
+            ]
+          },
+          {
+            "text": "The global legal marijuana market size is estimated to reach $102.2 billion by the end of 2030.",
+            "evidence_docs": [
+              574
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Legalizing marijuana should not be done",
+        "perspectives": [
+          {
+            "text": "The legalization of marijuana contributes to the development of respiratory diseases and increased risk to lung health.",
+            "evidence_docs": [
+              378
+            ]
+          },
+          {
+            "text": "The proposal to legalize the selling of one’s own organs amounts to an ‘unconscionable choice’: a choice which is, given the circumstances, unreasonable to ask of someone.",
+            "evidence_docs": [
+              1937
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_0",
+    "query": "Red Auerbach or Phil Jackson:  Who’s the best NBA coach ever?",
+    "summary": [
+      {
+        "claim": "Phil Jackson is the best NBA coach ever",
+        "perspectives": [
+          {
+            "text": "Phil Jackson won 11 NBA championships, including three consecutive three-peats, with a winning percentage of 72.5%.",
+            "evidence_docs": [
+              1129
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Red Auerbach is the best NBA coach ever",
+        "perspectives": [
+          {
+            "text": "Red Auerbach built a winning team with rising stars like Bill Russell and John Havlicek, winning eight consecutive championships.",
+            "evidence_docs": [
+              506,
+              750
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_1",
+    "query": "Is the NFL losing its appeal?",
+    "summary": [
+      {
+        "claim": "The NFL is losing its appeal",
+        "perspectives": [
+          {
+            "text": "The NFL has become more socially and racially sensitive, with a revised policy and increased support for social justice causes.",
+            "evidence_docs": [
+              2478
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The NFL is losing its appeal",
+        "perspectives": [
+          {
+            "text": "Fantasy football has become so mainstream and so intertwined with NFL football, ensuring its continued popularity.",
+            "evidence_docs": [
+              1136
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_2",
+    "query": "Messi or Ronaldo – who is truly the best?",
+    "summary": [
+      {
+        "claim": "Messi is the best footballer of all time",
+        "perspectives": [
+          {
+            "text": "Messi has won more titles mostly because he plays for a better team, not because he is a better player than Ronaldo.",
+            "evidence_docs": [
+              402
+            ]
+          },
+          {
+            "text": "Messi makes better decisions and brings greater value to his team.",
+            "evidence_docs": [
+              1052
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Ronaldo is the best footballer of all time",
+        "perspectives": [
+          {
+            "text": "Ronaldo has better international goalscoring stats in competitive international games than Messi.",
+            "evidence_docs": [
+              233
+            ]
+          },
+          {
+            "text": "Ronaldo is the higher paid football player of the two, which proves his higher worth.",
+            "evidence_docs": [
+              233
+            ]
+          },
+          {
+            "text": "Ronaldo is a better fit for today\\u2019s game, with a combination of physical and technical abilities.",
+            "evidence_docs": [
+              732
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_4",
+    "query": "Who is the NFL’s biggest draft bust?",
+    "summary": [
+      {
+        "claim": "The 1996 NBA draft is the best draft ever",
+        "perspectives": [
+          {
+            "text": "The 1996 draft had the most talented players, including Allen Iverson and Kobe Bryant, two of the most talented NBA players ever.",
+            "evidence_docs": [
+              1,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The 1996 NBA draft is the best draft ever",
+        "perspectives": [
+          {
+            "text": "Five of the first six picks were all-star players, including Kobe Bryant and Steve Nash.",
+            "evidence_docs": [
+              1,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_5",
+    "query": "Are Basketball Players the Best Athletes?",
+    "summary": [
+      {
+        "claim": "Basketball players are the best athletes",
+        "perspectives": [
+          {
+            "text": "Basketball players are the most versatile athletes in sports, possessing a wide range of athletic abilities, including endurance, speed, agility, and jumping ability.",
+            "evidence_docs": [
+              585
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Basketball players are not the best athletes",
+        "perspectives": [
+          {
+            "text": "Football players possess unprecedented power, strength, and explosiveness, making them stronger than basketball players.",
+            "evidence_docs": [
+              1148
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_6",
+    "query": "LeBron James Vs. Michael Jordan: Who’s the greatest of all time?",
+    "summary": [
+      {
+        "claim": "LeBron James is the greatest of all time",
+        "perspectives": [
+          {
+            "text": "LeBron James is a better clutch player than Michael Jordan, backed by stats,",
+            "evidence_docs": [
+              177
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Michael Jordan is the greatest of all time",
+        "perspectives": [
+          {
+            "text": "Jordan is very likely to have been the most clutch player that has ever played the game, always delivering the good when it really mattered.",
+            "evidence_docs": [
+              686
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_7",
+    "query": "Let’s watch it again: Should instant replays be used in sports?",
+    "summary": [
+      {
+        "claim": "Instant replays should be used in sports",
+        "perspectives": [
+          {
+            "text": "Replays can help clarify questionable calls, but they won",
+            "evidence_docs": [
+              376,
+              773
+            ]
+          },
+          {
+            "text": "Replays won",
+            "evidence_docs": [
+              376,
+              773
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Instant replays should not be used in sports",
+        "perspectives": [
+          {
+            "text": "Replays can lead to controversy and slow down games",
+            "evidence_docs": [
+              887,
+              962
+            ]
+          },
+          {
+            "text": "Replays won",
+            "evidence_docs": [
+              887,
+              962
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_8",
+    "query": "Do Professional Athletes Deserve Their Inflated Salaries?",
+    "summary": [
+      {
+        "claim": "Professional athletes deserve their inflated salaries",
+        "perspectives": [
+          {
+            "text": "Most athletes are fairly paid, considering gross salaries and deductions.",
+            "evidence_docs": [
+              1045
+            ]
+          },
+          {
+            "text": "Professional athletes put their bodies in danger daily, and their careers are short, making their salaries a fair compensation.",
+            "evidence_docs": [
+              1154
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Professional athletes do not deserve their inflated salaries",
+        "perspectives": [
+          {
+            "text": "The large amounts of money invested in professional sports drain the true meaning from sports, and athletes compete for money rather than excellence.",
+            "evidence_docs": [
+              471
+            ]
+          },
+          {
+            "text": "The mythical status of professional athletes is eroded, and their actions, such as using PEDs, are no longer seen as heroic.",
+            "evidence_docs": [
+              653
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_9",
+    "query": "The Perspective on Arsène Wenger",
+    "summary": [
+      {
+        "claim": "Arsenal's success is due to Wenger's coaching abilities",
+        "perspectives": [
+          {
+            "text": "Wenger's coaching was overrated; the board's vision and work led to Arsenal's success.",
+            "evidence_docs": [
+              792
+            ]
+          },
+          {
+            "text": "Wenger's coaching was not his strong point; he excelled at identifying and nurturing young talent.",
+            "evidence_docs": [
+              1181
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Wenger's old-fashioned managing became out of date in modern soccer",
+        "perspectives": [
+          {
+            "text": "Wenger refused to adapt to the evolving roles of coaching and managing, leading to his failure in both areas.",
+            "evidence_docs": [
+              351
+            ]
+          },
+          {
+            "text": "Wenger's old-fashioned managing hindered Arsenal's progress in modern soccer.",
+            "evidence_docs": [
+              1181
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_10",
+    "query": "Is Roger Federer the best tennis player of all time?",
+    "summary": [
+      {
+        "claim": "Roger Federer is the best tennis player of all time",
+        "perspectives": [
+          {
+            "text": "Roger Federer is the best tennis player of all time due to his impressive 20 Grand Slam wins and versatility on hard and grass courts.",
+            "evidence_docs": [
+              889
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Roger Federer is the best tennis player of all time",
+        "perspectives": [
+          {
+            "text": "Roger Federer is the best tennis player of all time due to his impressive 20 Grand Slam wins and versatility on hard and grass courts.",
+            "evidence_docs": [
+              889
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_12",
+    "query": "Should College Athletes Get Paid?",
+    "summary": [
+      {
+        "claim": "College athletes should get paid",
+        "perspectives": [
+          {
+            "text": "College athletes should get paid to compensate for the health risks they take on the field, as evidenced by documents 502 and 1045.",
+            "evidence_docs": [
+              502,
+              1045
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "College athletes should not get paid",
+        "perspectives": [
+          {
+            "text": "Implementing a pay system for college athletes would be too complicated and may not benefit all athletes equally, as seen in documents 275 and 132.",
+            "evidence_docs": [
+              275,
+              132
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_13",
+    "query": "Is MMA too dangerous?",
+    "summary": [
+      {
+        "claim": "MMA is a dangerous sport",
+        "perspectives": [
+          {
+            "text": "According to a University of Alberta study, MMA is actually safer than boxing due to the lower risk of head trauma and the fact that fighters only compete one to five times a year.",
+            "evidence_docs": [
+              552
+            ]
+          },
+          {
+            "text": "However, a Cleveland Clinic study found that 23.6% of MMA fighters receive at least minor brain damage, and the longer a fighter's career lasts, the more prone they are to suffer from measurable brain damage like CTE.",
+            "evidence_docs": [
+              1006
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "MMA is not a dangerous sport",
+        "perspectives": [
+          {
+            "text": "MMA regulatory bodies ensure fighters' safety through thorough examinations before each fight, leading to last-minute match cancellations and a commitment to safety.",
+            "evidence_docs": [
+              499
+            ]
+          },
+          {
+            "text": "MMA offers numerous holistic health benefits, including improved cardiovascular health, strength, and weight loss, as well as increased confidence and reduced stress.",
+            "evidence_docs": [
+              393
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_14",
+    "query": "Magic Johnson vs. Larry Bird – Who is Better?",
+    "summary": [
+      {
+        "claim": "Magic Johnson is better than Larry Bird",
+        "perspectives": [
+          {
+            "text": "Magic Johnson outperformed Larry Bird in playoff games, with more assists and rebounds per game.",
+            "evidence_docs": [
+              326
+            ]
+          },
+          {
+            "text": "Magic Johnson has two more championships than Larry Bird.",
+            "evidence_docs": [
+              326
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Larry Bird is better than Magic Johnson",
+        "perspectives": [
+          {
+            "text": "Larry Bird played with less talented teammates and still managed to lead the Celtics to a significant improvement in wins.",
+            "evidence_docs": [
+              56
+            ]
+          },
+          {
+            "text": "Larry Bird was a defensive force to be reckoned with, earning him multiple NBA All-Defensive Team selections.",
+            "evidence_docs": [
+              942
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_15",
+    "query": "Muhammad Ali – He Was Great, but Was He the Greatest?",
+    "summary": [
+      {
+        "claim": "Muhammad Ali was the greatest boxer of all time",
+        "perspectives": [
+          {
+            "text": "Ali was a freedom fighter who fought against racism and had unparalleled charisma and charm, making him a mythical figure.",
+            "evidence_docs": [
+              762
+            ]
+          },
+          {
+            "text": "Toughness was one of Ali",
+            "evidence_docs": [
+              1042
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Muhammad Ali was not the greatest boxer of all time",
+        "perspectives": [
+          {
+            "text": "Ali had a tendency to swim against the current a bit too far, making some of his quotes and remarks on the verge of racism.",
+            "evidence_docs": [
+              227
+            ]
+          },
+          {
+            "text": "Sugar Ray Robinson was better pound for pound, according to Ali himself.",
+            "evidence_docs": [
+              762
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_18",
+    "query": "Kobe VS LeBron – who is considered better?",
+    "summary": [
+      {
+        "claim": "Kobe is considered better than LeBron",
+        "perspectives": [
+          {
+            "text": "Kobe was a more versatile and well-rounded player, with amazing anticipation and instincts.",
+            "evidence_docs": [
+              687
+            ]
+          },
+          {
+            "text": "Kobe had a better supportive team around him, including Shaquille O`Neil and Phil Jackson.",
+            "evidence_docs": [
+              927
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "LeBron is considered better than Kobe",
+        "perspectives": [
+          {
+            "text": "LeBron is a better clutch player, with stats backing up his performance in clutch time.",
+            "evidence_docs": [
+              177
+            ]
+          },
+          {
+            "text": "LeBron has the two pitches, explosive power, and is an all-around player.",
+            "evidence_docs": [
+              687
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_21",
+    "query": "Are the 1991 Washington Redskins the Best NFL Team Ever?",
+    "summary": [
+      {
+        "claim": "The 1991 Washington Redskins are the best NFL team ever.",
+        "perspectives": [
+          {
+            "text": "The 1991 Redskins were one of the most balanced and varied Super Bowl winners, forming a whole that was bigger than the sum of its part.",
+            "evidence_docs": [
+              203
+            ]
+          },
+          {
+            "text": "They finished their regular season in a fantastic 14-2 record, playing against the league's toughest competition.",
+            "evidence_docs": [
+              543
+            ]
+          },
+          {
+            "text": "They led the league in points scored and allowed only 224 points, with a 75-point playoff margin.",
+            "evidence_docs": [
+              1053
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The 1991 Washington Redskins are not the best NFL team ever.",
+        "perspectives": [
+          {
+            "text": "The 1985 Chicago Bears had an impenetrable revolutionary defense, setting an NFL record for 72 sacks.",
+            "evidence_docs": [
+              1141
+            ]
+          },
+          {
+            "text": "The 1989 San Francisco 49ers had a more legendary quarterback in Joe Montana, and won two consecutive championships.",
+            "evidence_docs": [
+              290
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_23",
+    "query": "Does defense win football championships?",
+    "summary": [
+      {
+        "claim": "Defense wins football championships",
+        "perspectives": [
+          {
+            "text": "A top-ranked defense can significantly increase a team's chances of winning a Super Bowl, as evidenced by the 1985 Chicago Bears' record-breaking 15-1 season.",
+            "evidence_docs": [
+              1141
+            ]
+          },
+          {
+            "text": "A great defense can create a huge psychological impact on the opponent`s offense, putting great pressure on them and frustrating them.",
+            "evidence_docs": [
+              41
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Defense does not win football championships",
+        "perspectives": [
+          {
+            "text": "Contrary to popular belief, a deep analysis of statistics shows that defense cannot be relied on to win NFL championships, as evidenced by the 2012 Scorecasting study.",
+            "evidence_docs": [
+              34
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_24",
+    "query": "Is Hall of Famer Derek Jeter the best shortstop of all time?",
+    "summary": [
+      {
+        "claim": "Derek Jeter is the best shortstop of all time",
+        "perspectives": [
+          {
+            "text": "Jeter is the greatest shortstop in baseball history, with unparalleled hitting statistics and leadership.",
+            "evidence_docs": [
+              375,
+              1060
+            ]
+          },
+          {
+            "text": "Jeter was the worst defensive player in the major leagues, at any position, according to Bill James.",
+            "evidence_docs": [
+              1224
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Derek Jeter is not the best shortstop of all time",
+        "perspectives": [
+          {
+            "text": "Jeter was not a dominant force offensively, never winning a batting title or hitting 25 home runs.",
+            "evidence_docs": [
+              700
+            ]
+          },
+          {
+            "text": "Jeter was a great offensive player, but other shortstops, like Honus Wagner and Arky Vaughan, were more dominant.",
+            "evidence_docs": [
+              375,
+              700
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_25",
+    "query": "Can Soccer be the next big American sport?",
+    "summary": [
+      {
+        "claim": "Soccer is likely to become a major American sport",
+        "perspectives": [
+          {
+            "text": "Soccer has been America\\u2019s favorite sport among children for years, with over 850K high schoolers playing the game, promising further growth and potential success at the adult level.",
+            "evidence_docs": [
+              121,
+              797
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Soccer is unlikely to become a major American sport",
+        "perspectives": [
+          {
+            "text": "Soccer\\u2019s reputation among Americans has been tarnished by diving and acting, which paints a dishonest and underhanded image of the sport.",
+            "evidence_docs": [
+              525
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_28",
+    "query": "NASCAR or Formula 1 – Which is the prime racing competition?",
+    "summary": [
+      {
+        "claim": "NASCAR is the prime racing competition",
+        "perspectives": [
+          {
+            "text": "NASCAR offers a more unpredictable and exciting racing experience due to its emphasis on driver talent and constant bumper-to-bumper action.",
+            "evidence_docs": [
+              1208
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "NASCAR is the prime racing competition",
+        "perspectives": [
+          {
+            "text": "NASCAR provides unparalleled access to its drivers and teams, allowing fans to experience the sport up close.",
+            "evidence_docs": [
+              1059
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "sports_29",
+    "query": "Throwback – Which is the best NBA draft EVER: 1984 or 1996?",
+    "summary": [
+      {
+        "claim": "The 1996 draft was the best draft ever",
+        "perspectives": [
+          {
+            "text": "The 1996 draft produced five of the first six picks as all-star players, including Kobe Bryant and Steve Nash.",
+            "evidence_docs": [
+              1225,
+              344
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The 1984 draft was the best draft ever",
+        "perspectives": [
+          {
+            "text": "Hakeem Olajuwon, Charles Barkley, and John Stockton were superstars with huge careers, but mostly due to their characters and determination, not necessarily due to their talent.",
+            "evidence_docs": [
+              209,
+              83
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_1",
+    "query": "The Perspective on Single-Payer Health Care",
+    "summary": [
+      {
+        "claim": "Single-payer health care systems are more efficient than the current US system.",
+        "perspectives": [
+          {
+            "text": "According to OECD data, countries with single-payer health care systems spent between 10 and 12 percent of their GDP on health care costs, compared to 17 percent in the US.",
+            "evidence_docs": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The quality of health care in the US surpasses that of Canada and Western Europe.",
+        "perspectives": [
+          {
+            "text": "Many Canadians end up crossing the border for US medical treatment due to wait times approaching 20 weeks, while American patients rarely see such delays.",
+            "evidence_docs": [
+              2,
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_3",
+    "query": "Is the Death Penalty Justified or Should It Be Abolished?",
+    "summary": [
+      {
+        "claim": "The death penalty is justified",
+        "perspectives": [
+          {
+            "text": "The death penalty can save lives by reducing violent crime rates, as evidenced by numerous studies supporting its deterrent effect.",
+            "evidence_docs": [
+              1885
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The death penalty is not justified",
+        "perspectives": [
+          {
+            "text": "The death penalty is not an effective deterrent for crime, as studies show no significant correlation between executions and murder rates.",
+            "evidence_docs": [
+              1035,
+              118
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_4",
+    "query": "Should ‘Black Lives Matter’ Fight For All Lives?",
+    "summary": [
+      {
+        "claim": "Black Lives Matter should fight for all lives",
+        "perspectives": [
+          {
+            "text": "Black Lives Matter may create more harm than good by implying that Black lives matter more than others",
+            "evidence_docs": [
+              135,
+              157,
+              336,
+              784
+            ]
+          },
+          {
+            "text": "However, embracing the #AllLivesMatter slogan would show that BLM cares for all minorities",
+            "evidence_docs": [
+              135,
+              157,
+              336,
+              784
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Black Lives Matter should not fight for all lives",
+        "perspectives": [
+          {
+            "text": "Using the #AllLivesMatter slogan would undermine the BLM message and create more harm",
+            "evidence_docs": [
+              336,
+              784
+            ]
+          },
+          {
+            "text": "It would also show that BLM does not care for all minorities, especially Black Americans",
+            "evidence_docs": [
+              336,
+              784
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_5",
+    "query": "Should convicted criminals have the right to vote?",
+    "summary": [
+      {
+        "claim": "Convicted criminals should have the right to vote",
+        "perspectives": [
+          {
+            "text": "Not all sentences end with a period of jail time; some have repercussions that continue across a criminal’s life.",
+            "evidence_docs": [
+              1069
+            ]
+          },
+          {
+            "text": "Governments do things which affect every age group but that does not mean everyone deserves the vote.",
+            "evidence_docs": [
+              1976
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Convicted criminals should NOT have the right to vote",
+        "perspectives": [
+          {
+            "text": "We can’t trust the judgment of convicted felons.",
+            "evidence_docs": [
+              1069
+            ]
+          },
+          {
+            "text": "Voting is a privilege, and people should be careful when exercising it.",
+            "evidence_docs": [
+              919
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_6",
+    "query": "Should Christopher Columbus be honored or renounced?",
+    "summary": [
+      {
+        "claim": "Christopher Columbus should be honored",
+        "perspectives": [
+          {
+            "text": "Columbus was born to a landless Italian wool worker and started working his way up on merchant ships as a teenager.",
+            "evidence_docs": [
+              957
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Christopher Columbus should be renounced",
+        "perspectives": [
+          {
+            "text": "Columbus’s first report to Queen Isabella concluded that the Taino tribesmen of the West Indies were “dirty” and “fit to be ruled”, showcasing his dehumanization of native populations.",
+            "evidence_docs": [
+              902
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_7",
+    "query": "The Perspective on Bill Clinton",
+    "summary": [
+      {
+        "claim": "Bill Clinton was a president who preferred negotiation to intervention.",
+        "perspectives": [
+          {
+            "text": "Clinton preferred negotiation to intervention, as seen in his efforts to broker a peace agreement between Israel and Palestine (Doc 371).",
+            "evidence_docs": [
+              371
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Bill Clinton hugely undercut the American welfare system.",
+        "perspectives": [
+          {
+            "text": "Clinton reduced welfare recipients from 4 million to 1.6 million, and benefits fell by 32.5% (Doc 1205).",
+            "evidence_docs": [
+              1205
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_9",
+    "query": "Did the Original NAFTA hurt or help America?",
+    "summary": [
+      {
+        "claim": "NAFTA hurt America",
+        "perspectives": [
+          {
+            "text": "NAFTA damaged the American economy, with 1.1 million small farmers losing work in the first 12 years of the pact.",
+            "evidence_docs": [
+              414,
+              833
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "NAFTA helped America",
+        "perspectives": [
+          {
+            "text": "NAFTA has helped Mexico more than quadruple its exports as a share of GDP in the two decades since its signing.",
+            "evidence_docs": [
+              1230
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_10",
+    "query": "The bombings of Hiroshima and Nagasaki: plain evil or a necessary evil?",
+    "summary": [
+      {
+        "claim": "The bombings of Hiroshima and Nagasaki were a necessary evil.",
+        "perspectives": [
+          {
+            "text": "The bombings ended World War II, saving millions of lives from further bloodshed.",
+            "evidence_docs": [
+              3008,
+              862
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The bombings of Hiroshima and Nagasaki were plain evil.",
+        "perspectives": [
+          {
+            "text": "The bombings killed hundreds of thousands of innocent civilians, causing immense suffering and destruction.",
+            "evidence_docs": [
+              4001,
+              36
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_13",
+    "query": "Edward Snowden – Hero or Traitor?",
+    "summary": [
+      {
+        "claim": "Edward Snowden is a hero",
+        "perspectives": [
+          {
+            "text": "Snowden risked his freedom to expose the US government's mass surveillance system, prompting a global debate on privacy and surveillance.",
+            "evidence_docs": [
+              218,
+              556
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Edward Snowden is a traitor",
+        "perspectives": [
+          {
+            "text": "Snowden's leaks damaged America's relationships with foreign countries and undermined US efforts to protect citizens from tyranny.",
+            "evidence_docs": [
+              1085,
+              556
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_14",
+    "query": "The Perspective on Political Correctness",
+    "summary": [
+      {
+        "claim": "Political correctness is a positive force that promotes inclusivity and respect for all individuals.",
+        "perspectives": [
+          {
+            "text": "Political correctness is a necessary tool for promoting inclusivity and respect for all individuals, as seen in the Pew Research Center survey that 57% of Americans support it.",
+            "evidence_docs": [
+              95,
+              811
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Political correctness is a negative force that stifles free speech and promotes social cultural superiority.",
+        "perspectives": [
+          {
+            "text": "Political correctness stifles free speech and promotes social cultural superiority, as highlighted by the Pew Research Center survey that 57% of Americans feel too easily offended.",
+            "evidence_docs": [
+              95,
+              811
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_15",
+    "query": "Social Welfare: Do its advantages outweigh its disadvantages?",
+    "summary": [
+      {
+        "claim": "The advantages of social welfare outweigh its disadvantages.",
+        "perspectives": [
+          {
+            "text": "Social welfare packages provide people with little incentive to work, as evidenced by the high salaries received by welfare recipients (Doc 912).",
+            "evidence_docs": [
+              912
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The disadvantages of social welfare outweigh its advantages.",
+        "perspectives": [
+          {
+            "text": "Welfare benefits create a culture of psychological dependence, leading to a lack of motivation and self-esteem (Doc 283).",
+            "evidence_docs": [
+              283
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_16",
+    "query": "The Perspective on Gerrymandering",
+    "summary": [
+      {
+        "claim": "Gerrymandering is a threat to democracy",
+        "perspectives": [
+          {
+            "text": "Gerrymandering undermines the democratic process by allowing elected officials to choose their constituents rather than giving voters the right to appoint their representatives.",
+            "evidence_docs": [
+              874,
+              365
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Gerrymandering is not the cause of polarization",
+        "perspectives": [
+          {
+            "text": "Geographical self-sorting is the primary cause of polarization, not gerrymandering.",
+            "evidence_docs": [
+              678,
+              365
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_18",
+    "query": "Is China the Next Superpower?",
+    "summary": [
+      {
+        "claim": "China is likely to be the next superpower",
+        "perspectives": [
+          {
+            "text": "China is the world's top exporting and trading country, with over $479.97 billion in exports to the US in 2018 (Doc 504).",
+            "evidence_docs": [
+              504
+            ]
+          },
+          {
+            "text": "China is a huge investor in the US, owning over $1.123 trillion of US debt (Doc 504).",
+            "evidence_docs": [
+              504
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "China is unlikely to be the next superpower",
+        "perspectives": [
+          {
+            "text": "China's financial system lacks credibility, with a largely underdeveloped and government-meditated sector (Doc 992).",
+            "evidence_docs": [
+              992
+            ]
+          },
+          {
+            "text": "China's population is aging and shrinking, with a predominantly male population and rampant income inequality (Doc 872).",
+            "evidence_docs": [
+              872
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_19",
+    "query": "The Perspective on the United Nations (UN)",
+    "summary": [
+      {
+        "claim": "The United Nations is ineffective in addressing human rights violations.",
+        "perspectives": [
+          {
+            "text": "The UN has failed to stop human rights violations, as seen in the genocide in Rwanda and the rape of Israeli women by Hamas members.",
+            "evidence_docs": [
+              48
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The United Nations has made significant progress in reducing hunger and poverty.",
+        "perspectives": [
+          {
+            "text": "The UN has worked to create strategic solutions for a ",
+            "evidence_docs": [
+              247
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_20",
+    "query": "Did the Arab Spring Make Things Worse?",
+    "summary": [
+      {
+        "claim": "The Arab Spring had a net positive impact on the region",
+        "perspectives": [
+          {
+            "text": "The Arab Spring led to the overthrow of authoritarian regimes, allowing for the emergence of democratic institutions in countries like Tunisia.",
+            "evidence_docs": [
+              1022,
+              875
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The Arab Spring had a net negative impact on the region",
+        "perspectives": [
+          {
+            "text": "The Arab Spring created power vacuums that allowed extremist groups like ISIS and al Qaeda to flourish.",
+            "evidence_docs": [
+              764,
+              1837
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_21",
+    "query": "Was Ronald Reagan The Greatest President Since WWII?",
+    "summary": [
+      {
+        "claim": "Reagan's economic policies were a success",
+        "perspectives": [
+          {
+            "text": "Reagan’s economy was a model of strength, with annual GDP growth never dipping below 3.5 percent from 1983 to 1988.",
+            "evidence_docs": [
+              483
+            ]
+          },
+          {
+            "text": "While Reagan did run a deficit, the severity is often exaggerated.",
+            "evidence_docs": [
+              483
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Reagan’s economic policies were a failure",
+        "perspectives": [
+          {
+            "text": "Reagan’s true legacy is one of expanding deficits caused by a growing defense budget and tax cuts that proved to be irresponsible.",
+            "evidence_docs": [
+              359
+            ]
+          },
+          {
+            "text": "The national debt nearly tripled to more than $2.6 billion when he left office.",
+            "evidence_docs": [
+              359
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_22",
+    "query": "Should Puerto Rico become the 51st state?",
+    "summary": [
+      {
+        "claim": "Should Puerto Rico become the 51st state?",
+        "perspectives": [
+          {
+            "text": "Puerto Rico should not be the 51st U.S. state but, rather, a fully independent country, allowing it to address its debt crisis on its own terms and grant its inhabitants self-determination.",
+            "evidence_docs": [
+              575
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Should Puerto Rico become the 51st state?",
+        "perspectives": [
+          {
+            "text": "Adding Puerto Rico to the U.S. state register would require federal income taxes, boosting the Federal Reserve's annual revenues and limiting corporate corruption channels.",
+            "evidence_docs": [
+              1153
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_23",
+    "query": "Is the EU better off divided or together?",
+    "summary": [
+      {
+        "claim": "The EU is better off together",
+        "perspectives": [
+          {
+            "text": "As part of the EU, the EU has a lot more leverage when brokering a deal with China or India, thanks to its many consumers.",
+            "evidence_docs": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The EU is better off divided",
+        "perspectives": [
+          {
+            "text": "Unless a replacement deal is agreed upon, leaving could result in British goods being subject to tariffs.",
+            "evidence_docs": [
+              5,
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_24",
+    "query": "Is Israel an Apartheid State?",
+    "summary": [
+      {
+        "claim": "Israel is an apartheid state",
+        "perspectives": [
+          {
+            "text": "Despite integrated cities and democratic principles, Israel has implemented policies restricting Palestinian movement and access to resources, perpetuating division and inequality.",
+            "evidence_docs": [
+              146,
+              2724
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Israel is not an apartheid state",
+        "perspectives": [
+          {
+            "text": "Israel has a democratic structure, allows freedom of religion, and has Arab Israeli citizens in government and parliament, challenging apartheid-like segregation.",
+            "evidence_docs": [
+              440,
+              1166
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_25",
+    "query": "Is it Time To Do Away with the Electoral College?",
+    "summary": [
+      {
+        "claim": "The Electoral College is necessary for a fair and representative democracy",
+        "perspectives": [
+          {
+            "text": "The Electoral College ensures that smaller states have a voice in the election process, as seen in documents 129 and 2670.",
+            "evidence_docs": [
+              129,
+              2670
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The Electoral College is outdated and should be abolished",
+        "perspectives": [
+          {
+            "text": "The Electoral College can lead to a lack of representation for rural areas and small towns, as highlighted in documents 2670 and 1827.",
+            "evidence_docs": [
+              2670,
+              1827
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_27",
+    "query": "Should the US intervene militarily in foreign conflicts?",
+    "summary": [
+      {
+        "claim": "The US should intervene militarily in foreign conflicts.",
+        "perspectives": [
+          {
+            "text": "The US should intervene militarily in foreign conflicts to protect its national interests and prevent global instability.",
+            "evidence_docs": [
+              281,
+              3998
+            ]
+          },
+          {
+            "text": "Intervening militarily in foreign conflicts can lead to unintended consequences and undermine global stability.",
+            "evidence_docs": [
+              1627,
+              2101
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The US should not intervene militarily in foreign conflicts.",
+        "perspectives": [
+          {
+            "text": "Intervening militarily in foreign conflicts can lead to unintended consequences and undermine global stability.",
+            "evidence_docs": [
+              1627,
+              2101
+            ]
+          },
+          {
+            "text": "The US has a responsibility to protect its national interests and prevent global instability through diplomatic means.",
+            "evidence_docs": [
+              281,
+              3998
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_28",
+    "query": "How Similar are the Far-Left and the Far-Right?",
+    "summary": [
+      {
+        "claim": "The far-right and far-left share similar characteristics in their rejection of non-violence.",
+        "perspectives": [
+          {
+            "text": "Both far-right and far-left movements reject non-violence, with right-wing groups carrying out 150 attacks on US soil between 1993 and 2017.",
+            "evidence_docs": [
+              64,
+              1062
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The far-right and far-left are driven by a sense of victimhood.",
+        "perspectives": [
+          {
+            "text": "Both far-right and far-left groups view themselves as aggrieved parties, with one study finding that adversity is a predictor of extreme political views.",
+            "evidence_docs": [
+              1062,
+              191
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politic s_31",
+    "query": "Stalin – hero or villain?",
+    "summary": [
+      {
+        "claim": "Stalin was a hero",
+        "perspectives": [
+          {
+            "text": "Stalin's efforts raised the standard of living for the Soviet people through modern technologies.",
+            "evidence_docs": [
+              559,
+              6
+            ]
+          },
+          {
+            "text": "Stalin's 'Electrification' plans made energy accessible to the public.",
+            "evidence_docs": [
+              559,
+              6
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Stalin was a villain",
+        "perspectives": [
+          {
+            "text": "Stalin's 'Five Year Plans' and collectivisation schemes led to the deaths of 6 million people.",
+            "evidence_docs": [
+              394,
+              705
+            ]
+          },
+          {
+            "text": "Stalin's methods were severe and led to the imprisonment and forced labor of many people.",
+            "evidence_docs": [
+              394,
+              705
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_32",
+    "query": "Obama’s Legacy: Mission Accomplished or Mission Impossible?",
+    "summary": [
+      {
+        "claim": "Obama's presidency had a positive impact on women's rights",
+        "perspectives": [
+          {
+            "text": "Obama's administration ensured financial independence for American women through laws combating pay discrimination and increased enforceability of minimum wages.",
+            "evidence_docs": [
+              1021
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Obama's presidency had a negative impact on women's rights",
+        "perspectives": []
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_33",
+    "query": "Should the First Amendment cover racism and hate speech?",
+    "summary": [
+      {
+        "claim": "The First Amendment should cover racism and hate speech",
+        "perspectives": [
+          {
+            "text": "The First Amendment protects freedom of expression, including speech that promotes hate and racism, as it ensures a safe and inclusive society.",
+            "evidence_docs": [
+              317,
+              798
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The First Amendment should not cover racism and hate speech",
+        "perspectives": [
+          {
+            "text": "The First Amendment does not protect hate speech, as it aims to prevent harm and ensure public safety, particularly for marginalized communities.",
+            "evidence_docs": [
+              1484,
+              1122
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_34",
+    "query": "Do Protests work ?",
+    "summary": [
+      {
+        "claim": "Protests are effective in bringing about change",
+        "perspectives": [
+          {
+            "text": "Protests have been shown to exert influence over politics, as seen in Serbians ousting a dictator through nonviolent resistance and Egyptians following suit.",
+            "evidence_docs": [
+              796
+            ]
+          },
+          {
+            "text": "Protests have been shown to exert influence over politics, as seen in Serbians ousting a dictator through nonviolent resistance and Egyptians following suit.",
+            "evidence_docs": [
+              796
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Protests are not effective in bringing about change",
+        "perspectives": [
+          {
+            "text": "Thousands of protests are constantly taking place around the world, and most of them pass without remark, revealing the miniscule impact of protests in general.",
+            "evidence_docs": [
+              967
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_36",
+    "query": "The Perspective on Drone Strikes",
+    "summary": [
+      {
+        "claim": "The use of drone strikes is a valuable tool in the military's arsenal",
+        "perspectives": [
+          {
+            "text": "Drones are cheaper to build and maintain than bombers and far easier to protect than a standing army.",
+            "evidence_docs": [
+              441
+            ]
+          },
+          {
+            "text": "Drones can cost more than $18.5K per flight per hour, making them one of the most valuable tools in the military's arsenal.",
+            "evidence_docs": [
+              441
+            ]
+          },
+          {
+            "text": "The Pentagon's 2024 fiscal-year budget includes spending requests for the procurement of 1000 drone wingmen to accompany combat aircraft.",
+            "evidence_docs": [
+              441
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The use of drone strikes is a threat to global stability",
+        "perspectives": [
+          {
+            "text": "Drones can increase geopolitical instability when used unrestrainedly.",
+            "evidence_docs": [
+              418
+            ]
+          },
+          {
+            "text": "Drone attacks executed without the knowledge or permission of the country in which they are conducted violate that country's sovereignty.",
+            "evidence_docs": [
+              418
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "politics_37",
+    "query": "The Perspective on Putin",
+    "summary": [
+      {
+        "claim": "Positive",
+        "perspectives": [
+          {
+            "text": "Thanks to economic sanctions and too much faith in oil, 13.5 million Russians are living below the poverty line, yet Putin remains stronger than ever domestically.",
+            "evidence_docs": [
+              3,
+              665
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Negative",
+        "perspectives": [
+          {
+            "text": "The current average life expectancy for men in Russia is around 72 years, a record high, but fuels the need for more social protection for older adults.",
+            "evidence_docs": [
+              17
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_0",
+    "query": "The Perspective on Alan Greenspan",
+    "summary": [
+      {
+        "claim": "Alan Greenspan was a highly effective central banker",
+        "perspectives": [
+          {
+            "text": "Greenspan saw two recessions during nearly two decades, bookending the longest expansion in US history.",
+            "evidence_docs": [
+              3,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Alan Greenspan was a major contributor to the 2008 financial crisis",
+        "perspectives": [
+          {
+            "text": "Greenspan's support for deregulatory action helped pave the way for out-of-control speculation on Wall Street.",
+            "evidence_docs": [
+              4,
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_1",
+    "query": "Is Working from Home All It’s Cracked Up To Be?",
+    "summary": [
+      {
+        "claim": "Working from home can be beneficial for productivity and work-life balance",
+        "perspectives": [
+          {
+            "text": "Working from home can be challenging for those who struggle with boundaries and personal time management (Doc 758).",
+            "evidence_docs": [
+              758
+            ]
+          },
+          {
+            "text": "On the other hand, many people find that working from home allows them to be more productive and have a better work-life balance (Doc 629).",
+            "evidence_docs": [
+              629
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Working from home can be detrimental to work-life balance and productivity",
+        "perspectives": [
+          {
+            "text": "Working from home can lead to difficulties in setting boundaries and achieving a healthy work-life balance (Doc 758).",
+            "evidence_docs": [
+              758
+            ]
+          },
+          {
+            "text": "Additionally, some people may struggle with procrastination and lack of motivation when working from home (Doc 758).",
+            "evidence_docs": [
+              758
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_2",
+    "query": "Is There Life Outside Earth?",
+    "summary": [
+      {
+        "claim": "There is life outside Earth",
+        "perspectives": [
+          {
+            "text": "Around 300 million to 40 billion Earth-like planets are estimated to inhabit our galaxy, making the potential for life extremely high.",
+            "evidence_docs": [
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "There is no life outside Earth",
+        "perspectives": [
+          {
+            "text": "The conditions under which complex life on Earth was created are almost impossible to replicate.",
+            "evidence_docs": [
+              2,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_3",
+    "query": "Should we invest in Bitcoin or stay away from it?",
+    "summary": [
+      {
+        "claim": "Should we invest in Bitcoin or stay away from it?",
+        "perspectives": [
+          {
+            "text": "Investing in Bitcoin could pave the way for criminal activity, as seen in the past with The Silk Road.",
+            "evidence_docs": [
+              1064
+            ]
+          },
+          {
+            "text": "Bitcoin has the potential to become an environmental disaster due to its high energy consumption.",
+            "evidence_docs": [
+              456
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Should we invest in Bitcoin or stay away from it?",
+        "perspectives": [
+          {
+            "text": "Bitcoin is becoming increasingly mainstream and accepted as a currency, with major companies like Tesla and JPMorgan investing in it.",
+            "evidence_docs": [
+              655
+            ]
+          },
+          {
+            "text": "The rise in Bitcoin prices is likely a bubble, and its volatility will eventually lead to a crash.",
+            "evidence_docs": [
+              719
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_4",
+    "query": "Did the Original NAFTA hurt or help America?",
+    "summary": [
+      {
+        "claim": "NAFTA hurt America",
+        "perspectives": [
+          {
+            "text": "NAFTA damaged the American economy, with 1.1 million small farmers losing work in the first 12 years of the pact.",
+            "evidence_docs": [
+              414,
+              833
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "NAFTA helped America",
+        "perspectives": [
+          {
+            "text": "NAFTA has helped Mexico more than quadruple its exports as a share of GDP in the two decades since its signing.",
+            "evidence_docs": [
+              1230
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_5",
+    "query": "Do Unions bring positive change or create more harm than good?",
+    "summary": [
+      {
+        "claim": "Unions bring more harm than good",
+        "perspectives": [
+          {
+            "text": "Unions can cause public harm through strikes and violence, as seen in the Occupy Oakland strike of 2011.",
+            "evidence_docs": [
+              948
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Unions bring more harm than good",
+        "perspectives": [
+          {
+            "text": "Unions can disrupt the economy and give disproportionate influence over politicians.",
+            "evidence_docs": [
+              1809
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_6",
+    "query": "Are Banks a force of Good or Evil?",
+    "summary": [
+      {
+        "claim": "Banks are a force of good",
+        "perspectives": [
+          {
+            "text": "Banks provide opportunity and financial assistance to individuals and businesses, helping to strengthen the economy.",
+            "evidence_docs": [
+              3008,
+              1186,
+              561
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Banks are a force of evil",
+        "perspectives": [
+          {
+            "text": "Banks have been known to engage in predatory lending practices and prioritize profits over customer well-being.",
+            "evidence_docs": [
+              4001,
+              4001,
+              4001
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_7",
+    "query": "Is Real Estate the Best Investment?",
+    "summary": [
+      {
+        "claim": "Real Estate is a good investment",
+        "perspectives": [
+          {
+            "text": "Real estate investments incur taxes, whereas assets in tax-free IRAs can grow tax-free and be withdrawn without income tax penalties.",
+            "evidence_docs": [
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Real Estate is not the best investment",
+        "perspectives": [
+          {
+            "text": "Real estate investments can be expensive, while stocks like ETFs have very low fees and can help diversify a portfolio without investing in individual stocks.",
+            "evidence_docs": [
+              1,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_8",
+    "query": "IOS or Android – Which Smartphone Is Better?",
+    "summary": [
+      {
+        "claim": "iOS is better than Android",
+        "perspectives": [
+          {
+            "text": "iOS has better support for older phone models and faster updates, with 50% of all iOS phones running the latest version as of Dec 2019 (Doc 947).",
+            "evidence_docs": [
+              947
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Android is better than iOS",
+        "perspectives": [
+          {
+            "text": "Android provides quality at a lower cost, with over 75% market share and unlimited free apps in the Google Play Store (Doc 1152).",
+            "evidence_docs": [
+              1152
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_9",
+    "query": "Should we Raise the Minimum Wage?",
+    "summary": [
+      {
+        "claim": "Raising the minimum wage would have a positive impact on low-wage workers",
+        "perspectives": [
+          {
+            "text": "Raising the minimum wage would ensure low-wage workers a wage that keeps pace with the rising costs of goods and services.",
+            "evidence_docs": [
+              2493
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Raising the minimum wage would have a negative impact on employment",
+        "perspectives": [
+          {
+            "text": "Increasing the minimum wage leads to reduced employment which leads to an increase in thefts, drug sales, and violent crime.",
+            "evidence_docs": [
+              2397
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_10",
+    "query": "Is Home Ownership Still Worthwhile?",
+    "summary": [
+      {
+        "claim": "Home ownership is still worthwhile",
+        "perspectives": [
+          {
+            "text": "Homeownership provides a space for families to grow, convene throughout large spans of time, and create memories.",
+            "evidence_docs": [
+              301
+            ]
+          },
+          {
+            "text": "The owners of the work deserve to have the choice to benefit from their own endeavours through having copyright over that work.",
+            "evidence_docs": [
+              1542
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Home ownership is not worthwhile",
+        "perspectives": [
+          {
+            "text": "Money should be spent where it can make most difference, and adapting to climate change is more cost-effective than homeownership.",
+            "evidence_docs": [
+              2128
+            ]
+          },
+          {
+            "text": "Working from home can make it harder to achieve a healthy work-life balance and is not suitable to all personality types.",
+            "evidence_docs": [
+              758
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_11",
+    "query": "Battle of the consoles : Xbox vs. PlayStation",
+    "summary": [
+      {
+        "claim": "Xbox is the better console",
+        "perspectives": [
+          {
+            "text": "Xbox allows for backwards compatibility, a feature that keeps gamers from having to re-purchase old games.",
+            "evidence_docs": [
+              127
+            ]
+          },
+          {
+            "text": "The Xbox console is also cheaper than the PS to begin with.",
+            "evidence_docs": [
+              127
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Xbox is not the better console",
+        "perspectives": [
+          {
+            "text": "The PS has a clear advantage on the Xbox in terms of horsepower and GPU compute units.",
+            "evidence_docs": [
+              419
+            ]
+          },
+          {
+            "text": "PSN gives you a better chance at matchmaking due to the fact that more people are playing.",
+            "evidence_docs": [
+              377
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_12",
+    "query": "Should we Fight or Embrace Illegal Downloads?",
+    "summary": [
+      {
+        "claim": "We should embrace illegal downloads",
+        "perspectives": [
+          {
+            "text": "With affordable alternatives like Netflix, Amazon Prime Video, and Spotify, there's no reason to accept illegal downloads as a viable option.",
+            "evidence_docs": [
+              870,
+              620
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "We should fight illegal downloads",
+        "perspectives": [
+          {
+            "text": "File-sharers are directly responsible for damaging the music industry, and growth in legitimate downloads from iTunes halted.",
+            "evidence_docs": [
+              3014
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_13",
+    "query": "The Perspective on Elon Musk",
+    "summary": [
+      {
+        "claim": "Elon Musk is a visionary leader who has had a positive impact on the world.",
+        "perspectives": [
+          {
+            "text": "Musk is a visionary, and his dreams alone have had a positive global impact.",
+            "evidence_docs": [
+              143
+            ]
+          },
+          {
+            "text": "His most recent partnership with T-Mobile will make cellphone service available almost everywhere in the US.",
+            "evidence_docs": [
+              143
+            ]
+          },
+          {
+            "text": "Tesla has steered the automotive industry towards a new era with semi-autonomous vehicles and electric cars.",
+            "evidence_docs": [
+              143
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Elon Musk is a flawed leader who has had a negative impact on the world.",
+        "perspectives": [
+          {
+            "text": "Musk often devotes his resources towards projects that are arguably rooted in vanity.",
+            "evidence_docs": [
+              37
+            ]
+          },
+          {
+            "text": "His arrogance and insensitive comments have caused real-life consequences for shareholders.",
+            "evidence_docs": [
+              37
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_16",
+    "query": "Does Wall Street embody flawed ethics or economic success?",
+    "summary": [
+      {
+        "claim": "Wall Street embodies economic success",
+        "perspectives": [
+          {
+            "text": "Wall Street employees can make an easy $85,000 a year before bonuses and managing directors can top an annual salary of $450,000.",
+            "evidence_docs": [
+              1030
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Wall Street embodies flawed ethics",
+        "perspectives": [
+          {
+            "text": "Wall Street bonuses are around double the total earnings of Americans who work full-time jobs at minimum wage.",
+            "evidence_docs": [
+              859
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_17",
+    "query": "Internet Trolls: Social Artists or Sadists?",
+    "summary": [
+      {
+        "claim": "Trolls can be a force for good by exposing media-driven culture's inefficiencies and encouraging critical thinking.",
+        "perspectives": [
+          {
+            "text": "Trolls reveal media's propensity for sensationalism and encourage consumers to be more cautious.",
+            "evidence_docs": [
+              1157
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Trolls can be a force for good by exposing media-driven culture's inefficiencies and encouraging critical thinking.",
+        "perspectives": [
+          {
+            "text": "Trolls warn us to be more cautious consumers of information, whether dealing with outlets big or small.",
+            "evidence_docs": [
+              1157
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_18",
+    "query": "The Perspective on Bill Gates",
+    "summary": [
+      {
+        "claim": "Bill Gates is a generous philanthropist who has made significant contributions to global health and technology.",
+        "perspectives": [
+          {
+            "text": "Gates has donated $4.6 billion to The Bill and Melinda Gates Foundation charity, tackling global healthcare in both developing and first-world countries.",
+            "evidence_docs": [
+              965
+            ]
+          },
+          {
+            "text": "He has a track record for spotting opportunity and has ensured Microsoft has continuously paved the way for technological innovation.",
+            "evidence_docs": [
+              208
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Bill Gates is a hypocrite who uses his wealth and influence to promote a socialist agenda while accumulating wealth himself.",
+        "perspectives": [
+          {
+            "text": "Gates has publicly spoken out against capitalism, criticizing the lack of attention paid to the poor and scientific innovation by the wealthy.",
+            "evidence_docs": [
+              1081
+            ]
+          },
+          {
+            "text": "He has immense control over global health, contributing 10% of the World Health Organization's total budget.",
+            "evidence_docs": [
+              92
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_20",
+    "query": "Is Twitter a life-enhancing or life-disabling tool?",
+    "summary": [
+      {
+        "claim": "Twitter is a life-enhancing tool",
+        "perspectives": [
+          {
+            "text": "Twitter is a direct and accessible platform that enables users to communicate with each other and stay informed about current events.",
+            "evidence_docs": [
+              319
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Twitter is a life-disabling tool",
+        "perspectives": [
+          {
+            "text": "Twitter can be a breeding ground for cyberbullying, harassment, and hate speech, posing a significant threat to users' mental health and well-being.",
+            "evidence_docs": [
+              1176
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_21",
+    "query": "Is China the Next Superpower?",
+    "summary": [
+      {
+        "claim": "China is likely to be the next superpower",
+        "perspectives": [
+          {
+            "text": "China is the world's top exporting and trading country, with over $479.97 billion in exports to the US in 2018 (Doc 504).",
+            "evidence_docs": [
+              504
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "China is unlikely to be the next superpower",
+        "perspectives": [
+          {
+            "text": "China's financial system lacks credibility, with a largely underdeveloped and government-meditled sector (Doc 992).",
+            "evidence_docs": [
+              992
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_23",
+    "query": "The Perspective on Fracking",
+    "summary": [
+      {
+        "claim": "The use of fracking has both positive and negative environmental impacts.",
+        "perspectives": [
+          {
+            "text": "Fracking has led to a significant increase in US natural gas production, reducing foreign dependence and lowering gas prices.",
+            "evidence_docs": [
+              276,
+              353
+            ]
+          },
+          {
+            "text": "Fracking has released toxic chemicals into the air and water, contaminating drinking water and causing severe methane leaks.",
+            "evidence_docs": [
+              1065
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The use of fracking has both positive and negative economic impacts.",
+        "perspectives": [
+          {
+            "text": "Fracking has created over 725,000 jobs and increased local economies, providing job security for people previously unemployed.",
+            "evidence_docs": [
+              410
+            ]
+          },
+          {
+            "text": "Fracking has also led to increased costs for local communities, including environmental damage and health risks.",
+            "evidence_docs": [
+              1065
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_24",
+    "query": "Will Nuclear Power advance or ruin humanity?",
+    "summary": [
+      {
+        "claim": "Will nuclear power advance or ruin humanity?",
+        "perspectives": [
+          {
+            "text": "Nuclear power can curb global warming and climate change by replacing fossil fuels, saving millions of lives by 2050.",
+            "evidence_docs": [
+              389
+            ]
+          },
+          {
+            "text": "Nuclear power can provide energy for non-proliferation efforts, powering entire nations for years.",
+            "evidence_docs": [
+              155
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Will nuclear power advance or ruin humanity?",
+        "perspectives": [
+          {
+            "text": "Nuclear power poses a significant risk of accidents and proliferation, threatening global security and stability.",
+            "evidence_docs": [
+              2744
+            ]
+          },
+          {
+            "text": "Nuclear weapons deter large-scale conflict, bringing peace and stability to the world.",
+            "evidence_docs": [
+              2746
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_25",
+    "query": "Is the EU better off divided or together?",
+    "summary": [
+      {
+        "claim": "The EU is better off together",
+        "perspectives": [
+          {
+            "text": "As part of the EU, the EU has a lot more leverage when brokering a deal with China or India, and free trading between members is a strong bargaining tool.",
+            "evidence_docs": [
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The EU is better off divided",
+        "perspectives": [
+          {
+            "text": "Unless a replacement deal is agreed upon, leaving the EU could result in British goods being subject to tariffs, and the Pound fell to a 10-week low.",
+            "evidence_docs": [
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_26",
+    "query": "Startups: Is it better to be first or second to the market?",
+    "summary": [
+      {
+        "claim": "Being the first to market has a significant advantage over being the second.",
+        "perspectives": [
+          {
+            "text": "According to a study of 500 companies, the first mover had a 47% failure rate, while the first follower faced an 8% failure rate.",
+            "evidence_docs": [
+              165
+            ]
+          },
+          {
+            "text": "However, first movers often have better business models, management, and timing, which can help them succeed.",
+            "evidence_docs": [
+              426
+            ]
+          },
+          {
+            "text": "This advantage can be attributed to the fact that first movers can establish a strong brand association, making it harder for followers to compete.",
+            "evidence_docs": [
+              868
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Being the first to market is not always better, and sometimes being the second can be advantageous.",
+        "perspectives": [
+          {
+            "text": "Entering the market later allows a company to see that there is market demand for its product, and to improve itself based on the data available from first movers.",
+            "evidence_docs": [
+              165
+            ]
+          },
+          {
+            "text": "Additionally, being the second to market can provide a fresh perspective and avoid the mistakes of first movers.",
+            "evidence_docs": [
+              426
+            ]
+          },
+          {
+            "text": "This can lead to a stronger brand association and better customer loyalty, as consumers have no other options but to choose the innovator.",
+            "evidence_docs": [
+              988
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_27",
+    "query": "Is Amazon Good or Bad for the Shopping Industry?",
+    "summary": [
+      {
+        "claim": "Amazon is good for the shopping industry",
+        "perspectives": [
+          {
+            "text": "Amazon provides fast and effortless comparison-shopping, immediacy in purchasing, and a near-instantaneous customer journey, benefiting consumers.",
+            "evidence_docs": [
+              516,
+              1206
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Amazon is bad for the shopping industry",
+        "perspectives": [
+          {
+            "text": "Amazon's dominance and monopolistic practices can lead to job losses, reduced competition, and increased prices for consumers.",
+            "evidence_docs": [
+              1206,
+              114
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_28",
+    "query": "THE PERSPECTIVE ON DIGITAL MARKETING",
+    "summary": [
+      {
+        "claim": "Digital marketing has revolutionized the way businesses approach marketing",
+        "perspectives": [
+          {
+            "text": "Digital marketing has transformed the way companies interact with customers, providing a more personalized and measurable approach.",
+            "evidence_docs": [
+              251,
+              407,
+              421
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Digital marketing has become overly reliant on analytics and data, leading to a lack of creativity and originality",
+        "perspectives": [
+          {
+            "text": "Digital marketing has become too focused on metrics and data, stifling creativity and innovation.",
+            "evidence_docs": [
+              495,
+              666
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_29",
+    "query": "The Perspective on Google: is it too powerful?",
+    "summary": [
+      {
+        "claim": "Google is too powerful",
+        "perspectives": [
+          {
+            "text": "Google has 90% search engine market share, controls nearly 70% of digital advertising, and has access to 1.5 billion users",
+            "evidence_docs": [
+              102,
+              1191
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Google is not too powerful",
+        "perspectives": [
+          {
+            "text": "Google has enabled free use of many products, created useful tools, and transformed industries like music and television",
+            "evidence_docs": [
+              1188
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_30",
+    "query": "Should we raise taxes on the rich?",
+    "summary": [
+      {
+        "claim": "Raising taxes on the rich can lead to increased economic growth and reduced income inequality.",
+        "perspectives": [
+          {
+            "text": "Implementing a high tax on the rich can lead to increased economic growth and reduced income inequality.",
+            "evidence_docs": [
+              3796
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Raising taxes on the rich can lead to increased economic growth and reduced income inequality.",
+        "perspectives": [
+          {
+            "text": "The rich are more likely to invest in their own businesses and create jobs, leading to economic growth.",
+            "evidence_docs": [
+              2982
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_31",
+    "query": "Will virtual reality ever take off?",
+    "summary": [
+      {
+        "claim": "Virtual reality will take off",
+        "perspectives": [
+          {
+            "text": "Virtual reality has been permeating our daily lives for a while now, with the combined VR and AR markets expected to reach $18.8 billion in 2020.",
+            "evidence_docs": [
+              808
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Virtual reality will not take off",
+        "perspectives": [
+          {
+            "text": "Treating university education like any other commodity will increase the perception that it is a luxury, and fewer people from less well-off backgrounds will go to university.",
+            "evidence_docs": [
+              1332
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_32",
+    "query": "Start Your Startup after School or Get Some Full-Time Experience First?",
+    "summary": [
+      {
+        "claim": "Starting your startup after school or getting some full-time experience first?",
+        "perspectives": [
+          {
+            "text": "Starting a startup after school can provide real-life learning opportunities, as seen in Bill Clerico's experience at his first job.",
+            "evidence_docs": [
+              1194
+            ]
+          },
+          {
+            "text": "However, this approach may not be feasible for many, as it can be difficult to balance school and startup responsibilities.",
+            "evidence_docs": [
+              250
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Starting your startup after school or getting some full-time experience first?",
+        "perspectives": [
+          {
+            "text": "Extending school hours can save parents money and allow adults to work longer hours, making life more luxurious.",
+            "evidence_docs": [
+              3922
+            ]
+          },
+          {
+            "text": "This approach can also provide a head start on competition, as seen in the success of Amazon, eBay, and Coca-Cola.",
+            "evidence_docs": [
+              250
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_34",
+    "query": "The Perspective on Big Data",
+    "summary": [
+      {
+        "claim": "Big Data has the potential to create a more efficient and effective society",
+        "perspectives": [
+          {
+            "text": "Big Data is making smart societies a reality, with institutions like MIT using Big Data analyses to build smart cities that reduce living costs and improve quality of life.",
+            "evidence_docs": [
+              1210
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Big Data has the potential to create a more efficient and effective society",
+        "perspectives": [
+          {
+            "text": "Big Data is paving the way for more efficient lifestyles; the more we collect, the smarter we become.",
+            "evidence_docs": [
+              259
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_35",
+    "query": "Should you fly on traditional or low-cost airlines?",
+    "summary": [
+      {
+        "claim": "Traditional airlines are better equipped to handle passenger needs",
+        "perspectives": [
+          {
+            "text": "Traditional airlines have policies in place to offer passengers travel rerouting, refunds, and compensation packages in the event of flight delays or cancellations.",
+            "evidence_docs": [
+              1016
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Low-cost airlines are cheaper and offer more flexibility",
+        "perspectives": [
+          {
+            "text": "Low-cost airlines offer lower ticket prices, often 20% lower than traditional airlines, and allow passengers to book red-eye flights with fewer crowds.",
+            "evidence_docs": [
+              1031
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_36",
+    "query": "The Perspective on Small-Change Investment Apps",
+    "summary": [
+      {
+        "claim": "Small-change investment apps make investing accessible to everyone, without breaking the bank.",
+        "perspectives": [
+          {
+            "text": "These apps allow anyone with a smartphone and some spare change to have a chance to grow their money.",
+            "evidence_docs": [
+              526
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Small-change investment apps usually restrict you to specific stocks or Exchange-Traded Funds.",
+        "perspectives": [
+          {
+            "text": "These apps restrict you to specific stocks or Exchange-Traded Funds, which may confine your options for long-term investment goals.",
+            "evidence_docs": [
+              760
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_37",
+    "query": "Open vs. Closed Space Work Environments",
+    "summary": [
+      {
+        "claim": "Open workspaces have several benefits, including increased collaboration and productivity.",
+        "perspectives": [
+          {
+            "text": "Open workspaces can inhibit productivity, reducing face-to-face interactions by 70% and increasing employee interruption.",
+            "evidence_docs": [
+              72,
+              713
+            ]
+          },
+          {
+            "text": "Open workspaces can foster creativity and innovation, leading to new ideas and solutions.",
+            "evidence_docs": [
+              775
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Closed workspaces have several benefits, including increased physical and emotional health safety.",
+        "perspectives": [
+          {
+            "text": "Closed workspaces provide workers with increased physical health safety, reducing the risk of exposure to germs.",
+            "evidence_docs": [
+              99,
+              775
+            ]
+          },
+          {
+            "text": "Closed workspaces can improve employees' emotional wellbeing, reducing work-related stressors.",
+            "evidence_docs": [
+              99,
+              775
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_38",
+    "query": "Are Smart Homes a Smart Idea?",
+    "summary": [
+      {
+        "claim": "Smart Homes are a Smart Idea",
+        "perspectives": [
+          {
+            "text": "Smart homes greatly enhance people's levels of safety.",
+            "evidence_docs": [
+              94
+            ]
+          },
+          {
+            "text": "Smart homes greatly enhance people's levels of safety.",
+            "evidence_docs": [
+              94
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "Smart Homes are Not a Smart Idea",
+        "perspectives": [
+          {
+            "text": "Smart home technology is more cost- and energy-efficient than traditional home appliances and electronics.",
+            "evidence_docs": [
+              590
+            ]
+          },
+          {
+            "text": "Besides the obvious risk of serious malfunctions in your smart home when your internet connection goes kaput.",
+            "evidence_docs": [
+              162
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_40",
+    "query": "Is E-Commerce Pushing Us Forward or Holding Us Back?",
+    "summary": [
+      {
+        "claim": "E-commerce is pushing us forward",
+        "perspectives": [
+          {
+            "text": "E-commerce is creating new retail jobs and opportunities for workers to acquire new skills",
+            "evidence_docs": [
+              486
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "E-commerce is holding us back",
+        "perspectives": [
+          {
+            "text": "E-commerce is eliminating old retail jobs and leaving workers underemployed or unemployed",
+            "evidence_docs": [
+              486
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  },
+  {
+    "id": "businessandtechnology_41",
+    "query": "Do the benefits of crowd-sleuthing outweigh the risks?",
+    "summary": [
+      {
+        "claim": "The benefits of crowd-sleuthing outweigh the risks.",
+        "perspectives": [
+          {
+            "text": "Crowd-sleuthing has proven a strong tool for delivering justice and should therefore be encouraged.",
+            "evidence_docs": [
+              123,
+              771
+            ]
+          }
+        ]
+      },
+      {
+        "claim": "The benefits of crowd-sleuthing outweigh the risks.",
+        "perspectives": [
+          {
+            "text": "The internet seems to have a knack for convening the people with the right information in the right place.",
+            "evidence_docs": [
+              123,
+              771
+            ]
+          }
+        ]
+      }
+    ],
+    "metrics": null
+  }
+]

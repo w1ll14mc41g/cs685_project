@@ -1,12 +1,11 @@
 import argparse
-import csv
 import json
 from datetime import datetime
 from pathlib import Path
 from src.utils.io import load_theperspective_dataset
 from src.utils.io import load_theperspective_evidence
 from src.retrieval.tfidf_retrieval import retrieve_local_docs
-from src.retrieval.web_retrieval import search_web
+# from src.retrieval.web_retrieval import search_web
 # from src.validation.entailment import check_entailment
 # from src.summarization.merge import merge_documents
 from src.summarization.merge import merge_docs_lists
@@ -133,8 +132,8 @@ def main():
         # Merge local documents + web documents
         merged_corpus = merge_docs_lists(local_docs, web_docs)
 
-        # Summarization
-        summary = summarize_query(query_text, merged_corpus, entry["claims"])
+        # Summarization: model generates claims; pass only query and docs
+        summary = summarize_query(query_text, merged_corpus)
 
         print(f"summary:\n{summary}")
 

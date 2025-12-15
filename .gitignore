@@ -3,6 +3,7 @@ __pycache__/
 *.csv
 experiments/
 .venv/
+logs/
 
 # Environment files (API keys)
 .env

@@ -3,7 +3,7 @@ import os
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from pydantic import BaseModel, Field, field_validator
-from typing import List, Dict, Any
+from typing import List
 from outlines.models import from_transformers
 
 # Module-level cache for model and generator
@@ -76,14 +76,13 @@ def _get_outlines_model(model_name: str, hf_token: str):
     
     return _outlines_model_cache[model_name]
 
-def summarize_query(query: str, merged_corpus: list, claims: list):
+def summarize_query(query: str, merged_corpus: list):
     """
     Generate multi-perspective summary using Llama-3.2-3B-Instruct with constrained JSON decoding.
     
     Args:
         query: the query/topic
         merged_corpus: list of documents with id, content, and score
-        claims: list of 2 claims for different perspectives
     
     Returns:
         list: multi-perspective summary with structure:
@@ -96,7 +95,8 @@ def summarize_query(query: str, merged_corpus: list, claims: list):
             }
         ]
     """
-    if not merged_corpus or len(claims) < 2:
+    # Only require docs; the model generates claims itself
+    if not merged_corpus:
         return []
     
     # Load outlines model (cached on first call)
@@ -145,7 +145,7 @@ Generate the JSON output now:"""
     for attempt in range(max_retries):
         try:
             # Use constrained generation to enforce JSON schema
-            result = model(prompt, MultiPerspectiveSummary, max_new_tokens=1500, temperature=0.1, top_p=0.9)
+            result = model(prompt, MultiPerspectiveSummary, max_new_tokens=1500, temperature=0.1, top_p=0.8)
             
             print("================================ GENERATED RESPONSE =================================")
             print(result)
@@ -171,7 +171,7 @@ Generate the JSON output now:"""
                 fallback_ids = [doc['id'] for doc in merged_corpus[:min(3, len(merged_corpus))]]
                 return [
                     {
-                        "claim": claims[0] if len(claims) > 0 else "Positive claim",
+                        "claim": "Positive claim",
                         "perspectives": [
                             {
                                 "text": f"Error generating summary: {str(e)[:100]}",
@@ -180,7 +180,7 @@ Generate the JSON output now:"""
                         ]
                     },
                     {
-                        "claim": claims[1] if len(claims) > 1 else "Negative claim",
+                        "claim": "Negative claim",
                         "perspectives": [
                             {
                                 "text": f"Error generating summary: {str(e)[:100]}",
