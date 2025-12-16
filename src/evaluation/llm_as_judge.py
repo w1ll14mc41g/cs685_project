@@ -306,7 +306,8 @@ INSTRUCTIONS:
                 {"role": "system", "content": "You are evaluating a multi-perspective summary. Judge the summary based on the criteria provided, assigning points for each category."},
                 {"role": "user", "content": prompt}
             ],
-            text_format=EvaluationResponse
+            text_format=EvaluationResponse,
+	    reasoning={"effort": "low"}
         )
         
         # Check for refusal (Structured Outputs feature)
