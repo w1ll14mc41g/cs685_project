@@ -1,0 +1,1172 @@
+{
+  "timestamp": "2025-12-17T09:47:24.024912",
+  "model": "gpt-5-nano-2025-08-07",
+  "summary_file": "results/merged-summaries/results-merged-20-20251215_082358.json",
+  "summary_type": "merged",
+  "num_evaluated": 83,
+  "num_skipped_errors": 102,
+  "results": [
+    {
+      "id": "query_0",
+      "query": "Surrealist Memes: Regression or Progression?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":2,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":2,\"criterion_5_factual_grounding\":1},\"explanations\":{\"criterion_1\":\"The two main claims directly address whether surrealist memes represent progression or regression in meme art, i.e., they are oppositional and on-topic.\",\"criterion_2\":\"Most perspectives clearly align with either the progression (claim 1/second sub-claim) or regression stance; however, a couple of perspectives could be read as general claims without a strong explicit stance, but overall alignment is solid.\",\"criterion_3\":\"There is some overlap among perspectives (e.g., several argue about elitism or insider status) which slightly reduces distinctness; a few perspectives offer unique angles (art traditions, Dada influence, googling difficulty), but not all are fully non-overlapping.\",\"criterion_4\":\"The summary covers multiple core arguments: art-traditions influence, message-less impact, Dada/Surreal influences, insider culture, and accessibility; it aligns well with gold evidence and adds novel angles.\",\"criterion_5\":\"Most perspectives reference sources, but several entries rely on general links (e.g., generic pages) rather than clearly cited evidence within the prompt; minor risk of under- grounding for some points.\"}}"
+    },
+    {
+      "id": "query_1",
+      "query": "Throwback TV: Friends or Seinfeld?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"Claims directly address the query by presenting pro and con positions (Friends better vs Seinfeld better) and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective aligns with one of the two claims (Friends-dominant pro arguments and Seinfeld-dominant pro arguments) and maintains consistent stance within each perspective set.\",\n    \"criterion_3\": \"Most perspectives offer distinct angles (broad appeal, innovation, aging, cultural impact, etc.), but there is some potential overlap between 'cultural impact' and 'lasting impact' arguments, leading to minor redundancy.\",\n    \"criterion_4\": \"The summary covers core arguments from the gold and added evidence: classic status, audience reach, innovation vs. landmark status, aging, and lasting impact, providing a broad capture of the debate.\",\n    \"criterion_5\": \"Evidence documents are provided for each perspective and are coherent with the claim support, though some entries pull from external sources; overall grounding is solid with minimal risk of fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_5",
+      "query": "How Should We View Michael Jackson’s legacy?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (positive vs negative view of MJ's legacy) directly address the query, and are clearly oppositional.\",\n    \"criterion_2\": \"Most perspectives clearly support their respective claim (pro items align with positive legacy; con items align with negative/controversial aspects). A couple of con items reference well-documented allegations; none misattribute stance.\",\n    \"criterion_3\": \"Most perspectives provide distinct angles (artistic influence vs philanthropy vs controversy). Some overlap around controversy/celebrity buzz reduces uniqueness for a couple of items from the pro side.\",\n    \"criterion_4\": \"The summary covers key arguments from the gold set (influence on music/videos, philanthropy) and includes additional corroborating points from Web evidence. It captures major pro and con themes.\",\n    \"criterion_5\": \"Grounding is mixed: pro items cite sources like charity and influence, but several con items rely on a mix of sources some of which are not strictly provided in the given evidence list (e.g., general web links). Overall, most claims reference documented allegations, but a few are from non-specified sources.\"\n  }\n}"
+    },
+    {
+      "id": "query_6",
+      "query": "Disney Animated Films – Are they good for children?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"Claims directly address whether Disney films are good or bad for children and present explicit pro and con positions.\",\n    \"criterion_2\": \"Each perspective aligns with either the pro or con claim (two pro perspectives and two con perspectives are clearly represented), though one con item touches similar ground as another.\",\n    \"criterion_3\": \"Some perspectives repeat the same underlying concern (consumerism) across pro and con, which reduces distinctiveness; at least one argument (tolerance/acceptance of others) is different.\",\n    \"criterion_4\": \"Core arguments from the gold reference are partly captured (social awareness, hope, consumerism, stereotypes, empowerment), but not all are fully represented; some new but relevant points are included, though coverage is incomplete.\",\n    \"criterion_5\": \"Claims are generally tied to evidence-style phrases, but several assertions (e.g., consumerism training) rely on the same evidence IDs repeatedly and there is some risk of fabrication or misattribution of evidence beyond provided docs; grounding is partial.\"\n  }\n}"
+    },
+    {
+      "id": "query_7",
+      "query": "(Titanic) Could Jack have been saved?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"Both claims directly address the central question of whether Jack could have been saved by tying Rose's life jacket to the door. They are clearly oppositional (pro and con).\",\n    \"criterion_2\": \"Each perspective aligns with its respective claim: the pro claim includes evidence suggesting buoyancy via the life jacket (Doc 134) and counters with freezing-water caveat (Doc 457); the con claim reiterates the freezing-water argument (Doc 457) and notes MythBusters is not representative (Doc 134).\",\n    \"criterion_3\": \"The two perspectives under each claim are mostly distinct (buoyancy idea vs. weight/conditions). However, there is some overlap in citing Doc 457 across perspectives, which slightly reduces distinctness.\",\n    \"criterion_4\": \"The summary covers key arguments from the provided sources: buoyancy from the life jacket (Doc 134), freezing-water limitations (Doc 457), and the caveat about the MythBusters recreation (Doc 134). This aligns with core arguments from the evidence set.\",\n    \"criterion_5\": \"All perspectives reference specific evidence documents (134 and 457) and do not introduce unsupported fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_8",
+      "query": "Which is better: Star Wars Vs. Star Trek?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 1,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 6
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 1,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (Star Wars is better; Star Trek is better) directly address the query and are clearly oppositional.\",\n    \"criterion_2\": \"Most perspectives support a specific claim, but some perspectives are ambiguous about which side they back (e.g., some lines repeat 'Star Trek is better' without clear alignment to the stated claim).\",\n    \"criterion_3\": \"There is some reuse of similar arguments across perspectives (e.g., 'Star Wars is better' is echoed in multiple lines), leading to partial overlap between perspectives.\",\n    \"criterion_4\": \"Core arguments from the gold example (scope, impact, realism, diplomacy) are touched, but coverage of the full set of arguments is incomplete and some claims rely on generalities rather than explicit evidence.\",\n    \"criterion_5\": \"Evidence Docs are cited, but some claims (e.g., broad superiority statements) could be better tied to the specific evidence numbers provided; overall moderate grounding with room for stronger linkage.\"\n  }\n}"
+    },
+    {
+      "id": "query_10",
+      "query": "Is Harley Quinn a Villain or a Tragic Character?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query by presenting Harley Quinn as a Villain and as a Tragic Character, i.e., opposing viewpoints.\",\n    \"criterion_2\": \"Each perspective in the Villain claim clearly advocates for villainy, and each perspective in the TragicCharacter claim clearly advocates for tragedy/complexity, showing alignment with their respective claim.\",\n    \"criterion_3\": \"There is some variety (e.g., victimization, manipulation, emancipation, backstory), but several perspectives reuse similar themes (manipulation by Joker, criminality, etc.), leading to moderate distinctness.\",\n    \"criterion_4\": \"Core arguments from the gold summary and web evidence are partially represented (villainy, manipulation, origin). However, the tragic-character side could be more explicitly tied to examples of empathy/complexity; overall coverage is partial.\",\n    \"criterion_5\": \"Most perspectives cite explicit sources (web evidence) or references from the gold/additional docs, but a few statements (e.g., general assertions about actions) are supported by linked URLs rather than direct quotes; still grounded, with limited risk of fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_11",
+      "query": "Is Kanye West a Great Artist or a Great Marketer?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query (Great Artist vs Great Marketer) and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective is tied to one of the two claims (artist-focused perspectives align with the 'Great Artist' claim; marketer-focused perspectives align with the 'Great Marketer' claim).\",\n    \"criterion_3\": \"Most perspectives provide distinct justifications, but there is some overlap in themes (e.g., broad statements about influence/branding) which reduces full distinctness.\",\n    \"criterion_4\": \"The summary covers core arguments from the gold (artist credibility, influence, multi-talented reach) and includes marketing-related points from additional evidence; however, it could more explicitly synthesize the core contrasts between art vs marketing.\",\n    \"criterion_5\": \"Most perspectives reference verifiable ideas (multifaceted talent, marketing influence). Some claims rest on user-generated posts or non-peer sources; overall grounding is present but not uniformly strong across all items.\"\n  }\n}"
+    },
+    {
+      "id": "query_14",
+      "query": "Game of Thrones: Epic or Epic Fail?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims (Game of Thrones is epic vs. epic fail) directly address the query 'Epic or Epic Fail?' and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective is aligned with one of the two claims (pro-epic perspectives support 'epic', con-epic-fail perspectives support 'epic fail'). Generally consistent, though a few items could be read as broad praise rather than explicit empirical stance.\",\n    \"criterion_3\": \"Most perspectives provide distinct arguments (complex/ multilayered storytelling, world-building, cultural impact vs. convoluted plot, rushed finale, pacing). There is some minor overlap between arguments about storytelling quality, but they largely differ in focus.\",\n    \"criterion_4\": \"The summary incorporates core arguments from the gold (complex plots vs. too many subplots; strong world-building and lasting legacy) and aligns with the added evidence set (praise for storytelling and cultural impact; criticisms about finale and pacing). Coverage is strong and balanced.\",\n    \"criterion_5\": \"All perspectives are tied to identifiable sources in the provided evidence list, avoiding fabrication. Claims map onto cited docs and web evidence, minimizing hallucination.\"\n  }\n}"
+    },
+    {
+      "id": "query_15",
+      "query": "Battle of the Bonds: Daniel Craig or Sean Connery?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 1,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 6
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 1,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"Both claims directly address the query (Sean Connery vs Daniel Craig) and are presented as opposing positions.\",\n    \"criterion_2\": \"Most perspectives align with their respective claim, but there is some ambiguity in the Craig-side perspectives about how strong the stance is relative to Connery.\",\n    \"criterion_3\": \"Perspectives are largely distinct (one Connery-leaning set, one Craig-leaning set), but a couple of lines recycle the same supportive angle (dialogue/modernization) across entries, causing minor overlap.\",\n    \"criterion_4\": \"Core arguments from the gold set are partially represented (defining/modernizing vs. classic portrayal), but the summary omits some explicit points (e.g., hierarchy of dialogue, longevity, box-office nuance) and relies on brief lines with varying strength.\",\n    \"criterion_5\": \"Most perspectives cite or imply sources (links) that align with the claims, but some entries are weakly grounded or rely on sources that are peripheral; overall grounded but not uniformly strong.\"\n  }\n}"
+    },
+    {
+      "id": "query_16",
+      "query": "Should We Cheer for Beauty Pageants or Call for Their Demise?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query: whether beauty pageants should be banned or not, and present clear pro and con stances.\",\n    \"criterion_2\": \"Most perspectives clearly align with one of the two claims (ban vs. not ban). A few items reiterate similar points (e.g., empowerment, opportunity) but overall alignment is strong.\",\n    \"criterion_3\": \"Perspectives largely cover distinct angles (oppression/exploitation vs. empowerment, cultural impact). However, there is some thematic overlap (e.g., opportunity/empowerment appears in multiple entries), causing partial overlap.\",\n    \"criterion_4\": \"The summary captures core debates: exploitation and harm vs. empowerment, opportunity, cultural exchange, skills development, and body positivity. It also integrates external evidence references, aligning with core arguments from the gold/expansive evidence set.\",\n    \"criterion_5\": \"All perspectives cite or imply evidence (values like 846, 409, BBC link, NPR, etc.) or commonly recognized sources, with a few items pointing to clearly identifiable sources. No obvious fabricated claims.\"\n  }\n}"
+    },
+    {
+      "id": "query_17",
+      "query": "How great is ‘great literature’ if it needs to be studied to be understood?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query by framing pro and con positions about whether great literature must be studied to be understood, which is the core question.\",\n    \"criterion_2\": \"Each perspective supports one of the claims: the first perspective argues for study as yielding richer lessons (pro for studied texts within the first claim), the second suggests division based on grasp/gap (con for studied texts). Overall alignment is clear, though one perspective could be seen as emphasizing depth over accessibility.\",\n    \"criterion_3\": \"The two perspectives are intended to be distinct (one emphasizes enriching lessons through study, the other emphasizes accessibility issues). There is some potential overlap in focusing on understanding through study, but they present different angles (richness of lessons vs accessibility/understanding).\",\n    \"criterion_4\": \"Covers key arguments from the provided evidence: the richness of understood lessons and accessibility concerns (e.g., if Ulysses or similar texts are inaccessible). However, it misses some nuances from the broader gold evidence such as common humanity themes and the role of methods of learning.\",\n    \"criterion_5\": \"Grounded in the supplied evidence: each perspective cites evidence_docs (244, 904) and relates to the claims. No fabrication detected.\"\n  }\n}"
+    },
+    {
+      "id": "query_18",
+      "query": "Back to the Future: Musical or Movie. Which is better?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"Both claims directly address the query (which is better: musical vs movie) and present opposing positions (pro-musical vs pro-movie).\",\n    \"criterion_2\": \"Each perspective explicitly supports one of the two claims (three for musical, three for not-musical). Alignment is clear for most, though one prose item could be interpreted ambiguously as supportive of the musical.\",\n    \"criterion_3\": \"Most perspectives provide distinct angles (emotional/experience, formal poetry, and a strong positive for the musical). However, there is some overlap between the musical perspectives discussing “layer” or appeal, leading to partial overlap.\",\n    \"criterion_4\": \" Core arguments from the gold standard are partially reflected (immersion/experience vs relationships/story/internal experience). The provided summary includes some similar themes but misses explicit contrasting arguments about character relationships and internal focus, reducing coverage.\",\n    \"criterion_5\": \" Evidence is provided for most perspectives, but some claims (e.g., “The musical is a perfect movie” and “step back into traditional poetry”) rely on sources that are not clearly tied to the same evidentiary set as the gold or web evidence, increasing risk of misalignment. Overall, grounding is mixed rather than uniformly strong.\"\n  }\n}"
+    },
+    {
+      "id": "query_19",
+      "query": "Does Nicki Minaj Empower or Objectify women?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query by presenting arms: empowerment vs objectification, i.e., clearly opposing positions.\",\n    \"criterion_2\": \"Each perspective supports one of the two claims (empowerment or objectification) with explicit stance alignment observed across perspectives.\",\n    \"criterion_3\": \"Most perspectives provide distinct angles (performance empowerment, door-opening/awards, Barbie persona, etc.), but there is some overlap in citing performances and videos which could be viewed as related arguments.\",\n    \"criterion_4\": \"The summary covers core arguments from the gold and aligns with additional evidence hints: empowerment through career/visibility and critique of objectification through sexualized imagery; includes Barbie alter-ego angle as a distinct line.\",\n    \"criterion_5\": \"Grounding is largely present, with references to specific claims and some explicit sources; however, several perspective items rely on general statements or web links without clear document titles, slightly reducing verifiability.\"\n  }\n}"
+    },
+    {
+      "id": "query_23",
+      "query": "The Perspective on Comic-Con: Is It Worth Attending?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The claim present is the overall question of whether Comic-Con is worth attending, which directly addresses the query with pro and con angles.\",\n    \"criterion_2\": \"Each perspective clearly ties to either the pro or the con claim (e.g., bonding and positives vs. commercialization and costs). Most perspectives align consistently with the respective claim.\",\n    \"criterion_3\": \"There is some variation in supporting points (bonding, harassment, nostalgia, commercialization). However, a couple of items touch on similar anti- or pro- themes, leading to partial overlap.\",\n    \"criterion_4\": \"Covers core arguments from the gold summary (openness, social value, costs/commercialization, harassment) and includes additional common concerns found in the web evidence, providing a comprehensive view.\",\n    \"criterion_5\": \"Evidence provided with each perspective supports the claims (web links cited). No evident fabrication; perspectives appear grounded in stated sources.\"\n  }\n}"
+    },
+    {
+      "id": "query_24",
+      "query": "Is slam an accepted form of poetry?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims in the gold prompt are addressed: Slam is not just yelling vs. Slam has merit as legitimate poetry. The summary presents oppositional claims addressing whether slam is accepted as poetry.\",\n    \"criterion_2\": \"Perspectives are anchored to one of the two claims (pro and con) and consistently align with them throughout the list.\",\n    \"criterion_3\": \"There is some overlap in arguments (both sets emphasize what slam is and its formal/performative aspects); while most are distinct, a couple touch similar points (form, performance, audience).\",\n    \"criterion_4\": \"The summary captures core arguments found in the gold and web evidence: performance/competition, legitimacy as poetry, and traditional vs innovative views, including definitions and venue aspects.\",\n    \"criterion_5\": \"Evidence documents are provided for each perspective, and the content aligns with commonly cited sources; no evident fabrication or unsupported claims appeared.\"\n  }\n}"
+    },
+    {
+      "id": "query_25",
+      "query": "Does Fox News add balance or propaganda to the media landscape?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address whether Fox News adds balance or propaganda, matching the prompt and presenting oppositional stances.\",\n    \"criterion_2\": \"Each perspective supports one of the stated claims (balance vs propaganda) and maintains consistency within its stance.\",\n    \"criterion_3\": \"Perspectives 1a/2a/3a largely align to the 'balance' claim, while 2b/2c align to 'propaganda'. Some overlap occurs between the 'balance' and 'propaganda' groups due to similar supportive angles (e.g., influence on ideology) that could be seen as overlapping arguments.\",\n    \"criterion_4\": \"The summary captures core arguments from the gold (balance, harm to debate) and includes added arguments (influence on ideology, audience targeting). However, it would benefit from more explicit distinct arguments for each perspective and more explicit linkage to evidence.\",\n    \"criterion_5\": \"Evidence is present in the form of provided URLs, but several cited sources are less clearly tied to the exact claims (some appear less rigorous or indirect). Overall, grounding exists but with some questionable or indirect linkage.\"\n  }\n}"
+    },
+    {
+      "id": "query_30",
+      "query": "Climate Change – Act now, or question the urgency of the threat?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims are directly about acting now vs questioning urgency, which matches the query and presents clear pro/con stance.\",\n    \"criterion_2\": \"Most perspectives clearly support one of the claims (pro-action or skepticism). Minor ambiguity arises with a couple of longer, more general lines, but overall alignment is solid.\",\n    \"criterion_3\": \"There is some diversity in arguments (government action, Paris Agreement, scientific consensus, industry ties, adaptation/inequality), but a few perspectives reiterate related themes (political inertia and funding) that could be seen as overlapping. not wholly repetitive, but not completely unique.\",\n    \"criterion_4\": \"Coverage includes multiple core arguments from the gold set (political will/targets, Paris Agreement and net-zero goals, scientific consensus, vested interests, and global impacts). However, some arguments present are lengthy without tying back to concrete evidence, resulting in partial coverage.\",\n    \"criterion_5\": \"Most perspectives reference external evidence or plausible claims, but several specific statements would benefit from explicit supporting documents in-text. There is a tendency toward extrapolation without direct citation for every point, leading to modest grounding.\"\n  }\n}"
+    },
+    {
+      "id": "query_33",
+      "query": "Is America Still Great?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two top-level claims directly address the query: 'America is still great' and 'America is not great', i.e., pro and con.\",\n    \"criterion_2\": \"Each perspective supports one of the claims: several pro statements support 'America is still great', and con statements support 'America is not great'. Some entries are clearly aligned, though a few quotes are borderline or cite broader sentiment rather than a strict pro/con stance.\",\n    \"criterion_3\": \"Most perspectives are distinct in their argument (greatness, pride/optimism, decline, dialogue/compromise). There is some overlap between the pro perspectives (patriotic sentiment) and between the con ones (decline rhetoric), leading to partial distinctness.\",\n    \"criterion_4\": \"The summary captures core arguments from the available evidence: persistence of greatness, pride, and optimism on the pro side; concerns about decline, polarization, and nadir on the con side. It also incorporates the idea that compromise/societal dialogue affects perceived greatness. Coverage is comprehensive.\",\n    \"criterion_5\": \"Grounding is generally present via linked evidence URLs, but some entries in the con side reference general discussion without explicit corroborating evidence in the provided list (some links are less clearly tied to the claim). Overall most perspectives are supported by relevant sources, with a minor degree of potential vagueness.\"\n  }\n}"
+    },
+    {
+      "id": "query_38",
+      "query": "ADHD Diagnosis:  Too Much or Just Right?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 1,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 6
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 1,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (over-diagnosed vs. not over-diagnosed vs. under-diagnosed) are directly about ADHD diagnosis, matching the query's debate. They are oppositional (pro/con).\",\n    \"criterion_2\": \"Most perspectives support either over-diagnosed or not over-diagnosed, but some entries (e.g., several reiterations of 'not over-diagnosed') appear redundant or ambiguous in alignment, causing partial misalignment.\",\n    \"criterion_3\": \"There is some diversification (media critique, awareness argument, masking for women, etc.), but several perspectives restate similar ideas about awareness; overlap reduces distinctness.\",\n    \"criterion_4\": \"Covers several core arguments seen in the gold: media influence, awareness vs overdiagnosis, demographic masking. However, not all distinct core points from gold/WEB are fully represented; missing some nuances.\",\n    \"criterion_5\": \"Most perspectives cite sources, but several claims (e.g., broad assertions about awareness) are tied to web sources that may not be high-quality or clearly connected to the claim; some entries appear to be fan-out without robust grounding.\"\n  }\n}"
+    },
+    {
+      "id": "query_39",
+      "query": "Is the Body Positive Movement as Positive as it suggests?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query: BoPo is as positive as suggested, and BoPo is not as positive as suggested (pro and con).\",\n    \"criterion_2\": \"Each perspective clearly supports one of the two claims (pro or con) and maintains consistency with that stance.\",\n    \"criterion_3\": \"Most perspectives offer distinct angles (acceptance of all bodies vs health concerns vs exclusivity vs root causes). however some con perspectives overlap around similar critiques (unrealistic standards, exclusivity, superficiality).\",\n    \"criterion_4\": \"The set covers core arguments from the gold and from the additional evidence: benefits (acceptance, industry accountability) and criticisms (unrealistic standards, exclusivity, superficiality, fatphobia, trend status).\",\n    \"criterion_5\": \"Cited evidence URLs provided across perspectives align with the claims; no obvious fabrications present in the summary text itself.\"\n  }\n}"
+    },
+    {
+      "id": "query_41",
+      "query": "Is Honesty the Best Policy?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":2,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":1,\"criterion_5_factual_grounding\":1},\"explanations\":{\"criterion_1\":\"Both main claims are directly about whether honesty is the best policy vs. not always the best, addressing the query with clear pro and con stances.\",\"criterion_2\":\"Each perspective in the evaluated summary supports one of the two claims (pro or con). Most perspectives are clearly pro-Honesty or con-Honesty, though a few lines could be read as duplicative.\",\"criterion_3\":\"There is some overlap among perspectives (two items repeat the same pro-argument about truth vs. greater good), reducing distinctness to some extent.\",\"criterion_4\":\"Core arguments from the gold set (trust, consistency, broader consequences) are represented, but the tailored web-evidence-based points introduce some redundancy and miss a few unique angles from the gold.\",\"criterion_5\":\"Most perspectives cite external sources, but a few entries lack explicit linkage to the provided evidence (some generic URLs). Overall grounding is present but not perfect.\"}}"
+    },
+    {
+      "id": "query_44",
+      "query": "Open vs. Closed Space Work Environments",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (open spaces beneficial vs closed spaces beneficial) directly address the Open vs Closed Space debate and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective is aligned with one of the two main claims (pro-open or pro-closed) and stays consistent within its set.\",\n    \"criterion_3\": \"There is some overlap in arguments across perspectives (e.g., productivity, wellbeing, privacy), leading to partial repetition; most are distinct but a few touch similar themes.\",\n    \"criterion_4\": \"The summary covers a broad set of core arguments from both sides, including collaboration, distractions, wellbeing, privacy, and creativity, aligning with the gold and additional evidence.\",\n    \"criterion_5\": \"All perspectives cite or are grounded in external evidence links (web sources provided), avoiding fabrication; however, some claims appear as general summaries of common arguments rather than explicit quotes from the listed sources, but remain grounded in the supplied evidence.\"\n  }\n}"
+    },
+    {
+      "id": "query_45",
+      "query": "Comfortably Numb: The Perspective on epidurals",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query: epidurals as safe/effective vs not safe/effective, clearly oppositional.\",\n    \"criterion_2\": \"Each perspective item supports one of the two claims (pro or con) consistently across all three pro items and all three con items.\",\n    \"criterion_3\": \"There is some overlap in pro arguments (benefit/active participation) across the three pro perspectives, and similarly some redundancy; overall distinct but not wholly non-overlapping.\",\n    \"criterion_4\": \"The summary covers key arguments from both sides, including safety/efficacy, potential interventions/lengthening labor, side effects, and the broader patient experience.\",\n    \"criterion_5\": \"Evidence sources are provided with each perspective, including web links to external sources; no obvious fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_46",
+      "query": "Breast vs. Bottle: which is better for babies?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query (breast milk vs formula) and present opposing positions (breast advantage vs not definitively better).\",\n    \"criterion_2\": \"Each perspective aligns with one of the claims: the pro-breast perspectives support the 'Breast milk is better' claim, while the pro-formula perspectives support the opposite. Some wording could be clearer to ensure unambiguous alignment.\",\n    \"criterion_3\": \"There is some distinctiveness in perspectives (nutritional/biological benefits vs social/policy or bonding angles), but there is minor overlap in broad benefits of breastfeeding and formula, leading to partial overlap.\",\n    \"criterion_4\": \" Core arguments from the gold set are partially represented (nutritional/immune benefits for breast milk; safety/viability of formula; and social implications). However, the summary could more fully cover the nuanced arguments and counterpoints from both sides.\",\n    \"criterion_5\": \"Most perspectives claim grounding in evidence, but some entries reference non-specific or external sources (e.g., URLs) and certain statements ('Babies and children have thoughts before they can speak') are vague and not clearly tied to the provided evidence. Overall, moderate grounding with some gaps.\"\n  }\n}"
+    },
+    {
+      "id": "query_47",
+      "query": "The Perspective on Prom – Antiquated or Timeless?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query (antiquated vs timeless) and present clear opposition.\",\n    \"criterion_2\": \"Each perspective is tied to one of the claims (antiquated or timeless) and remains consistent in stance within its pair.\",\n    \"criterion_3\": \"Most perspectives provide distinct angles (cost/pressure, definition of prom as tradition, origin/history, evolution). However, there is some overlap between the antiquated and timeless sets regarding shared themes like tradition and ongoing relevance, leading to a partial overlap.\",\n    \"criterion_4\": \"The summary covers core arguments from the provided set: cost/pressure, social/ritual value, historical origins, and evolution of prom, aligning with both gold and web evidence.\",\n    \"criterion_5\": \"Evidence grounding is generally present, but some items in the modern claims rely on paraphrased or indirect sources (e.g., social/trend statements) without explicit direct attribution in the summary text; most claims are grounded in the supplied web sources.\"\n  }\n}"
+    },
+    {
+      "id": "query_50",
+      "query": "The Perspective on Ayahuasca: Is it worth trying?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":2,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":2,\"criterion_5_factual_grounding\":2},\"explanations\":{\"criterion_1\":\"All four claims directly address whether ayahuasca is worth trying, presenting pro and con positions.\",\"criterion_2\":\"Each perspective supports a corresponding claim (transformative potential/adverse effects; depression treatment; risk of psychosis; unregulated tourism), showing clear pro/con alignment.\",\"criterion_3\":\"There is some overlap between the first two pro/con items (transformative potential vs. depression treatment could be seen as similar positive angles), leading to partial overlap. The negative items (purging/addiction/expense) are distinct, but one pro/contra grouping shares a theme of risk and value, causing limited distinctness.\",\"criterion_4\":\"Covers core arguments: potential benefits, side effects, mental health implications, addiction risk, and tourism regulation concerns. Includes both gold-like arguments and additional points from the web evidence.\",\"criterion_5\":\"Grounded in provided evidence URLs; statements align with cited sources (transformative potential, depression reduction signals, psychosis risk, tourism regulation concerns, purging/addiction concerns). No clear fabrication.\"}}"
+    },
+    {
+      "id": "query_54",
+      "query": "Is There Life After Death?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the question: there is life after death and there is no life after death, i.e., a clear pro/con framing.\",\n    \"criterion_2\": \"Most perspectives clearly align with one of the two claims (pro: yes life after death; con: no life after death). A couple of items reference opposing views (e.g., Jehovah's Witnesses denial) that fit the 'no afterlife' stance, and others cite pro arguments. Overall alignment is solid.\",\n    \"criterion_3\": \"Most perspectives are distinct (biblical support, near-death/experiential, doctrinal denial, general afterlife teaching, additional beliefs). However, there is some potential overlap between biblically grounded claims and doctrinal statements, causing minor redundancy.\",\n    \"criterion_4\": \"Core arguments from the gold and added evidence are partially covered (near-death/experiential, biblical/ doctrinal positions). Some arguments (e.g., scientific explanations of near-death experiences, decomposition as no afterlife) are present but not uniformly distributed across all perspectives; coverage is partial.\",\n    \"criterion_5\": \"Most perspectives reference identifiable sources in the provided evidence list, but several entries rely on web sources that may be opinionated or debatable. There is a risk of some claims not being strongly grounded in verifiable evidence, resulting in mostly but not fully grounded coverage.\"\n  }\n}"
+    },
+    {
+      "id": "query_57",
+      "query": "Should bible stories be regarded as history?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims align with the query: Bible stories should be regarded as history vs should not be regarded as history, i.e., explicit pro and con positions.\",\n    \"criterion_2\": \"Each listed perspective supports one of the two overarching claims (pro or con). Most perspectives clearly align with either the pro or con stance.\",\n    \"criterion_3\": \"There is some overlap in themes (e.g., multiple pro/con items rely on archaeology or scholarly status), leading to partial duplication. Not all perspectives are perfectly distinct in their argument focus.\",\n    \"criterion_4\": \"Core arguments from the gold set (archaeological support, scholarly assessment, historicity relation to history, and counterpoints) are represented, and the summary also includes corroborating or opposing points from available evidence.\",\n    \"criterion_5\": \"Evidence_docs listed accompany each perspective, indicating grounding in sources; no evident fabrications beyond the provided citations.\"\n  }\n}"
+    },
+    {
+      "id": "query_60",
+      "query": "Should Adopted Children Be Involved with Their Birth Families?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two overarching claims shown are directly about whether adopted children should be involved with their birth families (pro and con). They are clearly oppositional and address the query.\",\n    \"criterion_2\": \"Most perspectives clearly support one of the two claims (pro or con). Pro items emphasize integration, history access, identity benefits; con items emphasize risks and negative outcomes. A couple of items could be a touch ambiguous but overall alignment is strong.\",\n    \"criterion_3\": \"There is some overlap among perspectives within the pro side (identity/mental health, integration, extended family), and within the con side (risk, negative outcomes). While largely distinct, a few arguments touch on related themes (identity, well-being), creating partial redundancy.\",\n    \"criterion_4\": \"The summary captures a broad set of core arguments: benefits of involvement (integration, access to history, identity, mental health, relationships) and risks (loss, rejection, negative behaviors). It aligns with gold and adds evidence-like points from the provided list.\",\n    \"criterion_5\": \"All perspectives reference evidence-backed claims from the provided data (e.g., mental health, identity, behavior, integration). There is careful attribution to documents and no evident fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_66",
+      "query": "Which Came First, the Chicken or the Egg?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query (egg first vs chicken first) and are presented as oppositional.\",\n    \"criterion_2\": \"Each perspective supports one of the claims (egg-first perspectives vs chicken-first perspectives) with consistent stance within each perspective.\",\n    \"criterion_3\": \"Perspectives are mostly distinct but a few could be seen as overlapping (e.g., multiple egg-first arguments referencing general evolutionary or biochemical points).\",\n    \"criterion_4\": \"Covers core arguments from the provided content: egg-first through broad evolutionary timing and protein/breed-origin arguments, plus chicken-first reasons; aligns with the gold and Web evidence.\",\n    \"criterion_5\": \"Most perspectives are grounded in cited web/evidence, but some entries cite dubious sources (e.g., social media, unauthenticated pages) which weakens grounding slightly.\"\n  }\n}"
+    },
+    {
+      "id": "query_69",
+      "query": "The Perspective on Studying Abroad",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (benefits/personal growth from studying abroad vs. negative effects) directly address the query about studying abroad and present clear pro/con opposition.\",\n    \"criterion_2\": \"Most perspectives clearly support one of the two claims (growth/supporting positive aspects vs. negative effects). Some entries are generic but align with pro/con distinction. Overall alignment is strong.\",\n    \"criterion_3\": \"Most perspectives offer distinct angles (skills/identity/perspective broadening vs. negative experiences like depression, stress, financial burden). However, a few entries repeat similar themes (e.g., multiple growth-oriented items about skills/identity) which reduces full distinctness.\",\n    \"criterion_4\": \"The summary captures several core arguments from the gold set (cognitive growth, identity, broadening worldview) and introduces additional evidenced points (depression, stress, financial burden). Coverage is partial rather than comprehensive of all arguments.\",\n    \"criterion_5\": \"Most perspectives reference or imply evidence (docs cited or plausible sources). However, several entries provide claims with no explicit linked evidence in the given list (some URLs are present but not all are clearly tied to a specific data point). Overall grounding is present but not uniformly explicit for every item.\"\n  }\n}"
+    },
+    {
+      "id": "query_72",
+      "query": "Is Color Perception a Universal Human Experience?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query (universal experience vs not) and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective supports one of the claims (universal support in the first claim's perspectives; non-universal/supporting evidence for the negation). Most perspectives align with their respective claim.\",\n    \"criterion_3\": \"There is some overlap in themes (biology, culture, language) across perspectives, leading to partial redundancy; not fully distinct.\",\n    \"criterion_4\": \"Covers core arguments: shared basic perception, cultural variation, and color vision deficiencies; but it could more explicitly integrate nuances about universality vs variability beyond these points.\",\n    \"criterion_5\": \"Grounded in cited sources within the provided evidence list, but some implicated sources are general-audience links rather than primary studies; overall acceptable but with potential fragility due to source quality variation.\"\n  }\n}"
+    },
+    {
+      "id": "query_75",
+      "query": "Disney Animated Films – Are they good for children?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 1,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 6
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 1,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The summary directly discusses whether Disney films are good or bad for children, addressing pro and con positions.\",\n    \"criterion_2\": \"Most perspectives align with the pro claim, but one con-styled line (consumerism vs. good for children) appears; overall alignment is mostly consistent but not perfectly matched across all perspectives.\",\n    \"criterion_3\": \"There is some redundancy (consumerism appears in both pro and con sets) reducing distinctness; perspectives are related but not entirely overlapping.\",\n    \"criterion_4\": \"Covers some core arguments (social consciousness, tolerance, consumerism) but misses other key themes present in the gold and web evidence; partial coverage.\",\n    \"criterion_5\": \"Claims reference evidenced lines (e.g., consumerism, stereotypes) but some statements (e.g., general messaging about emotions or acceptance) are not clearly tied to the provided evidence IDs; some grounding is present but not consistently explicit.\"\n  }\n}"
+    },
+    {
+      "id": "query_76",
+      "query": "Sigmund Freud: A timeless genius or overrated?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query with clear pro and con positions.\",\n    \"criterion_2\": \"Each perspective leans toward one of the two claims (pro or con) and maintains consistency within perspectives.\",\n    \"criterion_3\": \"Many perspectives are unique in emphasis (foundation for modern psychology, criticisms of validity, mischaracterization, gender biases). However, several perspectives reiterate similar points about complexity or bias, causing some overlap.\",\n    \"criterion_4\": \"Covers core arguments from the gold set (foundation for psychology vs. cultural/scientific critique) and includes additional nuance (misunderstanding, complexity, gender issues). Some perspectives are verbose repeats rather than distinct arguments.\",\n    \"criterion_5\": \"Each perspective cites or reflects evidence-driven themes present in the provided docs (e.g., legitimacy of contributions, criticisms about validity, biases), with minimal risk of hallucination.\"\n  }\n}"
+    },
+    {
+      "id": "query_80",
+      "query": "The Perspective on Having Kids",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address having kids (liberation vs. financial/burden) and present clear pro/con directions.\",\n    \"criterion_2\": \"Each perspective line supports one of the claims: liberation supports the first claim; stress/financial burden supports the second; a neutral/synthesis line supports overarching nuance.\",\n    \"criterion_3\": \"There is some repetition in stance (all proponents of the liberating view echo similar themes), but the third perspective attempts a general caveat. Overall, they are mostly distinct but with overlapping nuance.\",\n    \"criterion_4\": \"Includes core arguments from the provided arguments (liberation vs. stress/burden; financial security vs burden; variability by circumstance). However, it could further integrate additional evidence themes from the gold set (e.g., resource demands, societal contributions) for fuller coverage.\",\n    \"criterion_5\": \"All perspectives cite web-based sources, aligning claims with evidence; no fabrication detected. Some sources are broad, but none appear fabricated.\"\n  }\n}"
+    },
+    {
+      "id": "query_81",
+      "query": "Is Monogamy Natural?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (monogamy is natural vs not natural) directly address the query and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective is assigned to one of the two claims (pro or con) and remains consistent with that stance across the list, showing alignment with the intended claims.\",\n    \"criterion_3\": \"Most perspectives are distinct (e.g., biological/personal stability, cultural enforcement, jealousy, public/policy implications), but there is minor overlap (e.g., multiple entries reiterating 'not natural' or 'natural' without adding a new angle).\",\n    \"criterion_4\": \"The summary includes a broad set of core arguments from the gold and auxiliary evidence: naturalness in biology, social enforcement, stability for children, jealousy, and diversity of mating systems; it also integrates additional sources that reinforce the two sides.\",\n    \"criterion_5\": \"All perspectives reference cited evidence or clearly attributable sources (docs or credible links provided in the text), minimizing fabrication and maintaining factual grounding.\"\n  }\n}"
+    },
+    {
+      "id": "query_84",
+      "query": "The perspective on divorce",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"Both claims address the broader query on divorce effects (beneficial for children vs devastating for men) and present clear pro/con stances.\",\n    \"criterion_2\": \"Each perspective supports a corresponding claim (children-pro and men-con) with consistent stances, though one child perspective emphasizes positive impact and the other negative.\",\n    \"criterion_3\": \"Perspectives are mostly distinct but both about divorce effects on family/men; they could be more differentiated in the specific arguments to avoid overlap.\",\n    \"criterion_4\": \"Covers core arguments from the provided evidence (impact on children's wellbeing and men's health/suicide risk) but misses deeper exploration in gold summary (e.g., broader child outcomes, parental dynamics).\",\n    \"criterion_5\": \"Grounded in given evidence (1134 for children positive angle; 1103 for negative child/man health) with no evident fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_85",
+      "query": "Do the benefits of crowd-sleuthing outweigh the risks?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims explicitly argue that benefits outweigh risks, directly addressing the query and presenting a pro stance.\",\n    \"criterion_2\": \"Each perspective supports the pro claim, with consistent pro positioning across all lines.\",\n    \"criterion_3\": \"Perspectives largely align but include some overlap in supporting ideas (e.g., contributions to justice) which reduces distinctness.\",\n    \"criterion_4\": \"The summary covers key arguments: contributions to proceedings, delivering justice, citizen detectives as prevention, plus examples about unsolved homicides and cold cases from the evidence set.\",\n    \"criterion_5\": \"All perspectives are grounded in evidence references provided (evidence_docs), with no evident fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_86",
+      "query": "Should ‘Black Lives Matter’ Fight For All Lives?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address whether Black Lives Matter should fight for all lives or not, presenting clear pro and con positions.\",\n    \"criterion_2\": \"Each perspective is anchored to one of the two claims (pro or con) and maintains consistent stance within its text selections.\",\n    \"criterion_3\": \"Most perspectives provide distinct angles (umbrella All Lives Matter, BLM self-focus, not guilt, systemic work, origins, funding/polls). However, some entries reiterate similar points (e.g., not speaking for others and not feeling guilt) which causes partial overlap.\",\n    \"criterion_4\": \"Coverage includes several core arguments from the provided evidence: umbrella framing, internal/organizational work, origins, funding, and public support trends. Some key arguments from the gold set (e.g., privilege concerns, non-undermining of other causes) are less explicitly represented in the evaluated perspectives.\",\n    \"criterion_5\": \"Most perspectives reference or imply sources (evidence_docs) such as organizational statements, histories, and polling, but there are a few claims (e.g., specific interpretations of funding impacts) that are tied directly to sources rather than general claims. Overall, grounding exists but could be tighter.\"\n  }\n}"
+    },
+    {
+      "id": "query_87",
+      "query": "The Perspective on Affirmative Action",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 1,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 6
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":1,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":1,\"criterion_5_factual_grounding\":1},\"explanations\":{\"criterion_1\":\"The claims directly address affirmative action, presenting pro and con positions about addressing inequalities/diversity versus reverse discrimination.\",\"criterion_2\":\"Most perspectives align with the pro- or anti-affirmative-action claims, but several perspectives in the second block mix supportive and critical sentiments, creating some ambiguity about their sole alignment.\",\"criterion_3\":\"There is some redundancy across perspectives (multiple mentions of diversity, discrimination, and implementation flaws), leading to partial overlap rather than fully distinct arguments.\",\"criterion_4\":\"The summary covers core themes (historical inequalities, diversity, reverse discrimination, implementation flaws) but could better integrate unique arguments from the gold and web evidence rather than duplicating sounds of similarity.\",\"criterion_5\":\"Evidence sources are provided for each perspective, but several are generic or secondary sources not clearly tied to the specific statements; some claims appear supported while others risk being under-specified.\"}}"
+    },
+    {
+      "id": "query_88",
+      "query": "Is the British Monarchy a worthy institution or outdated relic?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":2,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":1,\"criterion_5_factual_grounding\":1},\"explanations\":{\"criterion_1\":\"Claims directly address whether monarchy is worthy or outdated, presenting pro and con positions tied to the query.\",\"criterion_2\":\"Most perspectives clearly align with either the pro or the con claim, though a few items could be read as ambiguous in stance.\",\"criterion_3\":\"Several perspectives offer distinct angles (historical role, democracy/constitutional status, tourism, inequality), but there is some overlapping on categories like unity/heritage which reduces distinctness.\",\"criterion_4\":\"Covers multiple core arguments from the gold and added evidence (stability, unity, tradition vs. critique of colonial legacy), but misses deeper synthesis of conflicting evidence in some entries.\",\"criterion_5\":\"Grounding is generally present via provided evidence IDs, but a few items repeat or rely on broad statements without explicit mapping to specific sources in the list.\"}}"
+    },
+    {
+      "id": "query_89",
+      "query": "The Perspective on Botox",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims (botox positive impact vs negative impact) directly address the query about the perspective on Botox and are clearly pro/con.\",\n    \"criterion_2\": \"Each perspective provided clearly supports one of the two claims (pro if positive, anti if negative). Most entries align with the intended stance.\",\n    \"criterion_3\": \"There is some redundancy among pro arguments (health/self-esteem, aesthetic improvement) but most negative arguments cover distinct angles (unrealistic standards, addiction, favoritism, vanity). Overall mostly distinct but with minor overlap.\",\n    \"criterion_4\": \"Covers core arguments from the gold and additional evidence: therapeutic/health benefits, cosmetic/psychological effects, societal implications. Includes novel points like age of starting and beauty standards.\",\n    \"criterion_5\": \"All perspectives are tied to evidence fragments provided (docs 124, 178, 740, 831, 592, 604, plus web link), minimizing fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_91",
+      "query": "Should We Distribute Condoms in High Schools?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":2,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":2,\"criterion_5_factual_grounding\":1},\"explanations\":{\"criterion_1\":\"Both claims directly address whether condoms should be distributed in high schools and present pro and con positions, satisfying oppositional relevance.\",\"criterion_2\":\"Most perspectives clearly align with either pro or con claim (e.g., some pro arguments about prevention and normalizing safe sex; some con arguments about parental rights or mixed messages). A couple of entries are less explicit in stance (e.g., general policy statements) but overall alignment is solid.\",\"criterion_3\":\"There is some variation (prevention, parental rights, normalization, messages). However, several points reiterate similar safety/prevention themes, leading to modest overlap across perspectives.\",\"criterion_4\":\"The summary incorporates core arguments from the gold set (prevention of STDs/pregnancy, normalization of safe sex) and adds several pro-con arguments present in the web evidence (parental rights, mixed messages). This yields strong coverage overall.\",\"criterion_5\":\"Most perspectives cite evidence-like ideas (prevention, pediatric recommendations, parental rights) but several items provide claims without explicit source linkage (evidence_docs include many URLs or vague references). This introduces some concerns about full grounding for every perspective.\"}}"
+    },
+    {
+      "id": "query_92",
+      "query": "The Perspective on Surrogacy",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The claims directly address surrogacy, presenting clearly pro and con positions aligned with the prompt.\",\n    \"criterion_2\": \"Each perspective is oriented toward supporting either the pro or con claim (one pro, one con). Some minor ambiguity arises from the second pro perspective addressing LGBT parenting, but it clearly supports the pro claim.\",\n    \"criterion_3\": \"There is some overlap between the pro perspectives (economic opportunity and enabling diverse families). They are related but not identical; one centers on economics, the other on family-building via surrogacy. Could be more distinct.\",\n    \"criterion_4\": \"Core arguments from the gold set and the provided new evidence are touched (economic opportunity, family creation on the pro side; identity concerns and exploitation on the con side). However, coverage could be broader to include additional pro/con arguments present in the sources.\",\n    \"criterion_5\": \"All provided perspectives reference external links or are grounded in the listed evidence, with no evident fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_96",
+      "query": "Get a Degree or Get A Life? What Should Follow High School?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims in the gold are about 'Get a degree' vs 'Experience/School should be optional' and the summary directly addresses those broader themes with multiple perspectives addressing degree-advancement and alternatives.\",\n    \"criterion_2\": \"Most perspectives clearly align with one of the two asserted claims (degree/pro-life experience vs school-optional/equity and alternatives). Some entries explicitly advocate for degree, others for optional schooling, consistent with the two claims.\",\n    \"criterion_3\": \"There is some variety, but several entries echo similar arguments (degree advocacy or schooling-opposition). Some perspectives are distinct (tuition, optionality, equality, cultural respect), but not all are fully non-overlapping.\",\n    \"criterion_4\": \"Coverage includes several core themes from the provided evidence (degree benefits, optional schooling, cost/equality, access) and additional corroborating ideas from the web evidence; however, it could be more cohesive in synthesizing key arguments.\",\n    \"criterion_5\": \"Most perspectives reference or align with evidenced ideas (degree benefits, tuition, completion programs, online degrees). A few entries rely on generic statements without direct citation, but overall grounded in the supplied evidence.\"\n  }\n}"
+    },
+    {
+      "id": "query_98",
+      "query": "Does the KonMari Method truly transform lives?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query: whether KonMari can transform lives, presenting pro and con positions.\",\n    \"criterion_2\": \"Each perspective aligns with one of the two claims (pro or con) and maintains a consistent stance throughout.\",\n    \"criterion_3\": \"Most perspectives offer distinct angles (impact on space/quality of life; limitations for some; mindfulness; value of objects). However, there is some overlap between “transforms lives” and “lifestyle that recognizes value” which could reduce distinctness slightly.\",\n    \"criterion_4\": \"Covers core arguments: positive transformative potential, realism/limitations, mindfulness/value of objects, and lifestyle framing. Also aligns with additional evidence themes from web sources about persistence of effect and mindset change.\",\n    \"criterion_5\": \"All perspectives reference evidence or align with standard KonMari claims; no explicit fabrication. Some citations are generic web sources, but none appear fabricated within the evaluation context.\"\n  }\n}"
+    },
+    {
+      "id": "query_101",
+      "query": "Is the NFL losing its appeal?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query: whether the NFL is losing its appeal or not, and present opposing stances (losing appeal vs not losing appeal).\",\n    \"criterion_2\": \"Each perspective is anchored to one of the two overarching claims (losing appeal vs not losing appeal). Majority align clearly with pro or con positions.\",\n    \"criterion_3\": \"Most perspectives offer distinct angles (injuries/CTE, ratings, controversies, demographics, adaptation, competition from other sports). However, there is some overlap among those arguing “not losing appeal” and “transition/adaptation,” leading to partial overlap.\",\n    \"criterion_4\": \"Covers core arguments from the provided set: head injuries/CTE concerns, TV ratings, controversies and social issues, demographics and diversity, adaptation/transition, competition from other sports, and perception of a strong brand. Also aligns with the gold and web evidence themes.\",\n    \"criterion_5\": \"Every perspective cites or implies evidence-type references (document ids) in the input, and none appear to be fabrications; though exact documentation linkage is not shown in the plain text, the claims are anchored to the given evidence set.\"\n  }\n}"
+    },
+    {
+      "id": "query_102",
+      "query": "Messi or Ronaldo – who is truly the best?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":2,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":1,\"criterion_5_factual_grounding\":1},\"explanations\":{\"criterion_1\":\"The two claims (Messi is better vs Ronaldo is better) directly address the query and are clearly oppositional.\",\"criterion_2\":\"Each perspective supports one of the two claims (Messi-supporting items align with the Messi claim; Ronaldo-supporting items align with the Ronaldo claim).\",\"criterion_3\":\"There is some redundancy among Messi perspectives (repeated claim about titles/awards) which limits distinctness; ideally each perspective would offer a unique argument.\",\"criterion_4\":\"Core arguments from the gold set are partially represented (team play, awards, UCL/league metrics appear), but coverage is incomplete and some arguments are repetitive or missing nuances from credible sources.\",\"criterion_5\":\"Most perspectives reference credible-sounding claims and URLs, but several entries are repeated and some arguments rely on broad statements without explicit backing from the provided evidence list; overall grounding is present but not flawless.\"}}"
+    },
+    {
+      "id": "query_112",
+      "query": "Magic Johnson vs. Larry Bird – Who is Better?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query (Magic Johnson is better vs. Larry Bird is better) and are explicitly oppositional.\",\n    \"criterion_2\": \"Each perspective clearly supports one of the two claims (pro-Magic vs. pro-Bird) with consistent stance within each perspective.\",\n    \"criterion_3\": \"Most perspectives provide distinct angles (dominance/awards; passing/leadership; Showtime era vs. well-roundedness; stats/accents). However, there is some overlap in themes (dominance and accolades recur across several Magic perspectives), resulting in partial overlap.\",\n    \"criterion_4\": \"The summary covers core arguments including dominance in the 1980s, Showtime impact, leadership, versatility, stats/awards, and defensiveness/clutch facets, aligning with established arguments in the evidence set.\",\n    \"criterion_5\": \"Views are generally grounded in cited sources; however, several perspectives rely on web links without explicit quotes or quantified stats within the summary text, leaving room for potential ambiguity in grounding. No clearly fabricated claims detected, but some assertions are generic without direct citation in-text.\"\n  }\n}"
+    },
+    {
+      "id": "query_114",
+      "query": "Kobe VS LeBron – who is considered better?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query (Kobe is the better scorer vs LeBron is the better team/player), and they are presented as opposing stances.\",\n    \"criterion_2\": \"Most perspectives clearly align with one of the two claims (scoring perspectives align with Kobe or LeBron being better). A few statements about scoring vs team play may blur alignment butOverall alignment is maintained.\",\n    \"criterion_3\": \"Perspectives largely offer distinct angles (scoring vs efficiency vs playmaking vs defense). However, several points repeatedly emphasize passing and team creation, causing some overlap between perspectives about LeBron as a team player, reducing distinctness.\",\n    \"criterion_4\": \"Coverage touches on core themes (scoring figures, efficiency, team impact, defense). However, it omits some nuances from the gold and adds some repetitive points (e.g., multiple mentions of passing) and could better consolidate key arguments from evidence.\",\n    \"criterion_5\": \"Most statements reference numeric or qualitative claims that can be traced to given evidence, but some assertions (e.g., specific percentages or attribution of defense superiority) are inconsistently grounded to distinct citations. Overall moderate factual grounding with some potential redundancy.\"\n  }\n}"
+    },
+    {
+      "id": "query_120",
+      "query": "Throwback – Which is the best NBA draft EVER: 1984 or 1996?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The summary directly asks which draft is best (1984 vs 1996) and the overall claim is about the 1996 draft being the best, which is clearly oppositional to the 1984 claim in the gold reference.\",\n    \"criterion_2\": \"Most perspectives support the claim that 1996 is best (e.g., talent, rings). Some perspectives reiterate similar pro-1996 points, maintaining consistent stance with the main claim.\",\n    \"criterion_3\": \"Several perspectives repeat similar arguments (talent, rings, players), leading to some overlap. They are largely aligned but not all are perfectly distinct in their rationale.\",\n    \"criterion_4\": \"Core arguments from evidence are covered: star talent, rings, and notable players. The summary includes both pro-1996 and some counterpoints (weaker links) from evidence, aligning with core debates.\",\n    \"criterion_5\": \"Grounding is present for most claims (references to players and rings). However, some assertions (e.g., total rings or specific player lists) rely on overlapping citations and could be more explicitly tied to the provided evidence; a couple of claims lack direct, explicit citation.\"\n  }\n}"
+    },
+    {
+      "id": "query_123",
+      "query": "Should ‘Black Lives Matter’ Fight For All Lives?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two overarching claims explicitly address whether BLM should fight for all lives or only Black lives, directly answering the query with pro and con stances.\",\n    \"criterion_2\": \"Perspectives are organized to support either the pro (fight for all lives) or con (not fight for all lives) claim, and the arguments align with their assigned stance.\",\n    \"criterion_3\": \"Most perspectives are distinct in framing (systemic racism focus vs. broader inclusivity), but there is noticeable repetition among some items that recurs in multiple lines, reducing distinctness.\",\n    \"criterion_4\": \"Covers core arguments related to racial focus, injustice, and applicability to all lives; however, it relies heavily on intent and framing rather than introducing entirely new evidence beyond the provided sources, leading to partial coverage.\",\n    \"criterion_5\": \"All perspectives cite provided web evidence, with no explicit fabrication; statements mirror the linked sources and avoid unsupported claims.\"\n  }\n}"
+    },
+    {
+      "id": "query_124",
+      "query": "Should convicted criminals have the right to vote?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The claims directly address whether convicted criminals should have the right to vote and reflect pro and con positions, matching the query.\",\n    \"criterion_2\": \"Each perspective clearly aligns with one of the two main claims (pro or con) and remains consistent throughout the set.\",\n    \"criterion_3\": \"Many perspectives present distinct rationales (citizenship, fairness, democracy, rule of law, rehabilitation, national security). However, there is some overlap in arguments around fairness and equality, resulting in partial distinctness.\",\n    \"criterion_4\": \"The summary captures several core arguments from the provided material (rehabilitation, democracy, equality, unfairness to law-abiding citizens, rule of law). It misses some nuances and a few uniquely emphasized points from the evidence set, limiting completeness.\",\n    \"criterion_5\": \"Most perspectives are grounded in provided evidence (e.g., references to equality, rehabilitation, rule of law). A few lines are general assertions without explicit linked evidence in the excerpt, creating minor grounding gaps.\"\n  }\n}"
+    },
+    {
+      "id": "query_126",
+      "query": "The Perspective on Bill Clinton",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query about Bill Clinton's impact (prosperity/expansion vs. undercutting welfare) and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective set aligns with one of the two claims: pro-prosperity arguments support the first claim; welfare-undercutting arguments support the second. Some entries could be more explicit in labeling stance, but alignment is clear overall.\",\n    \"criterion_3\": \"Most perspectives provide distinct angles (economic growth, re-election milestone, peacetime expansion vs. welfare reduction, poverty/food-stamps implications). However, several welfare perspectives center on welfare reductions and poverty stats with overlapping themes, reducing full distinctness.\",\n    \"criterion_4\": \"The summary covers key arguments from the gold set (prosperity/economy and welfare criticism) and includes corroborating welfare-related evidence points, yielding strong coverage of core arguments.\",\n    \"criterion_5\": \"Evidence is provided for each perspective, but many entries cite general sources (e.g., Wikipedia, VOANews, Politico) rather than the exact documents in the gold set. Some claims (like specific welfare numbers) are plausible from cited sources but not all are explicitly tied to the provided evidence in the perspective list, risking partial grounding.\"\n  }\n}"
+    },
+    {
+      "id": "query_132",
+      "query": "The Perspective on Gerrymandering",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address whether Gerrymandering is a threat or not, i.e., a clear pro/con opposition relevant to the query.\",\n    \"criterion_2\": \"Each perspective line up with one of the two claims (threat vs. not threat) and remains consistent in stance across its bullets.\",\n    \"criterion_3\": \"There is some overlap in arguments (e.g., both sides discuss fairness/representation and political advantage). While distinct angles exist (threat vs. non-threat), there is mild redundancy between items.\",\n    \"criterion_4\": \"The summary covers core arguments related to threat vs. non-threat, including manipulation, fairness, and representational impact, drawing on the provided evidence set and aligning with the gold/web evidence themes.\",\n    \"criterion_5\": \"All perspectives reference evidence items from the given set (e.g., 874, 847, 678, 3412), with no obvious fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_133",
+      "query": "Is China the Next Superpower?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The summary directly asks whether China will become the next superpower and presents pro and con claims, clearly addressing the query.\",\n    \"criterion_2\": \"Most perspectives clearly align with one of the two claims (pro or unlikely to be next superpower). A few lines could be more explicit in tying to the exact claim, but alignment is strong.\",\n    \"criterion_3\": \"Perspectives mostly offer distinct angles (economic strength, resources, financial system, transparency, tech, demographics). However some entries repeat themes (e.g., economic/tech emphasis) which reduces full distinctness.\",\n    \"criterion_4\": \"Covers a broad set of core arguments from the available evidence: growth, resources, financial system, Belt and Road, tech, demographics, trust/credibility, etc., including both supportive and challenging points.\",\n    \"criterion_5\": \"Grounding is generally present with referenced evidence; however some assertions (e.g., specific market dominance, drone market share) are claimed without explicit linkage to the provided evidence set in the summary and could be seen as partially inferred. Overall, most claims are anchored to the supplied docs.\"\n  }\n}"
+    },
+    {
+      "id": "query_134",
+      "query": "The Perspective on the United Nations (UN)",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The prompt’s query is to evaluate the UN perspective; the summary contains clearly pro and con claims about the UN, addressing the query directly.\",\n    \"criterion_2\": \"Pro (positive impact) perspectives align with the pro claim; Con (negative impact) perspectives align with the con claim. Most perspectives are clearly assigned to either side, though a couple of items (e.g., ambassador program) may be marginally less directly tied but still supportive.\",\n    \"criterion_3\": \"Most perspectives offer distinct angles (human rights impact, authority/forum status, ambassadors, development programme, funding concerns). However, there is some overlap between funding/funding-cut criticisms and general inefficacy themes, reducing full distinctness to some extent.\",\n    \"criterion_4\": \"Covers core arguments from gold and additional evidence: effectiveness claims (authority, hunger relief, disarmament) and inefficacy/negative impacts (peacekeepers, selective intervention, funding constraints). Includes several novel items (ambassadors, funding cuts) that augment coverage.\",\n    \"criterion_5\": \"Pro arguments are generally grounded in cited docs (evidence docs 247, 710, 679, UNDP reference). Con arguments reference concrete items (583, 48) and some external links; a few items (e.g., TikTok link) are less robust as sources, introducing mild factual concerns.\"\n  }\n}"
+    },
+    {
+      "id": "query_136",
+      "query": "Was Ronald Reagan The Greatest President Since WWII?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query: whether Reagan was the greatest president since WWII (pro) and whether he was irresponsible/heartless (con). They are clearly oppositional.\",\n    \"criterion_2\": \"Most perspectives clearly align with one of the two claims (pro for the first group, con for the second). A few nuances exist (e.g., one pro perspective mentioning peace through strength alignment with pro), but alignment is strong overall.\",\n    \"criterion_3\": \"Most perspectives provide distinct justifications (rebirth/eight-year peace; conservatism/less government; etc.). However, there is some potential overlap between pro viewpoints (economic recovery vs. Cold War outcomes) which slightly reduces distinctness.\",\n    \"criterion_4\": \"The summary captures core arguments from the gold set (economic recovery, Cold War outcomes, bipartisanship) and includes additional standard arguments from web evidence (concerning deficits, Iran-Contra, invasions). Coverage is broad and representative.\",\n    \"criterion_5\": \"All perspectives cite or imply grounding in reputable sources (Britannica, Hoover, slideshare, Britannica again). The provided evidence URLs support the claims, with no evident fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_137",
+      "query": "Should Puerto Rico become the 51st state?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (statehood support vs. opposition) directly address the query about Puerto Rico becoming the 51st state and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective in the pro claim supports that claim (benefits, rights, autonomy) and each in the con claim supports that claim (debt, costs, cultural/territorial concerns). Overall alignment is strong.\",\n    \"criterion_3\": \"Most perspectives provide distinct angles (economic/finances, autonomy, identity, governance). However, several pro arguments hinge on funding and autonomy, while another reiterates debt/finances; there is some overlap in financial themes, causing partial overlap.\",\n    \"criterion_4\": \"Covers key arguments from the provided evidence: inequality, debt, autonomy, federal funding, economic impact, governance, and cultural identity, reflecting both sides. It includes novel points consistent with the web-evidence framing.\",\n    \"criterion_5\": \"Grounded in the supplied evidence set (debt, pensions, federal funding, autonomy, tax/evasion, identity). No evident fabrications; claims map to the cited docs.\"\n  }\n}"
+    },
+    {
+      "id": "query_139",
+      "query": "Is Israel an Apartheid State?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (Israel is an apartheid state; Israel is not) directly address the query and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective clearly supports one of the two claims (pro or con) and maintains internal consistency (some perspectives explicitly pro, others con).\",\n    \"criterion_3\": \"Most perspectives present distinct arguments (institutional segregation, democracy, religion, Gaza/OPT humanitarian issues). However, there is some potential overlap between claims about democracy and rights for Arab citizens which could be seen as overlapping.\",\n    \"criterion_4\": \"The summary covers core arguments from both sides, including systemic discrimination, rights and democracy, religious freedom, and the Gaza/OPT context, aligning with the gold and web evidence.\",\n    \"criterion_5\": \"Evidence references are present for each perspective, grounding assertions in the provided documents; no fabrications detected.\"\n  }\n}"
+    },
+    {
+      "id": "query_140",
+      "query": "Is it Time To Do Away with the Electoral College?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"Claims directly address the query: do away with electoral college vs not antiqued/untenable. The two labeled claims are oppositional (do away vs not antiqued).\",\n    \"criterion_2\": \"Each perspective supports one of the two claims (pro-do-away vs con-not-antiqued). Majority are aligned, though some redundancy across perspectives exists.\",\n    \"criterion_3\": \"Most perspectives present distinct angles (antiquated/undermine democracy; democracy/voice; political slogans). However, several entries reiterate similar anti-EC sentiment, causing moderate overlap.\",\n    \"criterion_4\": \"Core arguments from the evidence are covered: antiquated/undue weight, democracy/value of popular vote, and general critique of EC. It also includes procedural points about electors and current structure.\",\n    \"criterion_5\": \"Grounding exists for most perspectives (links to articles, polls, official descriptions). A few elements rely on generalized claims without explicit citation in the provided list, leading to minor grounding gaps.\"\n  }\n}"
+    },
+    {
+      "id": "query_141",
+      "query": "Should the US intervene militarily in foreign conflicts?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 2,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 2,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two top-level claims directly address the query (intervene vs not intervene) and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective supports one of the two opposing claims (pro-intervention vs anti-intervention) with consistent stance.\",\n    \"criterion_3\": \"Most perspectives offer distinct rationales (human rights/security, responsibility/protection, history, economic interests) with minimal overlap.\",\n    \"criterion_4\": \"The summary captures several core arguments (moral necessity, security, history of intervention, economic motives) but could more fully reflect counterpoints from the gold/additional web evidence for balanced coverage.\",\n    \"criterion_5\": \"Most perspectives reference or imply evidence-like sources, but several claims rely on generic or non-specific sources (e.g., Quora, generic domains) rather than clearly grounded documents from the provided evidence set; some grounding is present but not uniformly strong.\"\n  }\n}"
+    },
+    {
+      "id": "query_142",
+      "query": "How Similar are the Far-Left and the Far-Right?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 1,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 6
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 1,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two overarching claims directly address the query about similarity vs difference between far-left and far-right and are presented as opposing viewpoints.\",\n    \"criterion_2\": \"Most perspectives align with a claim, but some perspectives in the evaluated text appear to repeat or blur stance (some entries could be read as supporting both or unclear).\",\n    \"criterion_3\": \"There is some redundancy among perspectives (e.g., multiple lines emphasize similarities or differences without clear unique angles). Not all are fully distinct.\",\n    \"criterion_4\": \"The set covers several core arguments (victim mentality, means to promote ideologies, recruitment, psychological traits, differences in rhetoric) but could better segregate which arguments support which claim and avoid repetition.\",\n    \"criterion_5\": \"Evidence sources are provided, but several perspectives rely on non-authoritative sources (e.g., Quora, Reddit) and some claims may be marginally supported; overall grounding is mixed.\"\n  }\n}"
+    },
+    {
+      "id": "query_143",
+      "query": "Stalin – hero or villain?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query (Stalin as hero vs villain) and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective is tied to one of the two claims (hero vs villain) and remains consistent within its set.\",\n    \"criterion_3\": \"There is clear separation between the hero and villain perspectives, but the three villain perspectives share a similar theme (Gulag/killings) which introduces some overlap; nonetheless they are distinct enough in stance.\",\n    \"criterion_4\": \"The summary covers core arguments from both sides: increased living standards/electrification (hero) and coercive repression/forced labor (villain), including Gulag references (villain).\",\n    \"criterion_5\": \"All perspectives cite or align with documented evidence IDs (559, 6 for hero; 291, 429, 13, 1047 for villain) and avoid fabrications.\"\n  }\n}"
+    },
+    {
+      "id": "query_144",
+      "query": "Obama’s Legacy: Mission Accomplished or Mission Impossible?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (Obama’s legacy is a mixed bag vs. Obama’s presidency marked by significant failures) directly address the query about legacy and present a clear pro/con structure.\",\n    \"criterion_2\": \"Each perspective generally supports one of the two claims (positive diversity/economic gains align with the mixed-bag claim; criticisms about Syria, polarization align with the failures claim). Some perspectives reiterate similar ideas rather than strongly anchoring to a single claim.\",\n    \"criterion_3\": \"Perspectives 1, 2, and 5/9 touch on different angles (diversity/economy; Syria/global crises; social justice/equality), but there is notable repetition of themes (controversy/polarization) that slightly reduces distinctness.\",\n    \"criterion_4\": \"Covers core arguments from the gold set (diversity, health/economic gains, opposition/polarization, Syria failure) and introduces balanced elements from additional evidence.\",\n    \"criterion_5\": \"Grounding is generally present (references to diversity, ACA, economy, Syria, polarization), but several items rely on repeated mentions without explicit linkage to the exact evidence IDs; a few claims could be more tightly tied to specific sources provided.\"\n  }\n}"
+    },
+    {
+      "id": "query_145",
+      "query": "Should the First Amendment cover racism and hate speech?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (pro and con) directly address whether First Amendment should cover racism/hate speech and are oppositional.\",\n    \"criterion_2\": \"Most perspectives clearly align with either pro or con positions, though there is some ambiguity in a couple of entries that state generic protection without explicit stance.\",\n    \"criterion_3\": \"Perspectives largely offer different angles, but several pro-arguments reiterate similar framing (free speech protection vs. non-protection) leading to some overlap.\",\n    \"criterion_4\": \"Covers core arguments from the gold/supplemental evidence (pro and con stances; mentions protection vs. limits), but the internal prose sometimes repeats the same point, reducing breadth.\",\n    \"criterion_5\": \"Grounding exists in provided evidence citations, but several entries reference general statements and some appear not clearly tied to specific web/docs listed; minor risk of overgeneralization.\"\n  }\n}"
+    },
+    {
+      "id": "query_155",
+      "query": "Are Banks a force of Good or Evil?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The claims directly address whether banks are a force for good or evil and are clearly opposite (pro vs con).\",\n    \"criterion_2\": \"Each perspective clearly supports one of the two claims (pro or con) and maintains a consistent stance within its set.\",\n    \"criterion_3\": \"Perspectives generally present distinct rationales (opportunity/stability vs. exploitation/inequality), but there is some minor thematic overlap in the pro and con groups regarding stability and impact, causing only partial distinctness.\",\n    \"criterion_4\": \"The summary covers core arguments from both sides: benefits to individuals/economies and potential harms like fees, inequality, and crises, aligning with the available evidence.\",\n    \"criterion_5\": \"All perspectives are anchored to evidence citations provided in the input, with no evident fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_156",
+      "query": "Is Real Estate the Best Investment?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":2,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":2,\"criterion_5_factual_grounding\":2},\"explanations\":{\"criterion_1\":\"The two main claims are clearly about Real Estate as the best investment and its opposite, addressing the query directly in pro/con form.\",\"criterion_2\":\"Each perspective supports one of the two claims (mostly pro-real estate; some perspectives note limitations), alignment is clear.\",\"criterion_3\":\"Most perspectives offer distinct angles (wealth-building, stability/income, inflation hedge, affordability/manageability), but there is some thematic overlap around stability/income reducing distinctness to a single overlap.\",\"criterion_4\":\"Covers key arguments from both the gold summary and web evidence: appreciation, income, inflation hedge, liquidity concerns, diversification considerations; includes additional sources.\",\"criterion_5\":\"All perspectives cite or imply evidence from provided documents (URLs) or commonly referenced sources; no clear hallucinations observed.\"}}"
+    },
+    {
+      "id": "query_159",
+      "query": "Is Home Ownership Still Worthwhile?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query: whether homeownership is worthwhile, presenting pro and con stances.\",\n    \"criterion_2\": \"Each perspective is aligned with one of the two claims (some perspectives clearly pro, some clearly con).\",\n    \"criterion_3\": \"Most perspectives offer distinct angles, but there is some minor thematic overlap (e.g., financial burden vs. community impact) which reduces full distinctness to a 1.\",\n    \"criterion_4\": \"The summary covers a broad set of core arguments from both sides, including security/stability, financial burden, stress, and alternative paths.\",\n    \"criterion_5\": \"Grounding is generally present via provided evidence links, but the evaluation text includes some statements that are not clearly tied to specific listed sources in the snippet (risk of minor ambiguity).\"\n  }\n}"
+    },
+    {
+      "id": "query_161",
+      "query": "Should we Fight or Embrace Illegal Downloads?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"Both claims directly address the query as pro (embrace) and con (fight) of illegal downloads, and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective supports one of the two claims: the embrace side presents affordable access arguments; the fight side cites harms and legal/industry concerns. Most perspectives align with their respective claim.\",\n    \"criterion_3\": \"There is some diversity (pricing/access arguments vs. harms/legality), but several perspectives touch similar themes (economic impact and legality), leading to partial overlap.\",\n    \"criterion_4\": \"Coverage includes common arguments from the gold summary (access via streaming/subscription services) and additional evidence about legal consequences and industry impact, but the set of unique arguments is not exhaustively diverse.\",\n    \"criterion_5\": \"Most perspectives reference or imply evidence (e.g., legal penalties, industry impact) but some assertions (e.g., economic costs to the state or immigration claims) appear without direct clear grounding in the provided evidence list; overall grounded but not uniformly explicit for every item.\"\n  }\n}"
+    },
+    {
+      "id": "query_163",
+      "query": "Does Wall Street embody flawed ethics or economic success?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query by presenting Wall Street as flawed ethically vs. essential/economic force, i.e., a clear pro/con structure.\",\n    \"criterion_2\": \"Each perspective in the two claims supports its respective claim (flawed ethics vs. economic success) with distinct reasoning and aligns with the overall stance of the claim.\",\n    \"criterion_3\": \"There is some overlap in examples (e.g., ethics and economics are linked in critiques) but the two claims present distinct foci (ethics critique vs. economic utility), leaving minor redundancy.\",\n    \"criterion_4\": \"Coverage touches on key arguments (executive pay/bonuses, influence on policy, fees; vs. liquidity, credit provision, investment opportunities). However, the gold and web evidence could yield a broader set of arguments; the summary covers several core points but may omit some nuances.\",\n    \"criterion_5\": \"All perspectives reference evidence-like points (salary figures, bonuses, lobbying spend, fees, liquidity/credit roles). No evident fabrication; grounding is solid though some items (e.g., specific numeric claims) hinge on provided evidence IDs.\"\n  }\n}"
+    },
+    {
+      "id": "query_164",
+      "query": "Internet Trolls: Social Artists or Sadists?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":2,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":1,\"criterion_5_factual_grounding\":1},\"explanations\":{\"criterion_1\":\"The gold-style evaluation presents two clear opposing claims (trolls as sadists/psychopaths vs. not) and the provided summary mirrors this dichotomy, directly addressing the query.\",\"criterion_2\":\"Each perspective in the summary aligns with one of the two claims (three pro-sadists/psychopaths viewpoints and five pro-not-sadists viewpoints). Some entries clearly support the intended claim, enabling straightforward mapping.\",\"criterion_3\":\"There is some overlap in themes (dark traits, antisocial behavior, cyberbullying) across multiple perspectives, leading to partial distinctness. Not all perspectives are entirely unique in supporting different angles.\",\"criterion_4\":\"The summary captures major arguments from the evidence: link between trolling and dark traits, cyberbullying, and antisocial behavior for the pro-sadists side, and deindividuation, alternative explanations for not-sadists side. However, it misses some nuances and does not exhaustively cover all core points from the gold/additional evidence.\",\"criterion_5\":\"Most perspectives reference credible-sounding evidence URLs, but the exact alignment between each text and the specific evidence claims is not always explicit in the snippets. Overall grounding is present but some statements would benefit from tighter tying to cited sources.\"}}"
+    },
+    {
+      "id": "query_167",
+      "query": "Is China the Next Superpower?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two top-level claims directly address the query (China will be the next superpower; China is unlikely to be the next superpower) and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective in the summary aligns with one of the two claims (pro for becoming next superpower; con for unlikely to become one). Most perspectives consistently support their respective claim.\",\n    \"criterion_3\": \"There is some variety in the pro side (economic growth, market size) and con side (resources, financial credibility, global support), but there is minor overlap in themes (economic limits and global reception) which reduces distinctness somewhat.\",\n    \"criterion_4\": \"Argues core points from evidence: market size/growth, population pressures, financial sector concerns, Belt and Road reception, and overall conclusion. Coverage is strong and aligns with the available documents.\",\n    \"criterion_5\": \"Assertions are grounded in provided evidence references (e.g., 876, 872, 992, 328, 1092, etc.). No clear fabrications beyond cited docs; however, some statements summarize general claims that are supported by multiple sources.\"\n  }\n}"
+    },
+    {
+      "id": "query_168",
+      "query": "The Perspective on Fracking",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 7
+      },
+      "error": null,
+      "raw_response": "{\"scores\":{\"criterion_1_claim_relevance\":2,\"criterion_2_perspective_claim_alignment\":2,\"criterion_3_perspective_distinctness\":1,\"criterion_4_coverage_of_core_arguments\":1,\"criterion_5_factual_grounding\":1},\"explanations\":{\"criterion_1\":\"The claims directly address the query about fracking with pro (economic benefits) and con (environmental risks). They are clearly oppositional.\",\"criterion_2\":\"Each perspective supports a pro or con claim (economic benefits vs environmental risks) and maintains clear stance alignment.\",\"criterion_3\":\"There is some overlap in economic arguments (jobs, energy independence, exports) but the environmental set also covers pollutants, methane, earthquakes; however, a couple of economic points could be seen as reiterations, leading to partial distinctness.\",\"criterion_4\":\"Core arguments from the provided summary are represented (economic benefits and environmental risks), but the list could be more exhaustive by integrating more nuanced points (e.g., land use, regulatory aspects) from the evidence.\",\"criterion_5\":\"Most perspectives are grounded in cited evidence, though some entries reference general web sources without direct extraction in the prompt; overall grounding is acceptable with minor potential for drift.\"}}"
+    },
+    {
+      "id": "query_169",
+      "query": "Will Nuclear Power advance or ruin humanity?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query with clear pro and con stances.\",\n    \"criterion_2\": \"Each perspective aligns with one of the claims: pro arguments support advancement; con arguments oppose it.\",\n    \"criterion_3\": \"Pro perspectives largely share the same theme (safety/energy access) but differ in emphasis; con perspectives cover weapons risk, fear, and attack resilience—somewhat distinct but not entirely non-overlapping.\",\n    \"criterion_4\": \"Core arguments are well represented: safety, energy access and non-proliferation for pro; weapons risk, fear, and vulnerability to attack for con.\",\n    \"criterion_5\": \"Evidence links are provided for each perspective, and the claims rely on identifiable sources; however, some titles are generic. Overall grounded in available evidence.\"\n  }\n}"
+    },
+    {
+      "id": "query_171",
+      "query": "Startups: Is it better to be first or second to the market?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims directly address the query (first mover vs fast follower) and present explicit pro/con stances.\",\n    \"criterion_2\": \"Each perspective clearly aligns with one of the two claims (first-mover advantages align with being first; second-mover advantages align with being second).\",\n    \"criterion_3\": \"Perspectives are mostly distinct in reasoning (customer capture/branding vs risk/iteration vs refinement). However, there is some thematic overlap between arguments about refinement and risk which could be seen as slightly repetitive.\",\n    \"criterion_4\": \"The summary captures core arguments from both sides, including advantages of first movers, risks of being first, and benefits of second movers, aligning with the gold and web evidence themes.\",\n    \"criterion_5\": \"All perspectives cite or imply supported evidence from the provided sources (web links) and the gold/added evidence, with no evident fabrications.\"\n  }\n}"
+    },
+    {
+      "id": "query_172",
+      "query": "Is Amazon Good or Bad for the Shopping Industry?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query with clear pro and con stances (Amazon good vs Amazon bad for the shopping industry).\",\n    \"criterion_2\": \"Each perspective supports one of the claims: pro perspectives align with 'Amazon is good', con perspectives align with 'Amazon is bad'.\",\n    \"criterion_3\": \"Most perspectives are distinct (exposure to small retailers, convenience, innovation vs privacy risk, monopoly concerns, impact on small retailers, data use). However, there is slight redundancy between some pro arguments about monopoly/convenience and a con point about market dominance; overall mostly distinct.\",\n    \"criterion_4\": \"Covers the core arguments from the gold set (exposure to small retailers, convenience/fast delivery, innovation; monopoly concerns) and aligns with additional evidence about Whole Foods/market impact; con side covers privacy risk, monopoly risk, impact on small retailers, data use.\",\n    \"criterion_5\": \"All perspectives are tied to the provided evidence (docs 444, 516, 114, 1206 for pro; 844, 1206, 320, 1206 for con) with no evident fabrications.\"\n  }\n}"
+    },
+    {
+      "id": "query_177",
+      "query": "Start Your Startup after School or Get Some Full-Time Experience First?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two claims directly address the query: one favors starting a startup after school or gaining full-time experience first, and the other opposes it. They are clear opposites.\",\n    \"criterion_2\": \"Each perspective in the pro and con sets aligns with its respective claim (pro-proactive startup or pro-experience; con-oppose). Most perspectives clearly support one side.\",\n    \"criterion_3\": \"Most perspectives are distinct in framing (learning opportunity, best approach, avoidance of rut). However, several pro viewpoints reiterate the same core idea (startups provide experience), leading to some redundancy.\",\n    \"criterion_4\": \"The summary covers core arguments present in the gold: learning/opportunity from startup vs financial/back-up planning/steady path. It also incorporates additional evidence-style statements that echo common arguments for each stance.\",\n    \"criterion_5\": \"All perspectives reference or imply evidence (docs, podcasts, articles) and avoid fabrication; no unsupported claims stand out.\"\n  }\n}"
+    },
+    {
+      "id": "query_179",
+      "query": "Should you fly on traditional or low-cost airlines?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two top-level claims directly address the user query by comparing traditional vs low-cost airlines and present oppositional stances (pro and con).\",\n    \"criterion_2\": \"Each perspective in the blocks supports one of the claims: the first block leans pro-low-cost and pro-traditional balance; the second block clearly argues against low-cost (con). Overall alignment is strong.\",\n    \"criterion_3\": \"The two perspectives within the pro-traditional vs pro-low-cost blocks are distinct in focus (price vs service/amenities vs hidden fees/comfort). However, there is some overlap in the arguments about cost vs value, causing mild redundancy.\",\n    \"criterion_4\": \"The summary captures core arguments from the gold and the additional evidence: price differences, service/amenities, hidden fees, and seating/plane size, providing a comprehensive view of the debate.\",\n    \"criterion_5\": \"All perspectives are supported by evidence docs provided (131, 1016, 906, 949), aligning with the claims and avoiding fabrication.\"\n  }\n}"
+    },
+    {
+      "id": "query_180",
+      "query": "The Perspective on Small-Change Investment Apps",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 8
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"Claims directly address the query about small-change investment apps by presenting pro and con positions (accessibility vs restriction).\",\n    \"criterion_2\": \"The perspectives align with the two claims: accessibility/support and restriction/limited choices.\",\n    \"criterion_3\": \"Most perspectives rightly differ (accessibility vs restrictions), but two perspectives about restrictions reiterate similar points, causing slight redundancy.\",\n    \"criterion_4\": \"Covers key arguments from the Gold summary (accessibility, simplicity) and adds the restriction argument from Web evidence; however, some core opposing arguments (e.g., automation aversion) from the Gold are not explicitly represented in the evaluated summary.\",\n    \"criterion_5\": \"Evidence provided in the perspectives is consistent with the included web evidence; no clear fabrication detected.\"\n  }\n}"
+    },
+    {
+      "id": "query_181",
+      "query": "Open vs. Closed Space Work Environments",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 2,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 2,
+        "criterion_5_factual_grounding": 2,
+        "total_score": 9
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 2,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 2,\n    \"criterion_5_factual_grounding\": 2\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The two main claims (Open spaces are beneficial; Closed spaces are beneficial) directly address the query on open vs closed spaces and are clearly oppositional.\",\n    \"criterion_2\": \"Each perspective in the Open-spaces claim set supports a pro-Open stance, and each perspective in the Closed-spaces claim set supports a pro-Closed stance. Alignment is strong overall.\",\n    \"criterion_3\": \"Most perspectives provide distinct angles (collaboration/noise, health/productivity, satisfaction). However, there is some minor overlap between health/productivity and satisfaction ideas, leading to a partial lack of complete distinctness.\",\n    \"criterion_4\": \"The summary captures core arguments from the gold and additional evidence: collaboration vs distractions, privacy vs distractions, health and satisfaction, and productivity impacts are covered across both claims.\",\n    \"criterion_5\": \"All perspectives cite or imply evidence from the provided sources; no evident fabrication. Some URLs indicate credible sources, though actual verification would depend on accessing each link.\"\n  }\n}"
+    },
+    {
+      "id": "query_184",
+      "query": "Do the benefits of crowd-sleuthing outweigh the risks?",
+      "scores": {
+        "criterion_1_claim_relevance": 2,
+        "criterion_2_perspective_claim_alignment": 1,
+        "criterion_3_perspective_distinctness": 1,
+        "criterion_4_coverage_of_core_arguments": 1,
+        "criterion_5_factual_grounding": 1,
+        "total_score": 6
+      },
+      "error": null,
+      "raw_response": "{\n  \"scores\": {\n    \"criterion_1_claim_relevance\": 2,\n    \"criterion_2_perspective_claim_alignment\": 1,\n    \"criterion_3_perspective_distinctness\": 1,\n    \"criterion_4_coverage_of_core_arguments\": 1,\n    \"criterion_5_factual_grounding\": 1\n  },\n  \"explanations\": {\n    \"criterion_1\": \"The main claim directly addresses whether benefits outweigh risks, i.e., pro/con stance.\",\n    \"criterion_2\": \"Most perspectives align with the pro or con stance, but there is some ambiguity in mapping certain lines to a clear position, leading to partial alignment.\",\n    \"criterion_3\": \"Several perspectives cover different angles (contributions, risks, information access, third column in crime prevention), but there is some overlap in reasons (e.g., information utility and public service), causing modest overlap.\",\n    \"criterion_4\": \"The summary includes several core arguments (benefits to proceedings, risk of vengeance/conspiracy, information dissemination, third-column role) but misses some arguments present in the gold and new evidence (e.g., explicit police-handling limitations, standardization issues) for a fuller coverage.\",\n    \"criterion_5\": \"Most perspectives reference or imply evidence (e.g., docs 771, 123, 703, 821, 626, 309) but some statements (e.g., general claims about fossil fuels or social aims) are not clearly tied to provided evidence, introducing minor grounding gaps.\"\n  }\n}"
+    }
+  ]
+}
