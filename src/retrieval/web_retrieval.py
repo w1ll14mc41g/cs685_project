@@ -46,23 +46,37 @@ def search_web(
     k: int = 3,
     max_retries: int = 3,
     initial_backoff: float = 1.0,
+    query_id: str = None,
 ):
     """
     Retrieve top-k web results from Tavily API with exponential backoff.
     Automatically adjusts API max_results parameter if needed to retrieve at least k
     documents. Returns structured output including the actual api_k used.
+    
     Args:
         query (str): Search query
         k (int): Desired number of results
         max_retries (int): Max retry attempts for rate limiting
         initial_backoff (float): Initial backoff in seconds
+        query_id (str, optional): Optional query ID from theperspective dataset.
+                                  If provided, returns full entry structure with id, query, and web_docs.
+    
     Returns:
-        dict: Formatted output with api_k and results
+        dict: If query_id is provided, returns {"id": query_id, "query": query, "web_docs": {...}}
+              Otherwise, returns {"num_docs": ..., "api_k": ..., "results": [...]} (web_docs structure)
     """
     api_key = os.getenv("TAVILY_API_KEY")
     if not api_key:
         logger.error("TAVILY_API_KEY missing.")
-        return _format_output([], None)
+        web_docs = _format_output([], None)
+        # If query_id is provided, return full entry structure matching web files format
+        if query_id is not None:
+            return {
+                "id": query_id,
+                "query": query,
+                "web_docs": web_docs
+            }
+        return web_docs
     # Call Tavily with retry logic
     client = TavilyClient(api_key=api_key)
     api_k = k
@@ -97,7 +111,16 @@ def search_web(
                     # Trim to exactly k (keep most relevant, which are first in list)
                     docs = docs[:k]
                     api_k_used = api_k
-                    return _format_output(docs, api_k_used)
+                    web_docs = _format_output(docs, api_k_used)
+                    
+                    # If query_id is provided, return full entry structure matching web files format
+                    if query_id is not None:
+                        return {
+                            "id": query_id,
+                            "query": query,
+                            "web_docs": web_docs
+                        }
+                    return web_docs
                 # Not enough results, try with higher api_k
                 logger.warning(f"Got {len(docs)} results, need {k}. Retrying with api_k={api_k+1}")
                 break
@@ -124,4 +147,13 @@ def search_web(
     api_k_used = api_k if len(docs) >= k else None
     if len(docs) < k:
         logger.warning(f"Search completed with {len(docs)} results (requested {k})")
-    return _format_output(docs, api_k_used)
+    web_docs = _format_output(docs, api_k_used)
+    
+    # If query_id is provided, return full entry structure matching web files format
+    if query_id is not None:
+        return {
+            "id": query_id,
+            "query": query,
+            "web_docs": web_docs
+        }
+    return web_docs

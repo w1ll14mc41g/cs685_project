@@ -1,5 +1,6 @@
 [
   {
+    "id": "Entertainment_0",
     "query": "Surrealist Memes: Regression or Progression?",
     "web_docs": {
       "num_docs": 20,
@@ -169,6 +170,7 @@
     }
   },
   {
+    "id": "Entertainment_1",
     "query": "Throwback TV: Friends or Seinfeld?",
     "web_docs": {
       "num_docs": 20,
@@ -338,6 +340,7 @@
     }
   },
   {
+    "id": "Entertainment_2",
     "query": "Should Gwyneth Paltrow be admired or criticized?",
     "web_docs": {
       "num_docs": 20,
@@ -507,6 +510,7 @@
     }
   },
   {
+    "id": "Entertainment_3",
     "query": "The Perspective on Reality TV",
     "web_docs": {
       "num_docs": 20,
@@ -676,6 +680,7 @@
     }
   },
   {
+    "id": "Entertainment_4",
     "query": "Should we Fight or Embrace Illegal Downloads?",
     "web_docs": {
       "num_docs": 20,
@@ -845,6 +850,7 @@
     }
   },
   {
+    "id": "Entertainment_5",
     "query": "How Should We View Michael Jackson’s legacy?",
     "web_docs": {
       "num_docs": 20,
@@ -1014,6 +1020,7 @@
     }
   },
   {
+    "id": "Entertainment_6",
     "query": "Disney Animated Films – Are they good for children?",
     "web_docs": {
       "num_docs": 20,
@@ -1183,6 +1190,7 @@
     }
   },
   {
+    "id": "Entertainment_7",
     "query": "(Titanic) Could Jack have been saved?",
     "web_docs": {
       "num_docs": 20,
@@ -1352,6 +1360,7 @@
     }
   },
   {
+    "id": "Entertainment_8",
     "query": "Which is better: Star Wars Vs. Star Trek?",
     "web_docs": {
       "num_docs": 20,
@@ -1521,6 +1530,7 @@
     }
   },
   {
+    "id": "Entertainment_9",
     "query": "Is Binge-Watching a harmless or helpful activity?",
     "web_docs": {
       "num_docs": 20,
@@ -1690,6 +1700,7 @@
     }
   },
   {
+    "id": "Entertainment_10",
     "query": "Is Harley Quinn a Villain or a Tragic Character?",
     "web_docs": {
       "num_docs": 20,
@@ -1859,6 +1870,7 @@
     }
   },
   {
+    "id": "Entertainment_11",
     "query": "Is Kanye West a Great Artist or a Great Marketer?",
     "web_docs": {
       "num_docs": 20,
@@ -2028,6 +2040,7 @@
     }
   },
   {
+    "id": "Entertainment_12",
     "query": "Hamilton – overrated or worth the hype?",
     "web_docs": {
       "num_docs": 20,
@@ -2197,6 +2210,7 @@
     }
   },
   {
+    "id": "Entertainment_13",
     "query": "Is Hollywood too white?",
     "web_docs": {
       "num_docs": 20,
@@ -2366,6 +2380,7 @@
     }
   },
   {
+    "id": "Entertainment_14",
     "query": "Game of Thrones: Epic or Epic Fail?",
     "web_docs": {
       "num_docs": 20,
@@ -2535,6 +2550,7 @@
     }
   },
   {
+    "id": "Entertainment_15",
     "query": "Battle of the Bonds: Daniel Craig or Sean Connery?",
     "web_docs": {
       "num_docs": 20,
@@ -2704,6 +2720,7 @@
     }
   },
   {
+    "id": "Entertainment_16",
     "query": "Should We Cheer for Beauty Pageants or Call for Their Demise?",
     "web_docs": {
       "num_docs": 20,
@@ -2873,6 +2890,7 @@
     }
   },
   {
+    "id": "Entertainment_19",
     "query": "How great is ‘great literature’ if it needs to be studied to be understood?",
     "web_docs": {
       "num_docs": 20,
@@ -3042,6 +3060,7 @@
     }
   },
   {
+    "id": "Entertainment_20",
     "query": "Back to the Future: Musical or Movie. Which is better?",
     "web_docs": {
       "num_docs": 20,
@@ -3211,6 +3230,7 @@
     }
   },
   {
+    "id": "Entertainment_21",
     "query": "Does Nicki Minaj Empower or Objectify women?",
     "web_docs": {
       "num_docs": 20,
@@ -3380,6 +3400,7 @@
     }
   },
   {
+    "id": "Entertainment_23",
     "query": "Moulin Rouge or Mr. Saturday Night: Which Is The Hottest Ticket on Broadway?",
     "web_docs": {
       "num_docs": 20,
@@ -3549,6 +3570,7 @@
     }
   },
   {
+    "id": "Entertainment_24",
     "query": "Should Celebrities Expect Privacy?",
     "web_docs": {
       "num_docs": 20,
@@ -3718,6 +3740,7 @@
     }
   },
   {
+    "id": "Entertainment_25",
     "query": "Do Artists with seriously questionable morals deserve fame?",
     "web_docs": {
       "num_docs": 20,
@@ -3887,6 +3910,7 @@
     }
   },
   {
+    "id": "Entertainment_26",
     "query": "The Perspective on Comic-Con: Is It Worth Attending?",
     "web_docs": {
       "num_docs": 20,
@@ -4056,6 +4080,7 @@
     }
   },
   {
+    "id": "Entertainment_27",
     "query": "Is slam an accepted form of poetry?",
     "web_docs": {
       "num_docs": 20,
@@ -4225,6 +4250,7 @@
     }
   },
   {
+    "id": "Entertainment_28",
     "query": "Does Fox News add balance or propaganda to the media landscape?",
     "web_docs": {
       "num_docs": 20,
@@ -4394,6 +4420,7 @@
     }
   },
   {
+    "id": "living_1",
     "query": "Is a Hotdog a Sandwich?",
     "web_docs": {
       "num_docs": 20,
@@ -4563,6 +4590,7 @@
     }
   },
   {
+    "id": "living_2",
     "query": "Do Standardized Tests Improve Education?",
     "web_docs": {
       "num_docs": 20,
@@ -4732,6 +4760,7 @@
     }
   },
   {
+    "id": "living_3",
     "query": "The Perspective on Time – Is It Linear or Cyclical?",
     "web_docs": {
       "num_docs": 20,
@@ -4901,6 +4930,7 @@
     }
   },
   {
+    "id": "living_4",
     "query": "Milk: Is It Healthy or Harmful to Drink?",
     "web_docs": {
       "num_docs": 20,
@@ -5070,6 +5100,7 @@
     }
   },
   {
+    "id": "living_6",
     "query": "Climate Change – Act now, or question the urgency of the threat?",
     "web_docs": {
       "num_docs": 20,
@@ -5239,6 +5270,7 @@
     }
   },
   {
+    "id": "living_7",
     "query": "The Perspective on the Public Apology",
     "web_docs": {
       "num_docs": 20,
@@ -5408,6 +5440,7 @@
     }
   },
   {
+    "id": "living_9",
     "query": "The Perspective on Political Correctness",
     "web_docs": {
       "num_docs": 20,
@@ -5577,6 +5610,7 @@
     }
   },
   {
+    "id": "living_10",
     "query": "Is America Still Great?",
     "web_docs": {
       "num_docs": 20,
@@ -5746,6 +5780,7 @@
     }
   },
   {
+    "id": "living_11",
     "query": "Can People Change Their Minds?",
     "web_docs": {
       "num_docs": 20,
@@ -5915,6 +5950,7 @@
     }
   },
   {
+    "id": "living_12",
     "query": "Should We Ban Unpaid Internships?",
     "web_docs": {
       "num_docs": 20,
@@ -6084,6 +6120,7 @@
     }
   },
   {
+    "id": "living_13",
     "query": "The Perspective on Abortion: Should it be a viable option?",
     "web_docs": {
       "num_docs": 20,
@@ -6253,6 +6290,7 @@
     }
   },
   {
+    "id": "living_14",
     "query": "The US coronavirus response: Have we done enough or not?",
     "web_docs": {
       "num_docs": 20,
@@ -6422,6 +6460,7 @@
     }
   },
   {
+    "id": "living_15",
     "query": "ADHD Diagnosis:  Too Much or Just Right?",
     "web_docs": {
       "num_docs": 20,
@@ -6591,6 +6630,7 @@
     }
   },
   {
+    "id": "living_17",
     "query": "Is the Body Positive Movement as Positive as it suggests?",
     "web_docs": {
       "num_docs": 20,
@@ -6760,6 +6800,7 @@
     }
   },
   {
+    "id": "living_19",
     "query": "Montessori: An Effective Learning Approach or a Matter of Faith?",
     "web_docs": {
       "num_docs": 20,
@@ -6929,6 +6970,7 @@
     }
   },
   {
+    "id": "living_20",
     "query": "Is Honesty the Best Policy?",
     "web_docs": {
       "num_docs": 20,
@@ -7098,6 +7140,7 @@
     }
   },
   {
+    "id": "living_21",
     "query": "Should we depend on fossil fuels or renewable energy?",
     "web_docs": {
       "num_docs": 20,
@@ -7267,6 +7310,7 @@
     }
   },
   {
+    "id": "living_22",
     "query": "Climate Change – Act now, or question the urgency of the threat?",
     "web_docs": {
       "num_docs": 20,
@@ -7436,6 +7480,7 @@
     }
   },
   {
+    "id": "living_23",
     "query": "Open vs. Closed Space Work Environments",
     "web_docs": {
       "num_docs": 20,
@@ -7605,6 +7650,7 @@
     }
   },
   {
+    "id": "living_25",
     "query": "Comfortably Numb: The Perspective on epidurals",
     "web_docs": {
       "num_docs": 20,
@@ -7774,6 +7820,7 @@
     }
   },
   {
+    "id": "living_27",
     "query": "Breast vs. Bottle: which is better for babies?",
     "web_docs": {
       "num_docs": 20,
@@ -7943,6 +7990,7 @@
     }
   },
   {
+    "id": "living_28",
     "query": "The Perspective on Prom – Antiquated or Timeless?",
     "web_docs": {
       "num_docs": 20,
@@ -8112,6 +8160,7 @@
     }
   },
   {
+    "id": "living_29",
     "query": "Are Vaccines Safe or Risky for Your Kids?",
     "web_docs": {
       "num_docs": 20,
@@ -8281,6 +8330,7 @@
     }
   },
   {
+    "id": "living_31",
     "query": "The Perspective on Circumcision",
     "web_docs": {
       "num_docs": 20,
@@ -8450,6 +8500,7 @@
     }
   },
   {
+    "id": "living_32",
     "query": "The Perspective on Ayahuasca: Is it worth trying?",
     "web_docs": {
       "num_docs": 20,
@@ -8619,6 +8670,7 @@
     }
   },
   {
+    "id": "living_33",
     "query": "The Perspective on Physician-Assisted Suicide",
     "web_docs": {
       "num_docs": 20,
@@ -8788,6 +8840,7 @@
     }
   },
   {
+    "id": "living_34",
     "query": "Should homework be assigned in elementary school?",
     "web_docs": {
       "num_docs": 20,
@@ -8957,6 +9010,7 @@
     }
   },
   {
+    "id": "living_35",
     "query": "Are Government Soda Taxes Fair?",
     "web_docs": {
       "num_docs": 20,
@@ -9126,6 +9180,7 @@
     }
   },
   {
+    "id": "living_36",
     "query": "Is There Life After Death?",
     "web_docs": {
       "num_docs": 20,
@@ -9295,6 +9350,7 @@
     }
   },
   {
+    "id": "living_37",
     "query": "Is Cognitive Behavioral Therapy (CBT) Effective?",
     "web_docs": {
       "num_docs": 20,
@@ -9464,6 +9520,7 @@
     }
   },
   {
+    "id": "living_38",
     "query": "Is Scientology a Religion?",
     "web_docs": {
       "num_docs": 20,
@@ -9633,6 +9690,7 @@
     }
   },
   {
+    "id": "living_39",
     "query": "Should bible stories be regarded as history?",
     "web_docs": {
       "num_docs": 20,
@@ -9802,6 +9860,7 @@
     }
   },
   {
+    "id": "living_40",
     "query": "Should We Cheer for Beauty Pageants or Call for Their Demise?",
     "web_docs": {
       "num_docs": 20,
@@ -9971,6 +10030,7 @@
     }
   },
   {
+    "id": "living_41",
     "query": "Can the Use of Torture Be Justified?",
     "web_docs": {
       "num_docs": 20,
@@ -10140,6 +10200,7 @@
     }
   },
   {
+    "id": "living_42",
     "query": "Should Adopted Children Be Involved with Their Birth Families?",
     "web_docs": {
       "num_docs": 20,
@@ -10309,6 +10370,7 @@
     }
   },
   {
+    "id": "living_43",
     "query": "Does the Bible Lift Women Up or Tear Them Down?",
     "web_docs": {
       "num_docs": 20,
@@ -10478,6 +10540,7 @@
     }
   },
   {
+    "id": "living_44",
     "query": "Should Prostitution be legalized?",
     "web_docs": {
       "num_docs": 20,
@@ -10647,6 +10710,7 @@
     }
   },
   {
+    "id": "living_45",
     "query": "Should You Travel Overseas with Small Kids?",
     "web_docs": {
       "num_docs": 20,
@@ -10816,6 +10880,7 @@
     }
   },
   {
+    "id": "living_46",
     "query": "Is gun control justified or an infringement of our rights?",
     "web_docs": {
       "num_docs": 20,
@@ -10985,6 +11050,7 @@
     }
   },
   {
+    "id": "living_47",
     "query": "Are tattoos a welcome form of self-expression or a cause of regret?",
     "web_docs": {
       "num_docs": 20,
@@ -11154,6 +11220,7 @@
     }
   },
   {
+    "id": "living_48",
     "query": "Which Came First, the Chicken or the Egg?",
     "web_docs": {
       "num_docs": 20,
@@ -11323,6 +11390,7 @@
     }
   },
   {
+    "id": "living_49",
     "query": "Are Antidepressants a Good Solution?",
     "web_docs": {
       "num_docs": 20,
@@ -11492,6 +11560,7 @@
     }
   },
   {
+    "id": "living_50",
     "query": "Does Homework Help or Hinder Learning?",
     "web_docs": {
       "num_docs": 20,
@@ -11661,6 +11730,7 @@
     }
   },
   {
+    "id": "living_51",
     "query": "The Perspective on Studying Abroad",
     "web_docs": {
       "num_docs": 20,
@@ -11830,6 +11900,7 @@
     }
   },
   {
+    "id": "living_52",
     "query": "Should Women Serve in Combat Units?",
     "web_docs": {
       "num_docs": 20,
@@ -11999,6 +12070,7 @@
     }
   },
   {
+    "id": "living_53",
     "query": "Should America adopt paid maternity leave nationwide?",
     "web_docs": {
       "num_docs": 20,
@@ -12168,6 +12240,7 @@
     }
   },
   {
+    "id": "living_55",
     "query": "Is Color Perception a Universal Human Experience?",
     "web_docs": {
       "num_docs": 20,
@@ -12337,6 +12410,7 @@
     }
   },
   {
+    "id": "living_56",
     "query": "The Perspective on Animal Testing",
     "web_docs": {
       "num_docs": 20,
@@ -12506,6 +12580,7 @@
     }
   },
   {
+    "id": "living_57",
     "query": "Is Obesity a Disease?",
     "web_docs": {
       "num_docs": 20,
@@ -12675,6 +12750,7 @@
     }
   },
   {
+    "id": "living_58",
     "query": "Disney Animated Films – Are they good for children?",
     "web_docs": {
       "num_docs": 20,
@@ -12844,6 +12920,7 @@
     }
   },
   {
+    "id": "living_59",
     "query": "Sigmund Freud: A timeless genius or overrated?",
     "web_docs": {
       "num_docs": 20,
@@ -13013,6 +13090,7 @@
     }
   },
   {
+    "id": "living_60",
     "query": "Should Holocaust Education in Schools Be Mandatory?",
     "web_docs": {
       "num_docs": 20,
@@ -13182,6 +13260,7 @@
     }
   },
   {
+    "id": "living_63",
     "query": "Redshirting: Should Parents Delay Kindergarten for a Year?",
     "web_docs": {
       "num_docs": 20,
@@ -13351,6 +13430,7 @@
     }
   },
   {
+    "id": "living_64",
     "query": "Is There Life Outside Earth?",
     "web_docs": {
       "num_docs": 20,
@@ -13520,6 +13600,7 @@
     }
   },
   {
+    "id": "living_65",
     "query": "The Perspective on Having Kids",
     "web_docs": {
       "num_docs": 20,
@@ -13689,6 +13770,7 @@
     }
   },
   {
+    "id": "living_66",
     "query": "Is Monogamy Natural?",
     "web_docs": {
       "num_docs": 20,
@@ -13858,6 +13940,7 @@
     }
   },
   {
+    "id": "living_67",
     "query": "Service Trips Abroad: Harmful or Helpful?",
     "web_docs": {
       "num_docs": 20,
@@ -14027,6 +14110,7 @@
     }
   },
   {
+    "id": "living_68",
     "query": "Are Humans Inherently Violent?",
     "web_docs": {
       "num_docs": 20,
@@ -14196,6 +14280,7 @@
     }
   },
   {
+    "id": "living_69",
     "query": "The perspective on divorce",
     "web_docs": {
       "num_docs": 20,
@@ -14365,6 +14450,7 @@
     }
   },
   {
+    "id": "living_70",
     "query": "Do the benefits of crowd-sleuthing outweigh the risks?",
     "web_docs": {
       "num_docs": 20,
@@ -14534,6 +14620,7 @@
     }
   },
   {
+    "id": "living_73",
     "query": "Should ‘Black Lives Matter’ Fight For All Lives?",
     "web_docs": {
       "num_docs": 20,
@@ -14703,6 +14790,7 @@
     }
   },
   {
+    "id": "living_74",
     "query": "The Perspective on Affirmative Action",
     "web_docs": {
       "num_docs": 20,
@@ -14872,6 +14960,7 @@
     }
   },
   {
+    "id": "living_75",
     "query": "Is the British Monarchy a worthy institution or outdated relic?",
     "web_docs": {
       "num_docs": 20,
@@ -15041,6 +15130,7 @@
     }
   },
   {
+    "id": "living_76",
     "query": "The Perspective on Botox",
     "web_docs": {
       "num_docs": 20,
@@ -15210,6 +15300,7 @@
     }
   },
   {
+    "id": "living_78",
     "query": "Is it okay to lightly drink with your teenage kid(s)?",
     "web_docs": {
       "num_docs": 20,
@@ -15379,6 +15470,7 @@
     }
   },
   {
+    "id": "living_80",
     "query": "Should We Distribute Condoms in High Schools?",
     "web_docs": {
       "num_docs": 20,
@@ -15548,6 +15640,7 @@
     }
   },
   {
+    "id": "living_82",
     "query": "The Perspective on Surrogacy",
     "web_docs": {
       "num_docs": 20,
@@ -15717,6 +15810,7 @@
     }
   },
   {
+    "id": "living_83",
     "query": "Cats or Dogs: Who Makes a Better Companion?",
     "web_docs": {
       "num_docs": 20,
@@ -15886,6 +15980,7 @@
     }
   },
   {
+    "id": "living_84",
     "query": "Does Nicki Minaj Empower or Objectify women?",
     "web_docs": {
       "num_docs": 20,
@@ -16055,6 +16150,7 @@
     }
   },
   {
+    "id": "living_85",
     "query": "Should we allow smartphones in school?",
     "web_docs": {
       "num_docs": 20,
@@ -16224,6 +16320,7 @@
     }
   },
   {
+    "id": "living_86",
     "query": "Get a Degree or Get A Life? What Should Follow High School?",
     "web_docs": {
       "num_docs": 20,
@@ -16393,6 +16490,7 @@
     }
   },
   {
+    "id": "living_87",
     "query": "Should We Ban the Burqa?",
     "web_docs": {
       "num_docs": 20,
@@ -16562,6 +16660,7 @@
     }
   },
   {
+    "id": "living_88",
     "query": "Does the KonMari Method truly transform lives?",
     "web_docs": {
       "num_docs": 20,
@@ -16731,6 +16830,7 @@
     }
   },
   {
+    "id": "living_89",
     "query": "Should We Legalize Marijuana?",
     "web_docs": {
       "num_docs": 20,
@@ -16900,6 +17000,7 @@
     }
   },
   {
+    "id": "sports_0",
     "query": "Red Auerbach or Phil Jackson:  Who’s the best NBA coach ever?",
     "web_docs": {
       "num_docs": 20,
@@ -17069,6 +17170,7 @@
     }
   },
   {
+    "id": "sports_1",
     "query": "Is the NFL losing its appeal?",
     "web_docs": {
       "num_docs": 20,
@@ -17238,6 +17340,7 @@
     }
   },
   {
+    "id": "sports_2",
     "query": "Messi or Ronaldo – who is truly the best?",
     "web_docs": {
       "num_docs": 20,
@@ -17407,6 +17510,7 @@
     }
   },
   {
+    "id": "sports_4",
     "query": "Who is the NFL’s biggest draft bust?",
     "web_docs": {
       "num_docs": 20,
@@ -17576,6 +17680,7 @@
     }
   },
   {
+    "id": "sports_5",
     "query": "Are Basketball Players the Best Athletes?",
     "web_docs": {
       "num_docs": 20,
@@ -17745,6 +17850,7 @@
     }
   },
   {
+    "id": "sports_6",
     "query": "LeBron James Vs. Michael Jordan: Who’s the greatest of all time?",
     "web_docs": {
       "num_docs": 20,
@@ -17914,6 +18020,7 @@
     }
   },
   {
+    "id": "sports_7",
     "query": "Let’s watch it again: Should instant replays be used in sports?",
     "web_docs": {
       "num_docs": 20,
@@ -18083,6 +18190,7 @@
     }
   },
   {
+    "id": "sports_8",
     "query": "Do Professional Athletes Deserve Their Inflated Salaries?",
     "web_docs": {
       "num_docs": 20,
@@ -18252,6 +18360,7 @@
     }
   },
   {
+    "id": "sports_9",
     "query": "The Perspective on Arsène Wenger",
     "web_docs": {
       "num_docs": 20,
@@ -18421,6 +18530,7 @@
     }
   },
   {
+    "id": "sports_10",
     "query": "Is Roger Federer the best tennis player of all time?",
     "web_docs": {
       "num_docs": 20,
@@ -18590,6 +18700,7 @@
     }
   },
   {
+    "id": "sports_12",
     "query": "Should College Athletes Get Paid?",
     "web_docs": {
       "num_docs": 20,
@@ -18759,6 +18870,7 @@
     }
   },
   {
+    "id": "sports_13",
     "query": "Is MMA too dangerous?",
     "web_docs": {
       "num_docs": 20,
@@ -18928,6 +19040,7 @@
     }
   },
   {
+    "id": "sports_14",
     "query": "Magic Johnson vs. Larry Bird – Who is Better?",
     "web_docs": {
       "num_docs": 20,
@@ -19097,6 +19210,7 @@
     }
   },
   {
+    "id": "sports_15",
     "query": "Muhammad Ali – He Was Great, but Was He the Greatest?",
     "web_docs": {
       "num_docs": 20,
@@ -19266,6 +19380,7 @@
     }
   },
   {
+    "id": "sports_18",
     "query": "Kobe VS LeBron – who is considered better?",
     "web_docs": {
       "num_docs": 20,
@@ -19435,6 +19550,7 @@
     }
   },
   {
+    "id": "sports_21",
     "query": "Are the 1991 Washington Redskins the Best NFL Team Ever?",
     "web_docs": {
       "num_docs": 20,
@@ -19604,6 +19720,7 @@
     }
   },
   {
+    "id": "sports_23",
     "query": "Does defense win football championships?",
     "web_docs": {
       "num_docs": 20,
@@ -19773,6 +19890,7 @@
     }
   },
   {
+    "id": "sports_24",
     "query": "Is Hall of Famer Derek Jeter the best shortstop of all time?",
     "web_docs": {
       "num_docs": 20,
@@ -19942,6 +20060,7 @@
     }
   },
   {
+    "id": "sports_25",
     "query": "Can Soccer be the next big American sport?",
     "web_docs": {
       "num_docs": 20,
@@ -20111,6 +20230,7 @@
     }
   },
   {
+    "id": "sports_28",
     "query": "NASCAR or Formula 1 – Which is the prime racing competition?",
     "web_docs": {
       "num_docs": 20,
@@ -20280,6 +20400,7 @@
     }
   },
   {
+    "id": "sports_29",
     "query": "Throwback – Which is the best NBA draft EVER: 1984 or 1996?",
     "web_docs": {
       "num_docs": 20,
@@ -20449,6 +20570,7 @@
     }
   },
   {
+    "id": "politics_1",
     "query": "The Perspective on Single-Payer Health Care",
     "web_docs": {
       "num_docs": 20,
@@ -20618,6 +20740,7 @@
     }
   },
   {
+    "id": "politics_3",
     "query": "Is the Death Penalty Justified or Should It Be Abolished?",
     "web_docs": {
       "num_docs": 20,
@@ -20787,6 +20910,7 @@
     }
   },
   {
+    "id": "politics_4",
     "query": "Should ‘Black Lives Matter’ Fight For All Lives?",
     "web_docs": {
       "num_docs": 20,
@@ -20956,6 +21080,7 @@
     }
   },
   {
+    "id": "politics_5",
     "query": "Should convicted criminals have the right to vote?",
     "web_docs": {
       "num_docs": 20,
@@ -21125,6 +21250,7 @@
     }
   },
   {
+    "id": "politics_6",
     "query": "Should Christopher Columbus be honored or renounced?",
     "web_docs": {
       "num_docs": 20,
@@ -21294,6 +21420,7 @@
     }
   },
   {
+    "id": "politics_7",
     "query": "The Perspective on Bill Clinton",
     "web_docs": {
       "num_docs": 20,
@@ -21463,6 +21590,7 @@
     }
   },
   {
+    "id": "politics_9",
     "query": "Did the Original NAFTA hurt or help America?",
     "web_docs": {
       "num_docs": 20,
@@ -21632,6 +21760,7 @@
     }
   },
   {
+    "id": "politics_10",
     "query": "The bombings of Hiroshima and Nagasaki: plain evil or a necessary evil?",
     "web_docs": {
       "num_docs": 20,
@@ -21801,6 +21930,7 @@
     }
   },
   {
+    "id": "politics_13",
     "query": "Edward Snowden – Hero or Traitor?",
     "web_docs": {
       "num_docs": 20,
@@ -21970,6 +22100,7 @@
     }
   },
   {
+    "id": "politics_14",
     "query": "The Perspective on Political Correctness",
     "web_docs": {
       "num_docs": 20,
@@ -22139,6 +22270,7 @@
     }
   },
   {
+    "id": "politics_15",
     "query": "Social Welfare: Do its advantages outweigh its disadvantages?",
     "web_docs": {
       "num_docs": 20,
@@ -22308,6 +22440,7 @@
     }
   },
   {
+    "id": "politics_16",
     "query": "The Perspective on Gerrymandering",
     "web_docs": {
       "num_docs": 20,
@@ -22477,6 +22610,7 @@
     }
   },
   {
+    "id": "politics_18",
     "query": "Is China the Next Superpower?",
     "web_docs": {
       "num_docs": 20,
@@ -22646,6 +22780,7 @@
     }
   },
   {
+    "id": "politics_19",
     "query": "The Perspective on the United Nations (UN)",
     "web_docs": {
       "num_docs": 20,
@@ -22815,6 +22950,7 @@
     }
   },
   {
+    "id": "politics_20",
     "query": "Did the Arab Spring Make Things Worse?",
     "web_docs": {
       "num_docs": 20,
@@ -22984,6 +23120,7 @@
     }
   },
   {
+    "id": "politics_21",
     "query": "Was Ronald Reagan The Greatest President Since WWII?",
     "web_docs": {
       "num_docs": 20,
@@ -23153,6 +23290,7 @@
     }
   },
   {
+    "id": "politics_22",
     "query": "Should Puerto Rico become the 51st state?",
     "web_docs": {
       "num_docs": 20,
@@ -23322,6 +23460,7 @@
     }
   },
   {
+    "id": "politics_23",
     "query": "Is the EU better off divided or together?",
     "web_docs": {
       "num_docs": 20,
@@ -23491,6 +23630,7 @@
     }
   },
   {
+    "id": "politics_24",
     "query": "Is Israel an Apartheid State?",
     "web_docs": {
       "num_docs": 20,
@@ -23660,6 +23800,7 @@
     }
   },
   {
+    "id": "politics_25",
     "query": "Is it Time To Do Away with the Electoral College?",
     "web_docs": {
       "num_docs": 20,
@@ -23829,6 +23970,7 @@
     }
   },
   {
+    "id": "politics_27",
     "query": "Should the US intervene militarily in foreign conflicts?",
     "web_docs": {
       "num_docs": 20,
@@ -23998,6 +24140,7 @@
     }
   },
   {
+    "id": "politics_28",
     "query": "How Similar are the Far-Left and the Far-Right?",
     "web_docs": {
       "num_docs": 20,
@@ -24167,6 +24310,7 @@
     }
   },
   {
+    "id": "politic s_31",
     "query": "Stalin – hero or villain?",
     "web_docs": {
       "num_docs": 20,
@@ -24336,6 +24480,7 @@
     }
   },
   {
+    "id": "politics_32",
     "query": "Obama’s Legacy: Mission Accomplished or Mission Impossible?",
     "web_docs": {
       "num_docs": 20,
@@ -24505,6 +24650,7 @@
     }
   },
   {
+    "id": "politics_33",
     "query": "Should the First Amendment cover racism and hate speech?",
     "web_docs": {
       "num_docs": 20,
@@ -24674,6 +24820,7 @@
     }
   },
   {
+    "id": "politics_34",
     "query": "Do Protests work ?",
     "web_docs": {
       "num_docs": 20,
@@ -24843,6 +24990,7 @@
     }
   },
   {
+    "id": "politics_36",
     "query": "The Perspective on Drone Strikes",
     "web_docs": {
       "num_docs": 20,
@@ -25012,6 +25160,7 @@
     }
   },
   {
+    "id": "politics_37",
     "query": "The Perspective on Putin",
     "web_docs": {
       "num_docs": 20,
@@ -25181,6 +25330,7 @@
     }
   },
   {
+    "id": "businessandtechnology_0",
     "query": "The Perspective on Alan Greenspan",
     "web_docs": {
       "num_docs": 20,
@@ -25350,6 +25500,7 @@
     }
   },
   {
+    "id": "businessandtechnology_1",
     "query": "Is Working from Home All It’s Cracked Up To Be?",
     "web_docs": {
       "num_docs": 20,
@@ -25519,6 +25670,7 @@
     }
   },
   {
+    "id": "businessandtechnology_2",
     "query": "Is There Life Outside Earth?",
     "web_docs": {
       "num_docs": 20,
@@ -25688,6 +25840,7 @@
     }
   },
   {
+    "id": "businessandtechnology_3",
     "query": "Should we invest in Bitcoin or stay away from it?",
     "web_docs": {
       "num_docs": 20,
@@ -25857,6 +26010,7 @@
     }
   },
   {
+    "id": "businessandtechnology_4",
     "query": "Did the Original NAFTA hurt or help America?",
     "web_docs": {
       "num_docs": 20,
@@ -26026,6 +26180,7 @@
     }
   },
   {
+    "id": "businessandtechnology_5",
     "query": "Do Unions bring positive change or create more harm than good?",
     "web_docs": {
       "num_docs": 20,
@@ -26195,6 +26350,7 @@
     }
   },
   {
+    "id": "businessandtechnology_6",
     "query": "Are Banks a force of Good or Evil?",
     "web_docs": {
       "num_docs": 20,
@@ -26364,6 +26520,7 @@
     }
   },
   {
+    "id": "businessandtechnology_7",
     "query": "Is Real Estate the Best Investment?",
     "web_docs": {
       "num_docs": 20,
@@ -26533,6 +26690,7 @@
     }
   },
   {
+    "id": "businessandtechnology_8",
     "query": "IOS or Android – Which Smartphone Is Better?",
     "web_docs": {
       "num_docs": 20,
@@ -26702,6 +26860,7 @@
     }
   },
   {
+    "id": "businessandtechnology_9",
     "query": "Should we Raise the Minimum Wage?",
     "web_docs": {
       "num_docs": 20,
@@ -26871,6 +27030,7 @@
     }
   },
   {
+    "id": "businessandtechnology_10",
     "query": "Is Home Ownership Still Worthwhile?",
     "web_docs": {
       "num_docs": 20,
@@ -27040,6 +27200,7 @@
     }
   },
   {
+    "id": "businessandtechnology_11",
     "query": "Battle of the consoles : Xbox vs. PlayStation",
     "web_docs": {
       "num_docs": 20,
@@ -27209,6 +27370,7 @@
     }
   },
   {
+    "id": "businessandtechnology_12",
     "query": "Should we Fight or Embrace Illegal Downloads?",
     "web_docs": {
       "num_docs": 20,
@@ -27378,6 +27540,7 @@
     }
   },
   {
+    "id": "businessandtechnology_13",
     "query": "The Perspective on Elon Musk",
     "web_docs": {
       "num_docs": 20,
@@ -27547,6 +27710,7 @@
     }
   },
   {
+    "id": "businessandtechnology_16",
     "query": "Does Wall Street embody flawed ethics or economic success?",
     "web_docs": {
       "num_docs": 20,
@@ -27716,6 +27880,7 @@
     }
   },
   {
+    "id": "businessandtechnology_17",
     "query": "Internet Trolls: Social Artists or Sadists?",
     "web_docs": {
       "num_docs": 20,
@@ -27885,6 +28050,7 @@
     }
   },
   {
+    "id": "businessandtechnology_18",
     "query": "The Perspective on Bill Gates",
     "web_docs": {
       "num_docs": 20,
@@ -28054,6 +28220,7 @@
     }
   },
   {
+    "id": "businessandtechnology_20",
     "query": "Is Twitter a life-enhancing or life-disabling tool?",
     "web_docs": {
       "num_docs": 20,
@@ -28223,6 +28390,7 @@
     }
   },
   {
+    "id": "businessandtechnology_21",
     "query": "Is China the Next Superpower?",
     "web_docs": {
       "num_docs": 20,
@@ -28392,6 +28560,7 @@
     }
   },
   {
+    "id": "businessandtechnology_23",
     "query": "The Perspective on Fracking",
     "web_docs": {
       "num_docs": 20,
@@ -28561,6 +28730,7 @@
     }
   },
   {
+    "id": "businessandtechnology_24",
     "query": "Will Nuclear Power advance or ruin humanity?",
     "web_docs": {
       "num_docs": 20,
@@ -28730,6 +28900,7 @@
     }
   },
   {
+    "id": "businessandtechnology_25",
     "query": "Is the EU better off divided or together?",
     "web_docs": {
       "num_docs": 20,
@@ -28899,6 +29070,7 @@
     }
   },
   {
+    "id": "businessandtechnology_26",
     "query": "Startups: Is it better to be first or second to the market?",
     "web_docs": {
       "num_docs": 20,
@@ -29068,6 +29240,7 @@
     }
   },
   {
+    "id": "businessandtechnology_27",
     "query": "Is Amazon Good or Bad for the Shopping Industry?",
     "web_docs": {
       "num_docs": 20,
@@ -29237,6 +29410,7 @@
     }
   },
   {
+    "id": "businessandtechnology_28",
     "query": "THE PERSPECTIVE ON DIGITAL MARKETING",
     "web_docs": {
       "num_docs": 20,
@@ -29406,6 +29580,7 @@
     }
   },
   {
+    "id": "businessandtechnology_29",
     "query": "The Perspective on Google: is it too powerful?",
     "web_docs": {
       "num_docs": 20,
@@ -29575,6 +29750,7 @@
     }
   },
   {
+    "id": "businessandtechnology_30",
     "query": "Should we raise taxes on the rich?",
     "web_docs": {
       "num_docs": 20,
@@ -29744,6 +29920,7 @@
     }
   },
   {
+    "id": "businessandtechnology_31",
     "query": "Will virtual reality ever take off?",
     "web_docs": {
       "num_docs": 20,
@@ -29913,6 +30090,7 @@
     }
   },
   {
+    "id": "businessandtechnology_32",
     "query": "Start Your Startup after School or Get Some Full-Time Experience First?",
     "web_docs": {
       "num_docs": 20,
@@ -30082,6 +30260,7 @@
     }
   },
   {
+    "id": "businessandtechnology_34",
     "query": "The Perspective on Big Data",
     "web_docs": {
       "num_docs": 20,
@@ -30251,6 +30430,7 @@
     }
   },
   {
+    "id": "businessandtechnology_35",
     "query": "Should you fly on traditional or low-cost airlines?",
     "web_docs": {
       "num_docs": 20,
@@ -30420,6 +30600,7 @@
     }
   },
   {
+    "id": "businessandtechnology_36",
     "query": "The Perspective on Small-Change Investment Apps",
     "web_docs": {
       "num_docs": 20,
@@ -30589,6 +30770,7 @@
     }
   },
   {
+    "id": "businessandtechnology_37",
     "query": "Open vs. Closed Space Work Environments",
     "web_docs": {
       "num_docs": 20,
@@ -30758,6 +30940,7 @@
     }
   },
   {
+    "id": "businessandtechnology_38",
     "query": "Are Smart Homes a Smart Idea?",
     "web_docs": {
       "num_docs": 20,
@@ -30927,6 +31110,7 @@
     }
   },
   {
+    "id": "businessandtechnology_40",
     "query": "Is E-Commerce Pushing Us Forward or Holding Us Back?",
     "web_docs": {
       "num_docs": 20,
@@ -31096,6 +31280,7 @@
     }
   },
   {
+    "id": "businessandtechnology_41",
     "query": "Do the benefits of crowd-sleuthing outweigh the risks?",
     "web_docs": {
       "num_docs": 20,
