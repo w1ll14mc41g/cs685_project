@@ -136,11 +136,15 @@ See `src/retrieval/README.md` for detailed usage.
 - **Relevance Checker**: GPT-5-Nano classifies web documents as relevant (R) or not relevant (NR)
 - **Valid Query Finder**: Identifies queries with valid summaries for evaluation
 
+See `src/validation/README.md` for detailed usage.
+
 ### Summarization (`src/summarization/`)
 
 - **LLM Summary**: Generates structured JSON summaries with claims, perspectives, and document citations
 - **Merged Summary**: Handles mixed offline (integer IDs) and web (URL string IDs) document formats
 - **Merge Logic**: Combines offline and web documents into unified corpus
+
+See `src/summarization/README.md` for detailed usage.
 
 ### Evaluation (`src/evaluation/`)
 
@@ -155,6 +159,14 @@ See `src/retrieval/README.md` for detailed usage.
 
 See `src/evaluation/README.md` for detailed evaluation procedures.
 
+### Utils (`src/utils/`)
+
+- **Dataset Loading**: Functions for loading ThePerspective and PerspectrumX datasets
+- **Dataset Metrics**: Computes basic dataset statistics
+- **Human Evaluation**: Generates HTML context files for human evaluation
+
+See `src/utils/README.md` for detailed usage.
+
 ## Dataset
 
 This project uses **ThePerspective** subset of the PerSphere dataset:
@@ -167,6 +179,8 @@ Dataset files:
 - `data/theperspective/data.jsonl` - Query, claims, and perspectives
 - `data/theperspective/doc_new.jsonl` - Evidence documents
 
+See `data/README.md` for detailed information about dataset formats, intermediate files, and data flow.
+
 ## Results
 
 Key findings from the research:
@@ -176,6 +190,8 @@ Key findings from the research:
 - **Summary Quality**: Merged summaries score 7.937/10 vs. 7.770/10 for offline-only (k=10)
 
 See `final-report.tex` Section 6 (Results) for complete quantitative analysis with 95% confidence intervals.
+
+See `results/README.md` for detailed information about results directory structure, file formats, and how to interpret evaluation outputs.
 
 ## Command-Line Options
 
@@ -206,21 +222,32 @@ Summaries are saved as JSON with the following structure:
 {
   "id": "query_0",
   "query": "Should phones be banned in schools?",
-  "summary": {
-    "claim_1": {
+  "summary": [
+    {
       "claim": "Schools should ban phones",
       "perspectives": [
-        {"perspective": "...", "doc_ids": [1, 5]},
+        {
+          "text": "One-sentence perspective summary",
+          "evidence_docs": [1, 5]
+        },
         ...
       ]
     },
-    "claim_2": {
+    {
       "claim": "Schools should allow phones",
-      "perspectives": [...]
+      "perspectives": [
+        {
+          "text": "One-sentence perspective summary",
+          "evidence_docs": [2, 8]
+        },
+        ...
+      ]
     }
-  }
+  ]
 }
 ```
+
+**Note**: For merged summaries, `evidence_docs` may contain mixed types (integers for offline docs, URL strings for web docs). For offline-only summaries, `evidence_docs` contains only integer IDs.
 
 ### Evaluation Output
 
